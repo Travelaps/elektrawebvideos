@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ElektraWeb Kurs</title>
+    <meta charset="UTF8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/custom.css" />
+  </head>
+  <body>
+    <div class="Area">
+
+      <div class="searhInput">
+        <span class="searchIcon svgSize"></span>
+        <input type="text" placeholder="Search" id="search" class="search">
+      </div>
+
+      <div class="searchArea" id="searchArea" style="padding: 10px 16px;margin-bottom: 15px;">
+      <ul id="searchList"></ul>
+    </div>
+
+    <h2>Kurs içeriği</h2>
+
+      <div class="courseInfo">
+        <span id="courseInfo"></span>
+        <span id="colapseAllHide" onclick="colapseAllHide(this);" class="colapseAll">Tüm bölümleri daralt</span>
+        <span style="display: none;" id="colapseAllExpand" onclick="colapseAllExpand(this);" class="colapseAll">Tüm bölümleri genişlet</span>
+
+      </div>
+      <div id="videoContent">
+        
+
+      </div>
+    </div>
+
+
+    <div id="videoPlugin" class="videoPlugin">
+      <span onclick="closeVideo();" id="closeVideo">x</span>
+      <div id="videoPlay" class="videoPlay">
+        asas
+      </div>
+    </div>
+
+
+
+  </body>
+
+  <script src="assets/custom.js"></script>
+</html>

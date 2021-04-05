@@ -1,0 +1,518 @@
+[
+  {
+    "videoGrup": "Özet",
+    "videos": [
+      {
+        "videoName": "ElektraWeb'i neden tercih etmelisiniz?",
+        "videoDescription": "ElektraWeb'i neden tercih etmelisiniz?",
+        "youtubeVideoID": "tyO1vqtHKBc",
+        "videoTime": "03:54",
+        "videoIntTime": 3.54
+      },
+      {
+        "videoName": "ElektraWeb'e nasıl kayıt olunur ?",
+        "videoDescription": "ElektraWeb'e kayıt olabilir ve hemen çalışmaya başlayabilirsiniz.",
+        "youtubeVideoID": "-e2nip4LMGE",
+        "videoTime": "00:56",
+        "videoIntTime": 0.56
+      },
+      {
+        "videoName": "ElektraWeb nasıl kurulur ?",
+        "videoDescription": "ElektraWeb'in kurulum işleminin nasıl yapılacağı anlatılmaktadır. Kullanıcı, oda tipi, oda, departman, gelir grubu, pansiyon ve fiyat tiplerinin nasıl tanımlandığını öğrenebilirsiniz.",
+        "youtubeVideoID": "CCbvZ2HAywk",
+        "videoTime": "02:20",
+        "videoIntTime": 3.42
+      },
+      {
+        "videoName": "ElektraWeb nasıl kullanılır ?",
+        "videoDescription": "Bu video ile ElektraWeb'de rezervasyon oluşturma, check-in, check-out, folyo, fatura gibi işlemlerin nasıl yapılacağını öğrenebilirsiniz.",
+        "youtubeVideoID": "r-qUvl88Qsw",
+        "videoTime": "06:36",
+        "videoIntTime": 6.36
+      },
+        {
+        "videoName": "ElektraWeb Hız Testi",
+        "videoDescription": "",
+        "youtubeVideoID": "UGB9M-JFpIY",
+        "videoTime": "02:04",
+        "videoIntTime": 2.04
+      }
+    ]
+  },
+  {
+    "videoGrup": "Kurulum",
+    "videos": [
+      {
+        "videoName": "Otel Bilgileri nasıl girilir ?",
+        "videoDescription": "Otelinizin genel bilgilerini bu sayfadan doldurabilirsiniz.",
+        "youtubeVideoID": "GRCpBBgDS3E",
+        "videoTime": "02:20",
+        "videoIntTime": 2.2
+      },
+      {
+        "videoName": "Temel Tanımlamalar nasıl tanımlanır ?",
+        "videoDescription": "Otel yönetimine ait tüm bilgiler ve tanımlamalar bu sayfadan yapılmaktadır. Kullanıcı, oda tipi, oda, departman, gelir kodu, pansiyon ve fiyat tipi gibi temel tanımları bu ekrandan gerçekleştirebilirsiniz.  ",
+        "youtubeVideoID": "b4OnsTvT3fQ",
+        "videoTime": "14:52",
+        "videoIntTime": 14.52
+      },
+        {
+        "videoName": "Kullanıcı Tanımları",
+        "videoDescription": "",
+        "youtubeVideoID": "g0s2y3CgZ0I",
+        "videoTime": "7:38",
+        "videoIntTime": 7.38
+      },
+      {
+        "videoName": "2 Faktörlü Doğrulama nasıl yapılır ?",
+        "videoDescription": "2 Faktörlü Doğrulama ile ElektraWeb'e girerken telefonunuza gelen güvenli kod veya sms ile giriş yapabilirsiniz",
+        "youtubeVideoID": "Xposf-foD0c",
+        "videoTime": "0:56",
+        "videoIntTime": 0.56
+      },
+      {
+        "videoName": "Fiyat ve Doluluk ekranında fiyat ve müsaitlik nasıl tanımlanır ?",
+        "videoDescription": "Otelinizin fiyat ve müsaitliğini bu ekrana girebilir, online kanallara ve online rezervasyon sayfanıza kolayca gönderebilirsiniz ve güncelleyebilirsiniz.",
+        "youtubeVideoID": "iBdyzlLfdB8",
+        "videoTime": "4:21",
+        "videoIntTime": 4.21
+      }
+    ]
+  },
+  {
+    "videoGrup": "Ekranların Genel Kullanımı",
+    "videos": [
+      {
+        "videoName": "Menü ve  Araç Çubuğu Kullanımı",
+        "videoDescription": "",
+        "youtubeVideoID": "G79SZAF7EaM",
+        "videoTime": "01:15",
+        "videoIntTime": 1.15
+      },
+      {
+        "videoName": "Liste Kullanımı",
+        "videoDescription": "ElektraWeb'deki listeler üzeride yapılabilen işlemler anlatılmaktadır. Ekle, düzenle, yazdır, grupla, excele aktar, loglar, kolon tasarımları, listedeki sekmelerin nasıl kullanıldığı ve eylemler hakkında bilgi sahibi olabileceksiniz.",
+        "youtubeVideoID": "UU1lr7WJt2E",
+        "videoTime": "03:19",
+        "videoIntTime": 3.19
+      },
+      {
+        "videoName": "Yardım Menüsü",
+        "videoDescription": "",
+        "youtubeVideoID": "SGkV0L_XTeQ",
+        "videoTime": "00:33",
+        "videoIntTime": 0.33
+      }
+    ]
+  },
+  {
+    "videoGrup": "ÖnBüro İşlemleri",
+    "videos": [
+      {
+        "videoName": "Rezervasyon listesi nedir ve hangi işlemler yapılabilir ?",
+        "videoDescription": "",
+        "youtubeVideoID": "D_6suUfdie8",
+        "videoTime": "13:28",
+        "videoIntTime": 13.28
+      },
+        {
+        "videoName": "Hangi ekranlardan rezervasyon oluşturabiliriz ?",
+        "videoDescription": "",
+        "youtubeVideoID": "VNtd54L_sdo",
+        "videoTime": "12:02",
+        "videoIntTime": 12.02
+      },
+      {
+        "videoName": "Rezervasyon kartı ile rezervasyon nasıl eklenir?",
+        "videoDescription": "",
+        "youtubeVideoID": "KFqVfZRmAM0",
+        "videoTime": "01:12",
+        "videoIntTime": 1.12
+      },
+         {
+        "videoName": "Rezervasyon oluştururken manuel fiyat nasıl verilir ?",
+        "videoDescription": "",
+        "youtubeVideoID": "UfZF6Pyxaq4",
+        "videoTime": "01:15",
+        "videoIntTime": 1.15
+      },
+         {
+        "videoName": "Blokaj ataması nasıl yapılır ?",
+        "videoDescription": "",
+        "youtubeVideoID": "S5DZ48V-xf8",
+        "videoTime": "02:34",
+        "videoIntTime": 2.34
+      },
+        {
+        "videoName": "Rezervasyon listeden check in işlemi nasıl yapılır?",
+        "videoDescription": "",
+        "youtubeVideoID": "6qUSuN1kPX8",
+        "videoTime": "09:28",
+        "videoIntTime": 5.52
+      },
+        {
+        "videoName": "Check-in ve Check-out işlemler nasıl iptal edilir ?",
+        "videoDescription": "",
+        "youtubeVideoID": "6k5N9HkFuwo",
+        "videoTime": "00:44",
+        "videoIntTime": 0.44
+      },
+        {
+        "videoName": "Polis kimlik bildirimi nasıl yapılır?",
+        "videoDescription": "",
+        "youtubeVideoID": "hvPiMkFsSHw",
+        "videoTime": "03:58",
+        "videoIntTime": 3.58
+      },
+        {
+        "videoName": "Rezervasyon notları nasıl takip edilir? Trace nasıl girilir?",
+        "videoDescription": "",
+        "youtubeVideoID": "63w9HSY2mGo",
+        "videoTime": "02:01",
+        "videoIntTime": 2.01
+      },
+        {
+        "videoName": "Misafir istekleri ve şikayetleri nasıl kayıt altına alınır? (işler)",
+        "videoDescription": "",
+        "youtubeVideoID": "isLTjm50wWM",
+        "videoTime": "01:03",
+        "videoIntTime": 1.03
+      },
+      {
+        "videoName": "Konaklayan odaları nasıl görebiliriz? (Konaklayan Listesi)",
+        "videoDescription": "",
+        "youtubeVideoID": "lTgVMPcqBi4",
+        "videoTime": "09:04",
+        "videoIntTime": 9.04
+      },
+        {
+        "videoName": "Ayrılan misafirlere hangi işlemleri uygulayabilirim ?",
+        "videoDescription": "",
+        "youtubeVideoID": "NC6CT8OGCJk",
+        "videoTime": "01:16",
+        "videoIntTime": 1.16
+      },
+        {
+        "videoName": "Ön Folyo nedir ? Nasıl kullanılır ?",
+        "videoDescription": "",
+        "youtubeVideoID": "041vtAFRiXw",
+        "videoTime": "00:55",
+        "videoIntTime": 0.55
+      },
+        {
+        "videoName": "Rezervasyon folyosu nasıl kontrol edilir ve hangi işlemler yapılabilir ?",
+        "videoDescription": "",
+        "youtubeVideoID": "Pxl61fDSpas",
+        "videoTime": "08:30",
+        "videoIntTime": 8.30
+      },
+        {
+        "videoName": "Folyo transferleri nasıl yapılır?",
+        "videoDescription": "",
+        "youtubeVideoID": "g6SpWQTf9DE",
+        "videoTime": "00:39",
+        "videoIntTime": 0.39
+      },
+        {
+        "videoName": "Sanal Folyo nedir ve nasıl oluşturulur?",
+        "videoDescription": "",
+        "youtubeVideoID": "bn5H_800nec",
+        "videoTime": "00:44",
+        "videoIntTime": 0.44
+      },
+        {
+        "videoName": "Gün sonu almadan oda fiyatı basabilir miyiz?",
+        "videoDescription": "",
+        "youtubeVideoID": "4Kri_wgL9ic",
+        "videoTime": "00:27",
+        "videoIntTime": 0.27
+      },
+        {
+        "videoName": "Listeden çıkış işlemleri nasıl yapılır?",
+        "videoDescription": "",
+        "youtubeVideoID": "Q-DrJC-T0T0",
+        "videoTime": "00:24",
+        "videoIntTime": 0.24
+      },
+        {
+        "videoName": "Fatura nasıl kesilir?",
+        "videoDescription": "",
+        "youtubeVideoID": "Zd1NOwDDY1Y",
+        "videoTime": "01:33",
+        "videoIntTime": 1.33
+      },
+         {
+        "videoName": "ÖnKasa menüsü nedir ve hangi işlemler yapılabilir ?",
+        "videoDescription": "Önkasa içerisinden, Tahislatlarımızı kontrol edebilir, kasa avansı, harcama-ödeme işlemi, döviz bozdurma işlemi gibi işlemlerin nasıl yapıalcağı anlatılmaktadır. ",
+        "youtubeVideoID": "BpPNGtFeN6g",
+        "videoTime": "02:49",
+        "videoIntTime": 2.49
+    },
+         {
+        "videoName": "Doluluk nedir ? Nasıl kullanılır ? (Forecast)",
+        "videoDescription": "Otelinizin doluluğunu, geliş-ayrılışını ve gelirini ister geriye ister ileriye dönük olarak görebileceğiniz ekrandır.",
+        "youtubeVideoID": "KgzQ6m9xNFI",
+        "videoTime": "00:51",
+        "videoIntTime": 0.51
+      },
+         {
+        "videoName": "Gün sonu nasıl alınır ?",
+        "videoDescription": "",
+        "youtubeVideoID": "ooOaDw_F8RM",
+        "videoTime": "01:44",
+        "videoIntTime": 1.44
+      },
+        {
+        "videoName": "Mobil Operasyon Yönetimi",
+        "videoDescription": "",
+        "youtubeVideoID": "g1JLJ4jRM_o",
+        "videoTime": "05:48",
+        "videoIntTime": 5.48
+      }
+    ]
+  },
+    {
+    "videoGrup": "Hızlı Kullanım",
+    "videos": [
+          {
+        "videoName": "Rack",
+        "videoDescription": "",
+        "youtubeVideoID": "hOUiLuVnlik",
+        "videoTime": "04:14",
+        "videoIntTime": 4.14
+      },
+          {
+        "videoName": "Blokaj",
+        "videoDescription": "",
+        "youtubeVideoID": "It5an4yd3o8",
+        "videoTime": "09:28",
+        "videoIntTime": 9.28
+      },
+         {
+        "videoName": "Hızlı Posting",
+        "videoDescription": "",
+        "youtubeVideoID": "8gqRP2w-qgk",
+        "videoTime": "01:17",
+        "videoIntTime": 1.17
+      },
+        {
+        "videoName": "Rakip Otel Fiyat Analizi (Rate Manager)",
+        "videoDescription": "",
+        "youtubeVideoID": "BT5BCEPRVg0",
+        "videoTime": "01:30",
+        "videoIntTime": 1.30
+      },
+        {
+        "videoName": "Kontrat Sihirbazı",
+        "videoDescription": "",
+        "youtubeVideoID": "PdlP0959RGg",
+        "videoTime": "03:39",
+        "videoIntTime": 3.39
+      }
+    ]
+  },
+        {
+    "videoGrup": "Rezervasyon İşlemleri",
+    "videos": [
+      {
+        "videoName": "Bekleme listesi nedir ve hangi işlemler yapılabilir ?",
+        "videoDescription": "",
+        "youtubeVideoID": "5jKGHfQTsig",
+        "videoTime": "00:53",
+        "videoIntTime": 0.53
+      },
+         {
+        "videoName": "Rezervasyon listesi nedir ve hangi işlemler yapılabilir ?",
+        "videoDescription": "Rescription",
+        "youtubeVideoID": "D_6suUfdie8",
+        "videoTime": "13:28",
+        "videoIntTime": 13.28
+      },
+      
+        {
+        "videoName": "Ayrılan misafirler nasıl kontrol edilir Hangi işlemler yapılabilir ?",
+        "videoDescription": "",
+        "youtubeVideoID": "NC6CT8OGCJk",
+        "videoTime": "01:16",
+        "videoIntTime": 1.16
+      },
+        {
+        "videoName": "No show listesi nasıl kontrol edilir ve hangi işlemler yapılabilir?",
+        "videoDescription": "",
+        "youtubeVideoID": "vTEjqXe_0NA",
+        "videoTime": "00:28",
+        "videoIntTime": 0.28
+      },
+        {
+        "videoName": "İptal edilen listesi nasıl kontrol edilir ve hangi işlemler yapılabilir?",
+        "videoDescription": "",
+        "youtubeVideoID": "amq3y574xWI",
+        "videoTime": "00:44",
+        "videoIntTime": 0.44
+      },
+        {
+        "videoName": "Ödeme Tipine göre rezervasyon takibi nasıl yapılır?",
+        "videoDescription": "",
+        "youtubeVideoID": "fq_dIUZ8",
+        "videoTime": "00:54",
+        "videoIntTime": 0.54
+      },
+        {
+        "videoName": "Rezervasyon, konaklayan, ayrılan ve iptal olan rezervasyonlar tek listede nasıl görüntülenir ve hangi işlemler yapılır ?",
+        "videoDescription": "",
+        "youtubeVideoID": "wfd31NKTJ_M",
+        "videoTime": "01:08",
+        "videoIntTime": 1.08
+      },
+        {
+        "videoName": "Online kanaldan gelen kredi kartı bilgileri nasıl görünür ?",
+        "videoDescription": "",
+        "youtubeVideoID": "uT5WLzbUfHU",
+        "videoTime": "00:27",
+        "videoIntTime": 0.27
+      },
+        {
+        "videoName": "Offline olan acentalar ile entegre çalışabilir miyiz?",
+        "videoDescription": "",
+        "youtubeVideoID": "Mr0CtjoaUkY",
+        "videoTime": "02:32",
+        "videoIntTime": 2.32
+      },
+        {
+        "videoName": "Dokümanlar nasıl saklanır?",
+        "videoDescription": "****",
+        "youtubeVideoID": "hHTCYxsS1iM",
+        "videoTime": "00:39",
+        "videoIntTime": 0.39
+      }
+    ]
+  },
+  {
+    "videoGrup": "Online Rezervasyon",
+    "videos": [
+      {
+        "videoName": "Online rezervasyon nedir ? Nasıl kullanılır ?",
+        "videoDescription": "Online rezervasyon sayfası hakkında tüm bilgilere bu videodan ulaşabilirsiniz.",
+        "youtubeVideoID": "wed68F61U4c",
+        "videoTime": "01:53",
+        "videoIntTime": 1.53
+      }
+    ]
+  },
+    {
+    "videoGrup": "Kontrat Yönetimi",
+    "videos": [
+      {
+        "videoName": "Acenta kartı nasıl tanımlanır?",
+        "videoDescription": "",
+        "youtubeVideoID": "x5xXZbRXt7E",
+        "videoTime": "01:05",
+        "videoIntTime": 6.55
+      },
+        {
+        "videoName": "Hızlı kontrat girişi nasıl yapılır ?",
+        "videoDescription": "",
+        "youtubeVideoID": "PdlP0959RGg",
+        "videoTime": "03:39",
+        "videoIntTime": 3.39
+      },
+        {
+        "videoName": "Detaylı kontrat tanımlama nasıl yapılır?",
+        "videoDescription": "",
+        "youtubeVideoID": "af6zScu4boQ",
+        "videoTime": "03:35",
+        "videoIntTime": 3.35
+      }
+    ]
+  },    
+  {
+    "videoGrup": "Muhasebe",
+    "videos": [
+         {
+        "videoName": "Satın Alma",
+        "videoDescription": "",
+        "youtubeVideoID": "4Bufg8idC7w",
+        "videoTime": "09:06",
+        "videoIntTime": 9.06
+      },
+        {
+        "videoName": "Hesap Planı",
+        "videoDescription": "Hesap Palnı sayfasında yapılabilen Arama,Sıralama,Ekleme,Düzenleme,Kopyalama,Hesap Tipi Seçimi,Otomatik Hesap Kodu Verilmesi,Cari Hesaplar İçin,Adres İletişim ve,Yetkili Tanımları,Excele Aktarma ve Okuma,İşlemlerin Listelenmesi,Extre(Muavin) Yazdırma,Hızlı İşlem ve İşlem Transferi işlemleri anlatılmaktadır.",
+        "youtubeVideoID": "ViVFaonVmRk",
+        "videoTime": "05:31",
+        "videoIntTime": 5.31
+      },
+        {
+        "videoName": "Muhasebe Fişi",
+        "videoDescription": "",
+        "youtubeVideoID": "3CIUAS1hhD0",
+        "videoTime": "05:03",
+        "videoIntTime": 5.03
+      },
+      {
+        "videoName": "Stok Fatura Girişi",
+        "videoDescription": "",
+        "youtubeVideoID": "FITwaxxaJNM",
+        "videoTime": "06:05",
+        "videoIntTime": 6.05
+      }
+    ]
+  },
+      {
+    "videoGrup": "SPA",
+    "videos": [
+         {
+        "videoName": "Rezervasyon Alma, Ödeme Yapma ve Ödeme İptal İşlemleri",
+        "videoDescription": "",
+        "youtubeVideoID": "a2estRDziW8",
+        "videoTime": "01:27",
+        "videoIntTime": 1.27
+      },
+        {
+        "videoName": "Toplu Rezervasyon ve Ödeme",
+        "videoDescription": "",
+        "youtubeVideoID": "aKrD1xzoE_I",
+        "videoTime": "01:01",
+        "videoIntTime": 1.01
+      },
+      {
+        "videoName": "Üyelik ve Ödeme",
+        "videoDescription": "",
+        "youtubeVideoID": "LuY4AMikbqY",
+        "videoTime": "01:07",
+        "videoIntTime": 1.07
+      },
+        {
+        "videoName": "Listeler Genel Anlatım",
+        "videoDescription": "",
+        "youtubeVideoID": "yjD-dFWrz7Q",
+        "videoTime": "01:46",
+        "videoIntTime": 1.46
+      }
+    ]
+  },
+     {
+    "videoGrup": "POS",
+    "videos": [
+      {
+        "videoName": "Kullanım",
+        "videoDescription": "",
+        "youtubeVideoID": "UbmiILaW-g4",
+        "videoTime": "16:59",
+        "videoIntTime": 16.59
+    }
+    ]
+  },
+    {
+    "videoGrup": "Ev Sahibi Modülü (Daire Kiralama)",
+    "videos": [
+      {
+        "videoName": "Ev Sahibi Modülü nedir ? Nasıl kullanılır ?",
+        "videoDescription": "",
+        "youtubeVideoID": "x7CaufjTC88",
+        "videoTime": "07:25",
+        "videoIntTime": 7.25
+      }
+    ]
+  }   
+]
