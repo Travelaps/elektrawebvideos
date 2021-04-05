@@ -1007,8 +1007,6 @@
         "videoTime": "00:50",
         "videoIntTime": 0.5
       },
-      
-     
       {
         "videoName": "İrsaliye ve İrsaliyeden Faturalama",
         "videoDescription": "İrsaliye Girişi ve Faturanın İrsaliyeden Ayarlanması Nasıl Yapılır ?",
@@ -1054,15 +1052,16 @@
     ]
   },
   {
-   "videoGrup": "Satınlama",
-   "videos": [
-    {
+    "videoGrup": "Satınalma",
+    "videos": [
+      {
         "videoName": "Satın Alma",
-        "videoDescription": "",
+        "videoDescription": "Depo talep girişinden başlayarak satınalma talebinin oluşturulması, depodan karşılanabilen kısmının karşılanıp geri kalan kısmının satınalma teklif onay ve sipariş süreçlerine girmesi",
         "youtubeVideoID": "4Bufg8idC7w",
         "videoTime": "09:06",
         "videoIntTime": 9.06
-      }] 
+      }
+    ]
   },
   {
     "videoGrup": "Stok",
