@@ -1007,20 +1007,8 @@
         "videoTime": "00:50",
         "videoIntTime": 0.5
       },
-      {
-        "videoName": "Depo Tanımı",
-        "videoDescription": "",
-        "youtubeVideoID": "FKDbQ1q790g",
-        "videoTime": "01:25",
-        "videoIntTime": 1.25
-      },
-      {
-        "videoName": "Satın Alma",
-        "videoDescription": "",
-        "youtubeVideoID": "4Bufg8idC7w",
-        "videoTime": "09:06",
-        "videoIntTime": 9.06
-      },
+      
+     
       {
         "videoName": "İrsaliye ve İrsaliyeden Faturalama",
         "videoDescription": "İrsaliye Girişi ve Faturanın İrsaliyeden Ayarlanması Nasıl Yapılır ?",
@@ -1066,6 +1054,17 @@
     ]
   },
   {
+   "videoGrup": "Satınlama",
+   "videos": [
+    {
+        "videoName": "Satın Alma",
+        "videoDescription": "",
+        "youtubeVideoID": "4Bufg8idC7w",
+        "videoTime": "09:06",
+        "videoIntTime": 9.06
+      }] 
+  }
+  {
     "videoGrup": "Stok",
     "videos": [
       {
@@ -1074,6 +1073,13 @@
         "youtubeVideoID": "WTHph38VZ0o",
         "videoTime": "01:26",
         "videoIntTime": 1.26
+      },
+      {
+        "videoName": "Depo Tanımı",
+        "videoDescription": "",
+        "youtubeVideoID": "FKDbQ1q790g",
+        "videoTime": "01:25",
+        "videoIntTime": 1.25
       },
       {
         "videoName": "Stok ve Envanter",
