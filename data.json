@@ -44,21 +44,21 @@
     "videos": [
       {
         "videoName": "Otel Bilgileri Nasıl Tanımlanır ?",
-        "videoDescription": "Otel bilgileri ekranındaki ön büro ve online rezervasyon sayafsına ait bilgilerinin detaylı tanımlanması",
+        "videoDescription": "Otel bilgileri ekranındaki ön büro ve online rezervasyon sayafsına ait bilgiler nasıl tanımlannır?",
         "youtubeVideoID": "rl_c_vGQcDs",
         "videoTime": "3:54",
         "videoIntTime": 3.54
       },
       {
         "videoName": "Temel Tanımlar Ekranına Giriş ve Farklı Dil Seçenekleriyle Otel Tanımı Nasıl Yapılır ?",
-        "videoDescription": "Yeni bir otel kaydı açıldığında tanımlanması gereken zorunlu alanlar nelerdir? Türkçe dşında diğer dillerde otel bilgileri nasıl tanımlanır?",
+        "videoDescription": "Yeni bir otel kaydı açıldığında tanımlanması gereken zorunlu alanlar nelerdir? Türkçe dşında diğer dillerde otel bilgileri ekranı nasıl tanımlanır?",
         "youtubeVideoID": "86tNjQByVO0",
         "videoTime": "1:13",
         "videoIntTime": 1.13
       },
       {
         "videoName": "Oda Tipi ve Odalar Nasıl Tanımlanır ?",
-        "videoDescription": "Oda tipi, oda tanımı, oda konumu, oda manzarası ve yatak tipleri nasıl tanılanır?",
+        "videoDescription": "Oda tipi, oda tanımı, oda konumu, oda manzarası ve yatak tipi Elektraweb'de nasıl tanılanır?",
         "youtubeVideoID": "cYGs3V_7AWA",
         "videoTime": "5:55",
         "videoIntTime": 5.55
@@ -79,35 +79,35 @@
       },
       {
         "videoName": "Kasa Kapatma Listesi Nedir ve Nasıl Kullanılır ?",
-        "videoDescription": "",
+        "videoDescription": "Temel Tanımlar menüsünde bulunan kasa kapatma listesi nedir? Hangi durumlarda kullanılır?",
         "youtubeVideoID": "OfZxafqrmi4",
         "videoTime": "0:20",
         "videoIntTime": 0.2
       },
       {
         "videoName": "Fatura Tasarımı Nasıl Yapılır ?",
-        "videoDescription": "",
+        "videoDescription": "Fatura tasarımınızı Elektraweb'e nasıl kaydedebilirsiniz?",
         "youtubeVideoID": "rkh_dPlovYk",
         "videoTime": "1:11",
         "videoIntTime": 1.11
       },
       {
         "videoName": "Acenta, Firma ve Misafire ait Tüm Fatura ve İletişim Adresleri Nasıl Görüntülenir ?",
-        "videoDescription": "",
+        "videoDescription": "Temel Tanımlar menüsünde bulunan Adresler ekranı ile program içerisine tanımlanan tüm adreslere kolayca ulaşabilirisiniz.",
         "youtubeVideoID": "NBekB8YVMzU",
         "videoTime": "0:32",
         "videoIntTime": 0.32
       },
       {
         "videoName": "Kullanıcı Tanımları Nasıl Yapılır ?",
-        "videoDescription": "Otelinizdeki kullanıcılara yetkiler vererek program kullanımını nasıl kontrol edebilirsiniz?",
+        "videoDescription": "Otelinizde çalışanlara rol veya roller vererek nasıl yetkilendirme yapabilirsiniz? 2FA kurulumu nasıl yapılır? Sms doğrulama nasıl kullanılır?",
         "youtubeVideoID": "g0s2y3CgZ0I",
         "videoTime": "7:38",
         "videoIntTime": 7.38
       },
       {
         "videoName": "Kullanıcılar için Güvenlik Önlemleri Nasıl Alınır ?",
-        "videoDescription": "",
+        "videoDescription": "Kullanıcı tanımlamalarınızı yaparken nasıl güvenlik önlemleri alabilirsiniz?",
         "youtubeVideoID": "hkI1VV-TQ8c",
         "videoTime": "1:48",
         "videoIntTime": 1.48
@@ -154,7 +154,7 @@
       },
       {
         "videoName": "Yardım Menüsü",
-        "videoDescription": "Bu video yardım menüsünün nasıl çalıştığını öğrenebilirsiniz.",
+        "videoDescription": "Elektraweb kullanımı için detaylı yardım alabileceğiniz ekranlar hangileridir?",
         "youtubeVideoID": "Nt3IbhrXawM",
         "videoTime": "00:47",
         "videoIntTime": 0.47
@@ -166,168 +166,168 @@
     "videos": [
       {
         "videoName": "Rezervasyon listesi Nedir ve Hangi İşlemler Yapılabilir ?",
-        "videoDescription": "Rezervasyon listesinde check-in , oda verme , folyo görüntüleme gibi tüm aksiyonlar anlatılmaktadır.",
+        "videoDescription": "Rezervasyon listesinde check-in , oda verme , folyo görüntüleme gibi tüm aksiyonlar nasıl yapılır?",
         "youtubeVideoID": "D_6suUfdie8",
         "videoTime": "13:28",
         "videoIntTime": 13.28
       },
       {
         "videoName": "Hangi Ekranlardan Rezervasyon Oluşturabiliriz ?",
-        "videoDescription": "ElektraWeb içerisinde bir çok ekrandan rezervasyon oluşturabilmektedir, bu derste ise bu ekranlar gösterilmektedir.",
+        "videoDescription": "ElektraWeb'de rezervasyon oluşturmak için kullanabileceğiniz ekranlar hangileridir?",
         "youtubeVideoID": "VNtd54L_sdo",
         "videoTime": "12:02",
         "videoIntTime": 12.02
       },
       {
-        "videoName": "Rezervasyon Kartı ile Rezervasyon Nasıl Oluşturulur?",
-        "videoDescription": "Rezervasyon kartı ile rezervasyonun nasıl oluşturulacağı ve nelere dikkat etmeniz gerektiği ele alınmıştır.",
+        "videoName": "Rezervasyon Kartı Kullanımı",
+        "videoDescription": "Rezervasyon nasıl oluşturulur ve rezervasyon kartında nelere dikkat edilmeli?",
         "youtubeVideoID": "GmE_Usq1tw8",
         "videoTime": "01:12",
         "videoIntTime": 1.12
       },
       {
         "videoName": "Rezervasyon Oluştururken Manuel Fiyat Nasıl Verilir ?",
-        "videoDescription": "Rezervasyon oluştururken fiyatlarımızı kontratlardan veya günlük fiyatlarımızdan alabildiğimiz gibi manuel de fiyat verebiliriz, bu videomuzda manuel fiyatlandırmanın nasıl yapılacağı anlatılmıştır.",
+        "videoDescription": "Manuel fiyat vererek rezervasyon nasıl oluşturulur?",
         "youtubeVideoID": "UfZF6Pyxaq4",
         "videoTime": "01:15",
         "videoIntTime": 1.15
       },
       {
         "videoName": "Rezervasyon Kartındaki Butonlar Ne İşe Yarar ?",
-        "videoDescription": "",
+        "videoDescription": "Rezervasyon kartındaki butonların detaylı anlamı",
         "youtubeVideoID": "BgIfM61mibU",
         "videoTime": "03:36",
         "videoIntTime": 3.36
       },
       {
         "videoName": "Blokaj Ataması Nasıl Yapılır ?",
-        "videoDescription": "ElektraWeb'de blokaj ataması yapmanın bir çok basit yolu vardır. Bu yolla bu dersimizde anlatılmıştır.",
+        "videoDescription": "ElektraWeb'de blokaj ataması nasıl yapılır? Blokaj için hangi ekranları kullanabilirsiniz?",
         "youtubeVideoID": "S5DZ48V-xf8",
         "videoTime": "02:34",
         "videoIntTime": 2.34
       },
       {
         "videoName": "Rezervasyon listesinden Check-in İşlemi Nasıl Yapılır?",
-        "videoDescription": "Rezervasyon listesinden ckeck-in işleminin nasıl yapılacağı ve yapılırkekn nerelere dikkat edilmesi gerektiği anlatılmıştır.",
+        "videoDescription": "Rezervasyon listesinden ckeck-in işleminin nasıl yapılır? Hangi durumlarda c-in işlemi yapılmaz?",
         "youtubeVideoID": "6qUSuN1kPX8",
         "videoTime": "00:25",
         "videoIntTime": 0.25
       },
       {
         "videoName": "Check-in ve Check-out İşlemleri Nasıl İptal Edilir ?",
-        "videoDescription": "Check-in ve check-out nasıl iptal edilip ?",
+        "videoDescription": "Yanlışlıkla yapılan check-in ve check-out işlemi nasıl iptal edilir ?",
         "youtubeVideoID": "6k5N9HkFuwo",
         "videoTime": "00:44",
         "videoIntTime": 0.44
       },
       {
-        "videoName": "Folyosunda İşlem Bulunan Rezeravsyonlar Nasıl Check-out Edilir ?",
-        "videoDescription": "Folyosunda işlem bulunan bir rezervasyonun nasıl checkout edileceği anlatılmaktadır.",
+        "videoName": "Folyosunda İşlem Bulunan Rezervasyonlar Nasıl Check-out Edilir ?",
+        "videoDescription": "Balansı sıfırlanmayan yani ödemesi alınmayan rezervasyonlar nasıl checkout edilir?",
         "youtubeVideoID": "6-_X5L_S8Vs",
         "videoTime": "00:37",
         "videoIntTime": 0.37
       },
       {
         "videoName": "Çıkış İşlemleri Nasıl Yapılır ? (Detaylı)",
-        "videoDescription": "",
+        "videoDescription": "Rezervasyonların c-out işlemi nasıl yapılır? Program hangi durumlarda c-out işlemi yapmanıza izin vermez?",
         "youtubeVideoID": "_gN7wIA9N9Y",
         "videoTime": "01:53",
         "videoIntTime": 1.53
       },
       {
         "videoName": "Ayrılan Misafirlere Hangi İşlemleri Uygulayabilirim ?",
-        "videoDescription": "",
+        "videoDescription": "C-out işlemi yapılmış rezervasyonlar için hangi eylemler kullanılır?",
         "youtubeVideoID": "NC6CT8OGCJk",
         "videoTime": "01:16",
         "videoIntTime": 1.16
       },
       {
         "videoName": "Ayrılan Misafirlerde Folyo İşlemi Nasıl Düzeltilir ?",
-        "videoDescription": "",
+        "videoDescription": "C-out işlemi gerçekleşmiş rezervasyonun folyosunda düzeltme nasıl yapılır?",
         "youtubeVideoID": "lX5Az9z0O3k",
         "videoTime": "00:54",
         "videoIntTime": 0.54
       },
       {
         "videoName": "Grup Rezervasyonu Nasıl Oluşturulur ?",
-        "videoDescription": "",
+        "videoDescription": "Detaylı grup rezervasyonu nasıl oluşturulur?",
         "youtubeVideoID": "dtBVyS_iqSI",
         "videoTime": "10:08",
         "videoIntTime": 10.08
       },
       {
         "videoName": "Oda Değişimi Planı Nasıl Yapılır ?",
-        "videoDescription": "",
+        "videoDescription": "Oda değişim planı nasıl yapılır? Oda değişim listesi nasıl kullanılır?",
         "youtubeVideoID": "yIrO1SVi9z0",
         "videoTime": "04:20",
         "videoIntTime": 4.2
       },
       {
-        "videoName": "Folyo Balansları Hızlıca Nasıl Kontrol Edilir?",
-        "videoDescription": "",
+        "videoName": "Folyo Balansları Nasıl Kontrol Edilir?",
+        "videoDescription": "Folyo balanslarını kontrol edebileceğiniz ekranlar hangileridir?",
         "youtubeVideoID": "siEkCTyuV2M",
         "videoTime": "01:06",
         "videoIntTime": 1.06
       },
       {
         "videoName": "Polis Kimlik Bildirimi Nasıl Yapılır?",
-        "videoDescription": "",
+        "videoDescription": "Jandarma ve Polis Kimlik bildirim sistemi nasıl kurulur? Dikkat edilmesi gereken noktalar nelerdir?",
         "youtubeVideoID": "hvPiMkFsSHw",
         "videoTime": "03:58",
         "videoIntTime": 3.58
       },
       {
         "videoName": "Resmi Misafir Listesi Nasıl Alınır ? (Maliye Listesi)",
-        "videoDescription": "",
+        "videoDescription": "Resmi misafir listesi farklı tasarımlarda nasıl alınır?",
         "youtubeVideoID": "TfUHYl-wplg",
         "videoTime": "00:34",
         "videoIntTime": 0.34
       },
       {
         "videoName": "Rezervasyon Notları Nasıl Takip Edilir? Trace nasıl girilir?",
-        "videoDescription": "",
+        "videoDescription": "Rezervasyon için not nasıl oluşturulur? Rezervasyon notları hangi ekranlardan görüntülenir?",
         "youtubeVideoID": "GQIzj1K1CIw",
         "videoTime": "02:59",
         "videoIntTime": 2.59
       },
       {
         "videoName": "Misafir İstekleri ve Şikayetleri Nasıl Kayıt Altına Alınır? (işler)",
-        "videoDescription": "",
+        "videoDescription": "Görev Yönetimi menüsü nasıl kullanılır? Tanımlamalar nasıl yapılır?",
         "youtubeVideoID": "isLTjm50wWM",
         "videoTime": "01:03",
         "videoIntTime": 1.03
       },
       {
         "videoName": "Konaklayan Odaları Nasıl Görebiliriz? (Konaklayan Listesi)",
-        "videoDescription": "",
+        "videoDescription": "Konaklayan listesi kullanımı",
         "youtubeVideoID": "mkBT4rQ_vuo",
         "videoTime": "09:04",
         "videoIntTime": 9.04
       },
       {
         "videoName": "Ön Folyo Nedir ? Nasıl Kullanılır ?",
-        "videoDescription": "",
+        "videoDescription": "Ön folyo nedir? Ön folyoda hangi işlemler yapılabilir?",
         "youtubeVideoID": "041vtAFRiXw",
         "videoTime": "00:55",
         "videoIntTime": 0.55
       },
       {
         "videoName": "Folyo Nedir ?",
-        "videoDescription": "",
+        "videoDescription": "Misafire ait borç ve ödeme kayıtları nasıl görüntülenir, yeni harcama ve ödeme nasıl eklenir?",
         "youtubeVideoID": "7zE4LGThlZ4",
         "videoTime": "00:55",
         "videoIntTime": 0.55
       },
       {
         "videoName": "Folyo Transferleri veya Kişi Transferleri Nasıl Yapılır?",
-        "videoDescription": "",
+        "videoDescription": "Odada konaklayan kişiler ödemelerini ayrı yapmak istediğinde ve faturalarının ayrı kesilmesini talep ettiğinde folyo pencereleri nasıl kullanılır?",
         "youtubeVideoID": "fAR02fUNzBs",
         "videoTime": "03:59",
         "videoIntTime": 3.59
       },
       {
         "videoName": "Sanal Folyo Nedir ve Nasıl Oluşturulur?",
-        "videoDescription": "",
+        "videoDescription": "Sanal folyo (PM Hesap/T Folyo) nedir? Elektraweb'de sanal folyo nasıl oluşturulur?",
         "youtubeVideoID": "Dtw3GJywrMw",
         "videoTime": "01:41",
         "videoIntTime": 1.41
