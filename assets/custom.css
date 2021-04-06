@@ -3,6 +3,31 @@ body {
   color: #3c3b37;
 }
 
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+}
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+
+.w100 {
+  width: 100%;
+}
+
 h3,
 h1,
 h2,
@@ -52,6 +77,14 @@ ul {
   flex: 1;
 }
 
+.heading {
+  color: #e30d18;
+}
+
+#courseInfo {
+  font-weight: 700;
+}
+
 .firtPanel {
   border-top: 1px solid #dcdacb;
   border-radius: 4px 4px 0 0;
@@ -67,6 +100,10 @@ ul {
   background-color: #fbfbf8;
 }
 
+.back , .back768 {
+  display: none;
+}
+
 @media (min-width: 37.56em) {
   .section-header,
   .section-content {
@@ -77,12 +114,43 @@ ul {
   }
 }
 
+
+@media (max-width:768px) {
+ .searhInput  {
+   position: relative  !important;
+   left: 0px !important;
+   width: unset !important;
+ }
+
+ .back768 {
+   display: block;
+ }
+}
+
+@media (min-width:769px) {
+  .back {
+    display: block !important;
+  }
+ }
+
+
+
+
+
 @media (max-width:920px) {
   
   .videoPlay iframe {
     width: 100%;
     height: auto;
     min-height: 350px;
+
+
+}
+
+.videolib {
+  font-size: 16px;
+  align-items: center;
+ 
 }
 
 .section-header,
@@ -95,7 +163,7 @@ ul {
 .videoPlay {
   width: 100%;
   height: auto;
-  max-width: 768px;
+  max-width: 80%;
   padding: 25px;
 }
 
@@ -125,6 +193,16 @@ ul {
   background: url(svg/expand-button.svg);
   background-size: cover;
 }
+.camera {
+  width: 50px;
+  margin-right: 6px;
+}
+
+.backSearch {
+  position: relative;
+}
+
+
 
 .searchIcon {
   background: url(svg/search.svg);
@@ -160,7 +238,7 @@ ul {
 
 .colapseAll {
   font-weight: 700;
-  color: #0f7c90;
+  color:#838383;
   cursor: pointer;
 }
 
@@ -224,21 +302,56 @@ span#closeVideo {
   margin: 15px 0;
   display: flex;
   align-items: center;
-  background: whitesmoke;
+  background: white;
+  position: absolute;
+  bottom: 0;
+  left: 230px;
+  width: 300px;
   padding: 5px;
+  border: 1px solid #f2f2f2;
+  border-radius: 10px;
+}
+
+.searchBack {
+  background: #e30d18;
+  padding: 5px;
+  border-radius: 5px;
 }
 
 span.searchIcon.svgSize {
-  width: 25px;
-  height: 25px;
-  margin-right: 5px;
+  width: 20px;
+  height: 20px;
+
   /* background: antiquewhite; */
 }
 
 input#search {
-  height: 30px;
+  height: 35px;
   border: none;
-  border-bottom: 1px solid #cecece;
   width: 100%;
   text-indent: 6px;
+}
+
+.videoFrame {
+  width: 100%;
+  height: 80vh;
+}
+
+
+.linkler {
+  text-align: end;
+}
+
+.linkler a {
+  text-decoration: none;
+  padding: 5px;
+  margin: 5px 0px;
+  display: inline-block;
+  background: #e30d18;
+  color: white;
+  border-radius: 2px;
+}
+
+.linkler a:hover {
+  background: green;
 }

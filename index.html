@@ -4,21 +4,37 @@
     <title>ElektraWeb Kurs</title>
     <meta charset="UTF8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="assets/custom.css" />
+    <link rel="stylesheet" href="assets/custom.css?v=3" />
   </head>
   <body>
-    <div class="Area">
+    <div class="Area container">
+
+      <div class="backSearch">
+      <img class="w100 back" src="assets/img/back.jpg">
+      <img class="w100 back768" src="assets/img/back768.jpg">
+
+     
 
       <div class="searhInput">
-        <span class="searchIcon svgSize"></span>
+        
         <input type="text" placeholder="Search" id="search" class="search">
+        <div class="searchBack"><span class="searchIcon svgSize"></span></div>
       </div>
+
+    </div>
+
+    <div class="linkler">
+      <a href="https://www.elektraweb.com">Web Sitemiz</a>
+      <a href="https://app.elektraweb.com">ElektraWeb Login</a>
+
+    </div>
+
 
       <div class="searchArea" id="searchArea" style="padding: 10px 16px;margin-bottom: 15px;">
       <ul id="searchList"></ul>
     </div>
 
-    <h2>Kurs içeriği</h2>
+    <h2  class="videolib" style=" margin: 15px 0px;display: flex;"><img class="camera" src="assets/img/camera.png">Video Kütüphanesi İçeriği</h2>
 
       <div class="courseInfo">
         <span id="courseInfo"></span>
@@ -36,7 +52,7 @@
     <div id="videoPlugin" class="videoPlugin">
       <span onclick="closeVideo();" id="closeVideo">x</span>
       <div id="videoPlay" class="videoPlay">
-        asas
+        
       </div>
     </div>
 

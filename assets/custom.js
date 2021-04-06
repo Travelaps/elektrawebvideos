@@ -1,6 +1,6 @@
 var videoList = [];
 var datam = fetch(
-  "https://raw.githubusercontent.com/talya07/elektrawebVideo/main/data.json"
+  "https://raw.githubusercontent.com/Travelaps/elektrawebvideos/main/data.json"
 )
   .then((response) => response.json())
   .then((data) => {
@@ -59,7 +59,7 @@ var datam = fetch(
           <div class="section-header firtPanel">
             <span class="expandDown svgSize"></span>
             <h3 class="item-content">
-              <span class="firstItem">${data[i].videoGrup}</span
+              <span class="firstItem heading">${data[i].videoGrup}</span
               ><span class="item-time">${
                 data[i].videos.length
               } ders  ${Math.ceil(videosTimes)} dak</span>
@@ -144,7 +144,7 @@ function showVideo(e) {
   document.getElementById("videoPlugin").style.display = "flex";
 
   var videoHtml =
-    '<iframe allowfullscreen frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/' +
+    '<iframe class="videoFrame" allowfullscreen frameborder="0" scrolling="no" marginheight="0" marginwidth="0" type="text/html" src="https://www.youtube.com/embed/' +
     e.dataset.video +
     '?autoplay=1"></iframe>';
 
