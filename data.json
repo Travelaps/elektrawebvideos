@@ -701,6 +701,13 @@
     "videoGrup": "House Keeping",
     "videos": [
       {
+        "videoName": "Room Rack Ekranı Nasıl Kullanılır?",
+        "videoDescription": "Oda durumları temiz, kirli, confirme, kapalı  durumlarına nasıl alınır? ",
+        "youtubeVideoID": "hOUiLuVnlik",
+        "videoTime": "04:14",
+        "videoIntTime": 4.14
+      },
+      {
         "videoName": "Uyuşmazlık Raporu Nasıl Alınır ?",
         "videoDescription": "",
         "youtubeVideoID": "4zNZFDkDZDQ",
