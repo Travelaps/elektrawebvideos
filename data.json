@@ -147,7 +147,7 @@
     "videos": [
       {
         "videoName": "Menü, Araç Çubuğu ve Listelerin Kullanımı",
-        "videoDescription": "",
+        "videoDescription": "Elektraweb butonlarını tanıma, listeleme, gruplama, kolon tasarımı özelliklerinin kullanımı",
         "youtubeVideoID": "qjFo1Kmf-as",
         "videoTime": "05:50",
         "videoIntTime": 5.5
@@ -334,56 +334,56 @@
       },
       {
         "videoName": "NoShow Nedir ve Nasıl Uygulanır ?",
-        "videoDescription": "",
+        "videoDescription": "No Show rezervasyonlar için sırasıyla uygulanması gereken adımlar nelerdir?",
         "youtubeVideoID": "zKnt_NFt03A",
         "videoTime": "01:39",
         "videoIntTime": 1.39
       },
       {
         "videoName": "Oda Uyandırma Çağırısı Nasıl Eklenir ?",
-        "videoDescription": "",
+        "videoDescription": "Oda uyandırma çağrısı hangi ekranlardan, nasıl oluşturulur?",
         "youtubeVideoID": "UUqTRIIbqQM",
         "videoTime": "00:40",
         "videoIntTime": 0.4
       },
       {
         "videoName": "Gün Sonu Almadan Oda Fiyatı Basabilir Miyiz?",
-        "videoDescription": "",
+        "videoDescription": "Gün sonundan önce folyoya konaklama borcu nasıl charge edilir?",
         "youtubeVideoID": "zcIeUWXfaDA",
         "videoTime": "01:07",
         "videoIntTime": 1.07
       },
       {
         "videoName": "Listeden Çıkış İşlemleri Nasıl Yapılır?",
-        "videoDescription": "",
+        "videoDescription": "Konaklayan Listesinden C-out işlemi nasıl yapılır?",
         "youtubeVideoID": "Q-DrJC-T0T0",
         "videoTime": "00:24",
         "videoIntTime": 0.24
       },
       {
         "videoName": "Check-in Yaparken Oda Durumu Ayarları Nasıl Yapılır ?",
-        "videoDescription": "",
+        "videoDescription": "Oda durumu kirli olan rezervasyonlarda c-in işlemi yapılamaz. Bu durumu parametrik olarak nasıl değiştirebilirsiniz?",
         "youtubeVideoID": "Q-DrJC-T0T0",
         "videoTime": "00:29",
         "videoIntTime": 0.29
       },
       {
         "videoName": "Depozit İşlemler Nasıl Kayıt Edilir ?",
-        "videoDescription": "",
+        "videoDescription": "Misafire belli bir ücret karşılığı emanet edilen eşyalar nasıl kayıt altına alınır?",
         "youtubeVideoID": "2AJjyqP6rdQ",
         "videoTime": "01:01",
         "videoIntTime": 1.01
       },
       {
         "videoName": "Folyo Kilitleme Nasıl Yapılır ?",
-        "videoDescription": "",
+        "videoDescription": "Folyoya charge edilmek istenen işlemler nasıl engellenir?",
         "youtubeVideoID": "m78NDHqlh3g",
         "videoTime": "00:29",
         "videoIntTime": 0.29
       },
       {
         "videoName": "Fatura Nasıl Kesilir?",
-        "videoDescription": "",
+        "videoDescription": "Fatura düzenleme işlemi nasıl yapılır?",
         "youtubeVideoID": "iJDRdOVYebM",
         "videoTime": "03:01",
         "videoIntTime": 3.01
@@ -404,14 +404,14 @@
       },
       {
         "videoName": "Gün Sonu Nasıl Alınır ?",
-        "videoDescription": "",
+        "videoDescription": "Ön büronun temel işlemlerinden olan Gün Sonu Nasıl alınır?",
         "youtubeVideoID": "ooOaDw_F8RM",
         "videoTime": "01:44",
         "videoIntTime": 1.44
       },
       {
         "videoName": "Eski Gün Sonu Raporları Nasıl Alınır ?",
-        "videoDescription": "",
+        "videoDescription": "Gün sonundan sonra oluşan raporları nasıl alabilirisniz?",
         "youtubeVideoID": "HAjuRisilG0",
         "videoTime": "00:29",
         "videoIntTime": 0.29
@@ -425,21 +425,21 @@
       },
       {
         "videoName": "Görev Yönetimi",
-        "videoDescription": "",
+        "videoDescription": "Misafirden gelen yada departmanlar arası istek ve şikayetler nasıl kayıt altına alınır?",
         "youtubeVideoID": "gZC6Jjx2BG0",
         "videoTime": "03:17",
         "videoIntTime": 3.17
       },
       {
         "videoName": "Mobil Operasyon Yönetimi",
-        "videoDescription": "",
+        "videoDescription": "House Keeping ve Teknik Servis mobil ekran üzerinden işlerini nasıl takip edebilir?",
         "youtubeVideoID": "g1JLJ4jRM_o",
         "videoTime": "05:48",
         "videoIntTime": 5.48
       },
       {
-        "videoName": "Ev Sahibi Modülü Nedir ? Nasıl Kullanılır ?",
-        "videoDescription": "",
+        "videoName": "Ev Sahibi Modülü Nedir ?",
+        "videoDescription": "Ev Sahibi Modülü nasıl kullanılır?",
         "youtubeVideoID": "x7CaufjTC88",
         "videoTime": "07:25",
         "videoIntTime": 7.25
@@ -491,91 +491,91 @@
     "videos": [
       {
         "videoName": "Bekleme listesi Nedir ve Hangi İşlemler Yapılabilir ?",
-        "videoDescription": "",
+        "videoDescription": "Kesinleşmemiş rezervasyonlar bekleme listsine nasıl alınır? Hangi aksiyonlar uygulanır? ",
         "youtubeVideoID": "QM3LJjvK7v4",
         "videoTime": "00:57",
         "videoIntTime": 0.57
       },
       {
         "videoName": "Rezervasyon listesi Nedir ve Hangi İşlemler Yapılabilir ?",
-        "videoDescription": "",
+        "videoDescription": "Rezervasyon listesinde hangi işlemler yapılabilir?",
         "youtubeVideoID": "D_6suUfdie8",
         "videoTime": "13:28",
         "videoIntTime": 13.28
       },
       {
         "videoName": "Rezervasyon listesi Nasıl Kullanılır ?",
-        "videoDescription": "",
+        "videoDescription": "Rezervasyon listesi eylemleri nelerdir? Listede bulunan aksiyon butonları nelerdir?",
         "youtubeVideoID": "mkBT4rQ_vuo",
         "videoTime": "2:39",
         "videoIntTime": 2.39
       },
       {
         "videoName": "Ayrılan Misafirler Nasıl Kontrol Edilir ve Hangi İşlemler Yapılabilir ?",
-        "videoDescription": "",
+        "videoDescription": "Çıkış işlemi yapılan misafirler nasıl kontrol edilir?",
         "youtubeVideoID": "mwzf-78uZPs",
         "videoTime": "01:41",
         "videoIntTime": 1.41
       },
       {
         "videoName": "No Show listesi Nasıl Kontrol Edilir ve Hangi İşlemler Yapılabilir?",
-        "videoDescription": "",
+        "videoDescription": "No Show rezervasyonlar için sırasıyla uygulanması gereken adımlar nelerdir?",
         "youtubeVideoID": "vTEjqXe_0NA",
         "videoTime": "00:28",
         "videoIntTime": 0.28
       },
       {
         "videoName": "İptal listesi Nasıl Kontrol Edilir ve Hangi İşlemler Yapılabilir?",
-        "videoDescription": "",
+        "videoDescription": "İptal edilen rezervasyonlar nasıl kontrol edilir?",
         "youtubeVideoID": "amq3y574xWI",
         "videoTime": "00:44",
         "videoIntTime": 0.44
       },
       {
         "videoName": "Ödeme Tipine Göre Rezervasyon Takibi Nasıl Yapılır?",
-        "videoDescription": "",
+        "videoDescription": "İşletme tercihine göre kullanılabilen ödeme tipine göre rezervasyonları nasıl sınıflandırabilirsiniz?",
         "youtubeVideoID": "fq_dIUZ8",
         "videoTime": "00:54",
         "videoIntTime": 0.54
       },
       {
         "videoName": "Misafir İsim listesi Nasıl Kullanılır?",
-        "videoDescription": "",
+        "videoDescription": "Misafir Listesi kullanımı ve liste üzerinde yapılabilen işlemler nelerdir?",
         "youtubeVideoID": "cjz28_p4cA0",
         "videoTime": "00:54",
         "videoIntTime": 0.54
       },
       {
         "videoName": "Rezervasyon, konaklayan, ayrılan ve iptal olan rezervasyonlar tek listede nasıl görüntülenir ve hangi işlemler yapılır ?",
-        "videoDescription": "",
+        "videoDescription": "Tüm rezervasyon listesi ekranınından detaylı filtreleme yaparak rezervasyonlarınızı nasıl görüntüleyebilirsiniz?",
         "youtubeVideoID": "bc15sznvJPc",
         "videoTime": "00:59",
         "videoIntTime": 0.59
       },
       {
         "videoName": "Online Kanaldan Gelen Kredi Kartı Bilgileri Nasıl Görünür ?",
-        "videoDescription": "",
+        "videoDescription": "Booking, Expedia gibi kanallardan gelen kredi kartı bilgileri nasıl görüntülenir?",
         "youtubeVideoID": "uT5WLzbUfHU",
         "videoTime": "00:27",
         "videoIntTime": 0.27
       },
       {
         "videoName": "Offline Acentalar ile Entegre Çalışabilir Miyiz?",
-        "videoDescription": "",
+        "videoDescription": "Sejour gibi tur operatörleri ile entegre olup rezervasyonlarınızın Elektraweb'e otomatik gelmesini sağlayabilir, rezervasyonlarınızı yönetebilirsiniz?",
         "youtubeVideoID": "Mr0CtjoaUkY",
         "videoTime": "02:32",
         "videoIntTime": 2.32
       },
       {
         "videoName": "Dokümanlar Nasıl Saklanır?",
-        "videoDescription": "",
+        "videoDescription": "Elektraweb'de word, excel gibi dokümanları nasıl saklayabilirsiniz.",
         "youtubeVideoID": "hHTCYxsS1iM",
         "videoTime": "00:39",
         "videoIntTime": 0.39
       },
       {
         "videoName": "Çağrı listesi Nedir ?",
-        "videoDescription": "",
+        "videoDescription": "Online Rezervasyon Sayfasında sepete eklenen, yarım bırakılan rezervasyonların takibi nasıl yapılır?",
         "youtubeVideoID": "ORhNY05CGfM",
         "videoTime": "01:07",
         "videoIntTime": 1.07
