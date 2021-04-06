@@ -798,98 +798,98 @@
       },
       {
         "videoName": "Kontrat Sihirbazı nedir ve nasıl kullanılır ?",
-        "videoDescription": "",
+        "videoDescription": "Kontratlarınızı hızlı ve pratik şekilde nasıl tanımlayabilirsiniz?",
         "youtubeVideoID": "yEA5ZhETvO0",
         "videoTime": "03:58",
         "videoIntTime": 3.58
       },
       {
         "videoName": "Detaylı kontrat tanımlama nasıl yapılır?",
-        "videoDescription": "",
+        "videoDescription": "Kontrat nasıl tanımlanır, nelere dikkat edilmeli?",
         "youtubeVideoID": "af6zScu4boQ",
         "videoTime": "03:35",
         "videoIntTime": 3.35
       },
       {
         "videoName": "Kontrat için özel durum nasıl tanımlanır ?",
-        "videoDescription": "",
+        "videoDescription": "Kontrat ile fiyatlandıramadığınız kişi kombinasyonlarınız için özel durumları nasıl oluşturabilirsiniz ve nasıl fiyatlandırabilirsiniz? ",
         "youtubeVideoID": "Ej1T3fUEVao",
         "videoTime": "01:49",
         "videoIntTime": 1.49
       },
       {
         "videoName": "Fiyat Kodu nasıl tanımlanır ?",
-        "videoDescription": "",
+        "videoDescription": "Fiyat kodu nedir, nasıl çalışır ve acenta bir fiyat koduna nasıl bağlanır? ",
         "youtubeVideoID": "VqWoPD_TohY",
         "videoTime": "01:24",
         "videoIntTime": 1.24
       },
       {
         "videoName": "Günlük Fiyat Kodları nasıl girilir ?",
-        "videoDescription": "",
+        "videoDescription": "Otel günlük fyatları nasıl oluşturulur? Hangi acnetalar için kullanılır?",
         "youtubeVideoID": "JPAEJ8_o_vo",
         "videoTime": "01:31",
         "videoIntTime": 1.31
       },
       {
         "videoName": "İndirim tanımlama nasıl yapılır?",
-        "videoDescription": "",
+        "videoDescription": "İndirim nasıl tanımlanır?",
         "youtubeVideoID": "4HiraBL1ZAg",
         "videoTime": "02:17",
         "videoIntTime": 2.17
       },
       {
-        "videoName": "Geceleme Bazlı İndirim Nasıl Tanımalanır ?",
-        "videoDescription": "",
+        "videoName": "Kota Nasıl Kullanılır ?",
+        "videoDescription": "Geceleme bazlı inidirm nasıl tanımlanır?",
         "youtubeVideoID": "bNFVKdBTb60",
         "videoTime": "01:25",
         "videoIntTime": 1.25
       },
       {
         "videoName": "Acenta komisyonu tanımlama ve görüntüleme işlemleri nasıl yapılır ?",
-        "videoDescription": "",
+        "videoDescription": "Acenta komisyonları nasıl tanımlanır? Rezervasyon kartında nasıl görünütülenir?",
         "youtubeVideoID": "DpTsB9kp0a0",
         "videoTime": "02:04",
         "videoIntTime": 2.04
       },
       {
-        "videoName": "Acenta Garnati ve Kontenjanları nedir ve nasıl kullanılır ?",
-        "videoDescription": "",
+        "videoName": "Acenta Garanti ve Kontenjanları nedir ve nasıl kullanılır ?",
+        "videoDescription": "Garanti Kontenjan anlaşmanızın olduğu acnetlar için kota nasıl tanımlanır?",
         "youtubeVideoID": "XBsPdOTSRtk",
         "videoTime": "05:07",
         "videoIntTime": 5.07
       },
       {
         "videoName": "Market, Segment ve Kaynak nasıl tanımlanır ?",
-        "videoDescription": "",
+        "videoDescription": "Market, kaynak ve segment bazlı rapor alabilmek için tanımlama nasıl yapılır?",
         "youtubeVideoID": "lt6DYtQM2Fw",
         "videoTime": "01:54",
         "videoIntTime": 1.54
       },
       {
         "videoName": "Acente - Firma - Münferit nasıl ayırt edilir ?",
-        "videoDescription": "",
+        "videoDescription": "Acenta kartında firma, münferit kayıtlar nasıl ayrıştırılır?",
         "youtubeVideoID": "7FMY6doPdjU",
         "videoTime": "00:44",
         "videoIntTime": 0.44
       },
       {
         "videoName": "Acente veya Firma yetkilileri nasıl tanımlanır ?",
-        "videoDescription": "",
+        "videoDescription": "Yetkililer nasıl tanımlanır?",
         "youtubeVideoID": "72X5_WSzdRE",
         "videoTime": "00:25",
         "videoIntTime": 0.25
       },
       {
         "videoName": "Stop Sale İşlemi Nasıl Yapılır ?",
-        "videoDescription": "",
+        "videoDescription": "Belirli bir süre ile satışa kapatmak istediğiniz acnetalar için stop sale işlemi nasıl yapılır?",
         "youtubeVideoID": "K5AVjsoYwgU",
         "videoTime": "01:56",
         "videoIntTime": 1.56
       },
       {
         "videoName": "Acenta Kredi Sınırlandırılması Nasıl Yapılır?",
-        "videoDescription": "",
+        "videoDescription": "Acenta kredi limit nasıl tanımlanır ve oluşan raporlar nasıl alınır?",
         "youtubeVideoID": "OI1QzTLYypI",
         "videoTime": "00:42",
         "videoIntTime": 0.42
@@ -920,35 +920,35 @@
     "videos": [
       {
         "videoName": "Misafir Listesi nedir ?",
-        "videoDescription": "",
+        "videoDescription": "Güvenlik departmanı misafir listesine nasıl ulaşabilir?",
         "youtubeVideoID": "UFtDCncj4xU",
         "videoTime": "00:27",
         "videoIntTime": 0.27
       },
       {
         "videoName": "Otel Misafirleri nasıl görülür ?",
-        "videoDescription": "",
+        "videoDescription": "Güvenlik departmanı otel misafirlerini filtreleyerek nasıl görüntüyebilir?",
         "youtubeVideoID": "KDxlK0krKWc",
         "videoTime": "00:22",
         "videoIntTime": 0.22
       },
       {
         "videoName": "Ziyaretçi takibi nasıl yapılır ?",
-        "videoDescription": "",
+        "videoDescription": "Günübirlik yada planlanan ziyaretçi takibi nasıl yapılır?",
         "youtubeVideoID": "-pzbfgKlqnc",
         "videoTime": "01:30",
         "videoIntTime": 1.3
       },
       {
         "videoName": "Personel Takibi Nasıl Yapılır ?",
-        "videoDescription": "",
+        "videoDescription": "Otel çaışanları nasıl tanımlanır? Kapı kontrol işlemi nasıl yapılır?",
         "youtubeVideoID": "ifAMyHynv7E",
         "videoTime": "00:55",
         "videoIntTime": 0.55
       },
       {
         "videoName": "Otel Araç Takibi Nasıl Yapılır ?",
-        "videoDescription": "",
+        "videoDescription": "Otel araç kaydı nasıl oluşturulur? Araç takibi nasıl yapılır?",
         "youtubeVideoID": "9hgvSi9IzWc",
         "videoTime": "01:35",
         "videoIntTime": 1.35
