@@ -965,13 +965,21 @@
   {
     "videoGrup": "Muhasebe",
     "videos": [
+       {
+        "videoName": "Elektra ERP Özet",
+        "videoDescription": "Bu video ile hesap planı fiş ve fatura giriş, stok fişi, satınalma, mutabakat, mizan, analiz, vb konularda uygulamalı bir şekilde genel bir anlatım yapılmaktadır. Yeni kullanıcılarımıza başlamadan önce mutlaka izlemeleri tavsiye ederiz. ",
+        "youtubeVideoID": "yTdcgF-I4NQ",
+        "videoTime": "1:22:15",
+        "videoIntTime": 82.55
+      },
       {
-        "videoName": "Muhasebe Stok Satınalma Pos ve Demirbaş Genel Kullanım",
+        "videoName": "Muhasebe Stok Satınalma Pos ve Demirbaş Menü Tanıtım",
         "videoDescription": "Muhasebe, Stok, Satın Alma, Pos ve Demirbaş Menülerinin Genel Anlatımı",
         "youtubeVideoID": "ZfAdGDJAypk",
         "videoTime": "11:56",
         "videoIntTime": 11.56
       },
+     
       {
         "videoName": "Hesap Planı",
         "videoDescription": "Hesap Planı sayfasında yapılabilen Arama,Sıralama,Ekleme,Düzenleme,Kopyalama,Hesap Tipi Seçimi,Otomatik Hesap Kodu Verilmesi,Cari Hesaplar İçin,Adres İletişim ve,Yetkili Tanımları,Excele Aktarma ve Okuma,İşlemlerin Listelenmesi,Extre(Muavin) Yazdırma,Hızlı İşlem ve İşlem Transferi işlemleri anlatılmaktadır.",
@@ -1108,6 +1116,13 @@
   {
     "videoGrup": "Stok",
     "videos": [
+           {
+        "videoName": "Elektra ERP Özet",
+        "videoDescription": "Bu video ile hesap planı fiş ve fatura giriş, stok fişi, satınalma, mutabakat, mizan, analiz, vb konularda uygulamalı bir şekilde genel bir anlatım yapılmaktadır. Yeni kullanıcılarımıza başlamadan önce mutlaka izlemeleri tavsiye ederiz. ",
+        "youtubeVideoID": "yTdcgF-I4NQ",
+        "videoTime": "1:22:15",
+        "videoIntTime": 82.55
+      },
       {
         "videoName": "Stok Grup Tanımı",
         "videoDescription": "",
