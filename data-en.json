@@ -1,6 +1,6 @@
 [
   {
-    "videoGrup": "Why ElektraWeb?",
+    "videoGrup": "Summary",
     "videos": [
       {
         "videoName": "Why Elektraweb?",
@@ -10,22 +10,22 @@
         "videoIntTime": 4.39
       },
       {
-        "videoName": "How to register ",
-        "videoDescription": "Registration is quick and easy",
+        "videoName": "How to Register?",
+        "videoDescription": "Registration for ElektraWeb is quick and easy. So, what are you waiting for?",
         "youtubeVideoID": "O72mm9yY1Rw",
         "videoTime": "00:59",
         "videoIntTime": 0.59
       },
       {
         "videoName": "Quick Setup ",
-        "videoDescription": "Save all your hotel features and start managing your hotel in a short time.",
+        "videoDescription": "Save all your hotel features and start managing your property in a short time.",
         "youtubeVideoID": "X3hro8wSwS8",
         "videoTime": "04:30",
         "videoIntTime": 4.30
       },
       {
-        "videoName": "Usage",
-        "videoDescription": "How are the basic operations of the front office such as creating reservations, check-in, check-out, folio, invoice quickly on ElektraWeb?",
+        "videoName": "How to Use ElektraWeb? ",
+        "videoDescription": "Learn how to quickly perform the basic front office-related operations, such as creating reservations, check-in, check-out, folio and invoice, in ElektraWeb?",
         "youtubeVideoID": "3dN8lyohgxA",
         "videoTime": "06:22",
         "videoIntTime": 6.22
