@@ -36,32 +36,46 @@
     "videoGrup": "Setup",
     "videos": [
       {
-        "videoName": "Hotel Information ",
-        "videoDescription": "How to define the information front office and online reservation page on the hotel information screen?",
+        "videoName": "How to enter Hotel Information?",
+        "videoDescription": "Set the main hotel information and easily customize your online booking page.",
         "youtubeVideoID": "xMnehlnODAM",
         "videoTime": "04:04",
         "videoIntTime": 4.04
       },
       {
-        "videoName": "Basic Definitions Menu and Hotel Definition with Different Language Options",
-        "videoDescription": "What are the mandatory fields that should be defined when a new hotel registration is opened? How to define hotel information in other languages?",
+        "videoName": "Introduction to Basic Definitions Screen and How to add different language options?",
+        "videoDescription": "All the basic definitions related to room type, board type, rate type, department, revenue and currency settings are done from this menu. Get accustomed to work around this menu and set the desired languages for your property.",
         "youtubeVideoID": "Rm0lfNbV9fM",
         "videoTime": "01:38",
         "videoIntTime": 1.38
       },
       {
-        "videoName": "Room Definitions",
-        "videoDescription": "How are the room type, room description, room location, room view and bed type defined in Elektraweb?",
+        "videoName": "How to set Room Type and Define Room Units and Features",
+        "videoDescription": "Learn how to define your room units, related features, as well as pricing and usage rules.",
         "youtubeVideoID": "q1ClBE0AG6w",
         "videoTime": "06:38",
         "videoIntTime": 6.38
       },
       {
-        "videoName": "Department and  Revenue Code Definitions",
-        "videoDescription": "How is the accounting information in the basic definitions screen defined?",
+        "videoName": "How to define Department, Revenue Group and Currencies?",
+        "videoDescription": "Define department & department groups, revenue groups and set the currencies used in your hotel property.",
         "youtubeVideoID": "9wuyvkCeqAI",
         "videoTime": "01:42",
         "videoIntTime": 1.42
+      },
+      {
+        "videoName": "How to define Board Types and Rate Types?",
+        "videoDescription": "Set your board & rate type definitions and rules easily.",
+        "youtubeVideoID": "pumKBusWAbA",
+        "videoTime": "01:15",
+        "videoIntTime": 1.15
+      },
+      {
+        "videoName": "What it is and how to use Close Cases List?",
+        "videoDescription": "Learn what is the closed cases list in ElektraWeb and how to use this screen.",
+        "youtubeVideoID": "mcDb0LLYXk8",
+        "videoTime": "00:32",
+        "videoIntTime": 0.32
       }
     ]
   }
