@@ -33,3 +33,21 @@
     ]
   }
 ]
+},
+  {
+    "videoGrup": "ÖnBüro İşlemleri",
+    "videos": [
+      {
+        "videoName": "Rezervasyon listesi Nedir ve Hangi İşlemler Yapılabilir ?",
+        "videoDescription": "Rezervasyon listesinde check-in , oda verme , folyo görüntüleme gibi tüm aksiyonlar nasıl yapılır?",
+        "youtubeVideoID": "D_6suUfdie8",
+        "videoTime": "13:28",
+        "videoIntTime": 13.28
+      },
+      {
+        "videoName": "Hangi Ekranlardan Rezervasyon Oluşturabiliriz ?",
+        "videoDescription": "ElektraWeb'de rezervasyon oluşturmak için kullanabileceğiniz ekranlar hangileridir?",
+        "youtubeVideoID": "VNtd54L_sdo",
+        "videoTime": "12:02",
+        "videoIntTime": 12.02
+      }
