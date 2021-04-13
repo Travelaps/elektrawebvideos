@@ -33,21 +33,21 @@
     ]
     },
   {
-    "videoGrup": "bisiparis.com",
+    "videoGrup": "Setup",
     "videos": [
       {
-        "videoName": "bisiparis.com nedir ?",
-        "videoDescription": "Bisiparis.com restoran, kafe, klup, plaj veya sosyal tesis gibi ağırlama sektöründe çalışan işletmeler için geliştirilmiş en kapsamlı dijital menu, üyelik ve online satış sistemidir.",
-        "youtubeVideoID": "Z8d6wJv5nf0",
-        "videoTime": "00:49",
-        "videoIntTime": 0.49
+        "videoName": "Hotel Information ",
+        "videoDescription": "How to define the information front office and online reservation page on the hotel information screen?",
+        "youtubeVideoID": "xMnehlnODAM",
+        "videoTime": "04:04",
+        "videoIntTime": 4.04
       },
       {
-        "videoName": "bisiparis.com üzerinden tesis nasıl oluşturulur ve ürünler nasıl girilir ?",
-        "videoDescription": "",
-        "youtubeVideoID": "FzWZAgptcpc",
-        "videoTime": "04:14",
-        "videoIntTime": 4.14
+        "videoName": "Basic Definitions Menu and Hotel Definition with Different Language Options",
+        "videoDescription": "What are the mandatory fields that should be defined when a new hotel registration is opened? How to define hotel information in other languages?",
+        "youtubeVideoID": "Rm0lfNbV9fM",
+        "videoTime": "01:38",
+        "videoIntTime": 1.38
       }
     ]
   }
