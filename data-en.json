@@ -48,6 +48,13 @@
         "youtubeVideoID": "Rm0lfNbV9fM",
         "videoTime": "01:38",
         "videoIntTime": 1.38
+      },
+      {
+        "videoName": "Room Definitions",
+        "videoDescription": "How are the room type, room description, room location, room view and bed type defined in Elektraweb?",
+        "youtubeVideoID": "q1ClBE0AG6w",
+        "videoTime": "06:38",
+        "videoIntTime": 6.38
       }
     ]
   }
