@@ -80,3 +80,24 @@
     ]
   }
 ]
+},
+  {
+    "videoGrup": "bisiparis.com",
+    "videos": [
+      {
+        "videoName": "bisiparis.com nedir ?",
+        "videoDescription": "Bisiparis.com restoran, kafe, klup, plaj veya sosyal tesis gibi ağırlama sektöründe çalışan işletmeler için geliştirilmiş en kapsamlı dijital menu, üyelik ve online satış sistemidir.",
+        "youtubeVideoID": "Z8d6wJv5nf0",
+        "videoTime": "00:49",
+        "videoIntTime": 0.49
+      },
+      {
+        "videoName": "bisiparis.com üzerinden tesis nasıl oluşturulur ve ürünler nasıl girilir ?",
+        "videoDescription": "",
+        "youtubeVideoID": "FzWZAgptcpc",
+        "videoTime": "04:14",
+        "videoIntTime": 4.14
+      }
+    ]
+  }
+]
