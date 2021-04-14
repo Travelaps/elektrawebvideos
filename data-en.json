@@ -76,6 +76,20 @@
         "youtubeVideoID": "mcDb0LLYXk8",
         "videoTime": "00:32",
         "videoIntTime": 0.32
+      },
+      {
+        "videoName": "How to display Invoice and Contact Addresses of Agencies, Companies and Guest?",
+        "videoDescription": "See the list of all addresses and contact information of Agencies, Companies, and Individual Quests who stayed in your hotel property. This information is used when creating invoices, but also when working with other screens and modules inside the system, such as reservation cards, rate codes, and sales projects.",
+        "youtubeVideoID": "mcDb0LLYXk8",
+        "videoTime": "00:35",
+        "videoIntTime": 0.35
+      },
+      {
+        "videoName": "How to define Price and Availability Information from a single screen?",
+        "videoDescription": "Room price and availability information can be easily updated from a single screen in ElektraWeb program. You will learn how to display prices for the specific date period in the future, and to automatically and manually define room prices and availability information. In addition, you may also set the stop sales dates and periods, and decrease or increase the number of rooms available for online sales. Price definitions, rules, and changes made under this screen are visible on both online booking page, open for your property after signing up for Elektraweb, but also on other online channels where you sell your room units. In other words, this multifunctional screen is used both for Pricing & Availability and Channel Management operations.",
+        "youtubeVideoID": "mcDb0LLYXk8",
+        "videoTime": "04:53",
+        "videoIntTime": 4.53
       }
     ]
 },
