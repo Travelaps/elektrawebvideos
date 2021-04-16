@@ -104,6 +104,27 @@
         "youtubeVideoID": "9DSz5C2ii20",
         "videoTime": "01:58",
         "videoIntTime": 1.58
+      },
+      {
+        "videoName": "How to set the Board Breakdown?",
+        "videoDescription": "Learn how to define board breakdown parameters and rules of its use. Once you have learned to set it, you will have no difficulties in defining packages as well.",
+        "youtubeVideoID": "8vkE4_sZjYc",
+        "videoTime": "06:57",
+        "videoIntTime": 6.57
+      },
+      {
+        "videoName": "How to set Packages?",
+        "videoDescription": "Most of the hotel properties offer different products and services to their guests in the form of packages. Learn how to set these in the Elektraweb. In addition, once you know how to regulate the use of these packages, you will see how easy is to add and process these on the guest folio inside one reservation card.",
+        "youtubeVideoID": "r0SXHouVwEg",
+        "videoTime": "03:51",
+        "videoIntTime": 3.51
+      },
+      {
+        "videoName": "How to use Automatic E-mail Sender?",
+        "videoDescription": "With this function under the Setup menu, you will learn how to make basic settings for the desired reports to be sent to the specific user(s).",
+        "youtubeVideoID": "EsYq3YYjnic",
+        "videoTime": "01:03",
+        "videoIntTime": 1.03
       }
     ]
 },
