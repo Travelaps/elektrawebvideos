@@ -132,6 +132,13 @@
     "videoGrup": "Front Office Operations",
     "videos": [
       {
+        "videoName": "Reservation Screens",
+        "videoDescription": "",
+        "youtubeVideoID": "MWsCZThW6IM",
+        "videoTime": "10:07",
+        "videoIntTime": 10.07
+      },
+      {
         "videoName": "Reservation List",
         "videoDescription": "",
         "youtubeVideoID": "0PZQm8Ob09w",
