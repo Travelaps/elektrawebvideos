@@ -165,13 +165,7 @@
         "youtubeVideoID": "Nt3IbhrXawM",
         "videoTime": "00:47",
         "videoIntTime": 0.47
-      },
-      {
-        "videoName": "Excelden Yükleme İşlemi Nasıl Yapılır?",
-        "videoDescription": "Excelden veri yükleme işlemi nasıl yapılır?",
-        "youtubeVideoID": "IKXo6OEv1po",
-        "videoTime": "00:58",
-        "videoIntTime": 0.58
+      
       }
     ]
   },
@@ -497,6 +491,13 @@
         "youtubeVideoID": "yEA5ZhETvO0",
         "videoTime": "03:58",
         "videoIntTime": 3.58
+      },
+      {
+        "videoName": "Excelden Yükleme İşlemi Nasıl Yapılır?",
+        "videoDescription": "Excelden veri yükleme işlemi nasıl yapılır?",
+        "youtubeVideoID": "IKXo6OEv1po",
+        "videoTime": "00:58",
+        "videoIntTime": 0.58
       }
     ]
   },
