@@ -132,18 +132,18 @@
     "videoGrup": "Front Office Operations",
     "videos": [
       {
-        "videoName": "Reservation Screens",
-        "videoDescription": "",
-        "youtubeVideoID": "MWsCZThW6IM",
-        "videoTime": "10:07",
-        "videoIntTime": 10.07
-      },
-      {
-        "videoName": "Reservation List",
-        "videoDescription": "",
+        "videoName": "What is Reservation List and which operations can be performed?",
+        "videoDescription": "In one video, learn how to use Reservation List in Elektraweb and see which operations can be done by using this program screen.",
         "youtubeVideoID": "0PZQm8Ob09w",
         "videoTime": "12:12",
         "videoIntTime": 12.12
+      },
+      {
+        "videoName": "Screens for creating Reservation",
+        "videoDescription": "There are several ways how we can create the reservations in the Elektraweb.  Watch the whole video and learn about each of these options. ",
+        "youtubeVideoID": "MWsCZThW6IM",
+        "videoTime": "10:07",
+        "videoIntTime": 10.07
       },
       {
         "videoName": "In-House List",
