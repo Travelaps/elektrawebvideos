@@ -179,6 +179,13 @@
         "youtubeVideoID": "rhul_NWRBiQ",
         "videoTime": "00:56",
         "videoIntTime": 0.56
+      },
+      {
+        "videoName": "How to use Departure List?",
+        "videoDescription": "Learn what are the guest-related operations that can be performed from Departure List.",
+        "youtubeVideoID": "aVYVG6z0smA",
+        "videoTime": "01:17",
+        "videoIntTime": 1.17
       }
     ]
   }
