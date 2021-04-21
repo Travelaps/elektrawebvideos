@@ -228,6 +228,13 @@
         "youtubeVideoID": "Z468Ezo1Vs8",
         "videoTime": "02:45",
         "videoIntTime": 2.45
+      },
+       {
+        "videoName": "How to create Group Reservations?",
+        "videoDescription": "From Reservation Card video, we have showed you how to enter multiple reservation records. With this video we explain how to create group reservations in the part of the Elektraweb program specifically reserved for this operation. Whole process of creating group reservations made by companies or agencies, following their status and revenue, defining special packages, virtual folio and folio routing rules, as well as entering sales blocks, reservation records and guest names is explained in more details.",
+        "youtubeVideoID": "CTodNRVipjE",
+        "videoTime": "10:50",
+        "videoIntTime": 10.50
       }
     ]
   }
