@@ -242,6 +242,13 @@
         "youtubeVideoID": "j8Q2xsilaTc",
         "videoTime": "04:15",
         "videoIntTime": 4.15
+      },
+      {
+        "videoName": "How to Check Folio Balances?",
+        "videoDescription": "In Elektraweb there is a quick way how we can see the guests' folio balances without necessarily opening the reservation card. In addition, there are several screens where these guest folios are listed based on the folio window inside reservation or according to the revenue groups we use in our hotel.",
+        "youtubeVideoID": "eozec1bQovA",
+        "videoTime": "01:17",
+        "videoIntTime": 1.17
       }
     ]
   }
