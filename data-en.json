@@ -305,6 +305,13 @@
         "youtubeVideoID": "umKD7BStsRI",
         "videoTime": "01:37",
         "videoIntTime": 1.37
+      },
+      {
+        "videoName": "How to add Room Wake-up Call?",
+        "videoDescription": "Room Wake-up Call can be easily added from both Reservation and In-House list. For more details, you may watch this video.",
+        "youtubeVideoID": "YZrtvW2jMo4",
+        "videoTime": "00:47",
+        "videoIntTime": 0.47
       }
     ]
   }
