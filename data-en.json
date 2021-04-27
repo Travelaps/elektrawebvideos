@@ -267,16 +267,23 @@
       {
         "videoName": "How to use In-House list?",
         "videoDescription": "In this video you will learn the basics on how to use In-House list. Short overview of the tools for general use, as well as the decription of related tabs in this list are presented.",
-        "youtubeVideoID": "ScRGJ-gcAxI",
+        "youtubeVideoID": "wUazKUWrL38",
         "videoTime": "02:28",
         "videoIntTime": 2.28
       },
       {
         "videoName": "What is ProFolio and how to use it?",
         "videoDescription": "ProFolio is a very useful screen inside reservation card from where users may see which expenses are planned to be posted in the guest folio, as well as to track which one of these are posted. Watch this video to find out more details on how to use this screen.",
-        "youtubeVideoID": "ScRGJ-gcAxI",
+        "youtubeVideoID": "Kjkjlnpj52E",
         "videoTime": "01:06",
         "videoIntTime": 1.06
+      },
+      {
+        "videoName": "What is Folio?",
+        "videoDescription": "Folio is the part of the reservation card from where we follow all the posted expenes and received payments for the related reservation. Learn more about its use from this video.",
+        "youtubeVideoID": "2AdqbrogP7Y",
+        "videoTime": "00:59",
+        "videoIntTime": 0.59
       }
     ]
   }
