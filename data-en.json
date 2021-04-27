@@ -333,6 +333,13 @@
         "youtubeVideoID": "9atVEd17x0I",
         "videoTime": "01:10",
         "videoIntTime": 1.10
+      },
+      {
+        "videoName": "How to Lock Folio?",
+        "videoDescription": "How to lock folio and prevent new expense postings is explained in this video.",
+        "youtubeVideoID": "IJx2WZA_QLQ",
+        "videoTime": "00:33",
+        "videoIntTime": 0.33
       }
     ]
   }
