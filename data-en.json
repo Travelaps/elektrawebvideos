@@ -298,6 +298,13 @@
         "youtubeVideoID": "A5jNTkSbb6w",
         "videoTime": "01:43",
         "videoIntTime": 1.43
+      },
+      {
+        "videoName": "What is NoShow and how to apply it?",
+        "videoDescription": "There are different rules and policies in hotels on how to handle NoShow reservations. From this video you will learn how to move one reservation to NoShow List, set the NoShow department and revenue group for charging the NoShow fee, as well as how to apply it to one reservation.",
+        "youtubeVideoID": "umKD7BStsRI",
+        "videoTime": "01:37",
+        "videoIntTime": 1.37
       }
     ]
   }
