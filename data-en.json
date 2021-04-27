@@ -284,6 +284,13 @@
         "youtubeVideoID": "2AdqbrogP7Y",
         "videoTime": "00:59",
         "videoIntTime": 0.59
+      },
+      {
+        "videoName": "How to do Folio Transfer and Person Transfer?",
+        "videoDescription": "In Elektraweb, it is very easy to transfer folio transactions from one reservation to another, as well as to transfer folio transactions between two or more people inside the same reservation. Watch this video to learn how to perform these operations in this program.",
+        "youtubeVideoID": "_uj0fnzNc9w",
+        "videoTime": "03:56",
+        "videoIntTime": 3.56
       }
     ]
   }
