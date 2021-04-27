@@ -314,11 +314,18 @@
         "videoIntTime": 0.47
       },
       {
-        "videoName": "How to charge room accommodation before Night Audit? ",
+        "videoName": "How to charge room accommodation before Night Audit?",
         "videoDescription": "In the Elektraweb program it is automatically set for the accommodation charge to be posted daily after the Night Audit. However, it is not mandatory to wait for the completion of end-of-day operations to post the one night or all accommodation charges. How to do this will be shown in this video.",
         "youtubeVideoID": "BNwfzW5wQjI",
         "videoTime": "00:59",
         "videoIntTime": 0.59
+      },
+      {
+        "videoName": "How to quickly Check-out reservation from the In-House list?",
+        "videoDescription": "Watch this video to learn about the quick way to do the check-out from In-House List.",
+        "youtubeVideoID": "9atVEd17x0I",
+        "videoTime": "00:31",
+        "videoIntTime": 0.31
       }
     ]
   }
