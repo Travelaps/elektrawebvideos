@@ -173,6 +173,13 @@
     "videoGrup": "ÖnBüro İşlemleri",
     "videos": [
       {
+        "videoName": "Yenilenen Rezervasyon Listesi Nasıl Kullanılır?",
+        "videoDescription": "Rezervasyon listeleri sizlere daha pratik, hızlı bir kullanım sunabilmek, tek bir ekrandan tüm rezervasyonlara kolayca ulaşılabilmeniz için yenilendi.",
+        "youtubeVideoID": "hcAMasCA-Kw",
+        "videoTime": "02:14",
+        "videoIntTime": 2.14
+      },
+      {
         "videoName": "Rezervasyon listesi Nedir ve Hangi İşlemler Yapılabilir ?",
         "videoDescription": "Rezervasyon listesinde check-in , oda verme , folyo görüntüleme gibi tüm aksiyonlar nasıl yapılır?",
         "youtubeVideoID": "D_6suUfdie8",
