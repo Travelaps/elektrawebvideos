@@ -404,24 +404,4 @@
         "videoTime": "04:43",
         "videoIntTime": 4.43
       }
-    ]
-  }
-   ]
-    },
-  {
-    "videoGrup": "Setup",
-    "videos": [
-      {
-        "videoName": "How to enter Hotel Information?",
-        "videoDescription": "Set the main hotel information and easily customize your online booking page.",
-        "youtubeVideoID": "xMnehlnODAM",
-        "videoTime": "04:04",
-        "videoIntTime": 4.04
-      },
-      {
-        "videoName": "Introduction to Basic Definitions Screen and How to add different language options?",
-        "videoDescription": "All the basic definitions related to room type, board type, rate type, department, revenue and currency settings are done from this menu. Get accustomed to work around this menu and set the desired languages for your property.",
-        "youtubeVideoID": "Rm0lfNbV9fM",
-        "videoTime": "01:38",
-        "videoIntTime": 1.38
-      }
+    
