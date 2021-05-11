@@ -347,6 +347,13 @@
         "youtubeVideoID": "yZHcVb_cyAs",
         "videoTime": "00:39",
         "videoIntTime": 0.39
+      },
+      {
+        "videoName": "How to Issue Invoice?",
+        "videoDescription": "There are several screens from where we can issue invoices in the Elektraweb program. Watch this video to find out all about them, as well as about the procedure on how to finalize the invoice creation, set some default parameters, add and change address, etc.",
+        "youtubeVideoID": "_w-NnBRJXU8",
+        "videoTime": "02:37",
+        "videoIntTime": 2.37
       }
     ]
   }
