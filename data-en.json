@@ -375,6 +375,13 @@
         "youtubeVideoID": "2XP802ppt-U",
         "videoTime": "01:33",
         "videoIntTime": 1.33
+      },
+      {
+        "videoName": "How to reach Old End-of-Day reports?",
+        "videoDescription": "Reports created after Night Audit can be reached and listed under Archived End-of-day reports.  From here, we can filter these reports according to the date of our choice. Among these reports, there are daily in-house, check-in, check-out, cancellation, folio transactions, main current, guest list, official guest list, and many others.",
+        "youtubeVideoID": "kc3sNirwn8g",
+        "videoTime": "00:34",
+        "videoIntTime": 0.34
       }
     ]
   }
