@@ -431,11 +431,81 @@
         "videoIntTime": 12.12
       },
       {
-        "videoName": "What is Reservation List and which operations can be performed?",
-        "videoDescription": "In one video, learn how to use Reservation List in Elektraweb and see which operations can be done by using this program screen.",
-        "youtubeVideoID": "0PZQm8Ob09w",
-        "videoTime": "12:12",
-        "videoIntTime": 12.12
+        "videoName": "How to use In-House List?",
+        "videoDescription": "In this video, you will learn the basics of how to use In-House list. A short overview of the tools for general use, as well as the description of related tabs in this list, are presented.",
+        "youtubeVideoID": "wUazKUWrL38",
+        "videoTime": "02:28",
+        "videoIntTime": 2.28
+      },
+      {
+        "videoName": "How to use Departures List?",
+        "videoDescription": "All reservations for which check-out was done are listed under this screen. Check out the additional operations and actions that you may perform under this list.",
+        "youtubeVideoID": "iu41f4gXzqc",
+        "videoTime": "01:29",
+        "videoIntTime": 1.29
+      },
+      {
+        "videoName": "What is NoShow and how to apply it?",
+        "videoDescription": "There are different rules and policies in hotels on how to handle NoShow reservations. From this video you will learn how to move one reservation to NoShow List, set the NoShow department and revenue group for charging the NoShow fee, as well as how to apply it to one reservation.",
+        "youtubeVideoID": "umKD7BStsRI",
+        "videoTime": "01:37",
+        "videoIntTime": 1.37
+      },
+      {
+        "videoName": "How to check and what operations can be done in Cancelled Reservations List and what operations can be done?",
+        "videoDescription": "In this video we will explain how to use the Cancelled Reservation list, how to check and manage cancellation reasons, as well as what other operations can you do with the reservations found in this list. ",
+        "youtubeVideoID": "ujL9IGcGcuA",
+        "videoTime": "00:45",
+        "videoIntTime": 0.45
+      },
+      {
+        "videoName": "How to use Reservation List By Payment Type?",
+        "videoDescription": "If there are specific payment categories we applied for the reservation and we have entered this information into the reservation card, these reservations will be listed here. Although it is not mandatory, this list may be useful when the hotelier wishes to keep specific track of reservations and payment methods.",
+        "youtubeVideoID": "ozhNxH14HEA",
+        "videoTime": "00:45",
+        "videoIntTime": 0.45
+      },
+      {
+        "videoName": "How to use Guest Name List?",
+        "videoDescription": "This is the list where all the guests in the hotel rooms are displayed. We can get an overview of the guest names according to different tabs where reservations are grouped. Watch this video to see what else you can do on this list.",
+        "youtubeVideoID": "c3WqYGzrrm0",
+        "videoTime": "01:51",
+        "videoIntTime": 1.51
+      },
+      {
+        "videoName": "How to use All Reservation List?",
+        "videoDescription": "This is the screen where all the reservations we made in our hotel property are listed. The list automatically opens under the All tab, but we can get a different overview by clicking on the other reservation status tabs. Check out the additional operations and actions that you may perform under this list.",
+        "youtubeVideoID": "X0lngAcKMI8",
+        "videoTime": "01:05",
+        "videoIntTime": 1.05
+      },
+      {
+        "videoName": "How to display Credit Card Information coming from online reservations?",
+        "videoDescription": "Watch this video and learn where to find Credit Card information coming from online reservations. These are carefully kept inside the system and only the authorized users can have access to these. Check the video for more details.",
+        "youtubeVideoID": "bFFy6-ENAbg",
+        "videoTime": "00:29",
+        "videoIntTime": 0.29
+      },
+       {
+        "videoName": "Can we Integrate with the Offline Agencies?",
+        "videoDescription": "Elektraweb can be integrated with both online and offline travel agencies. From this video, you will find how to set the integration with the offline travel agencies and tour operators, as well as how to retrieve reservations from their system and register these into your own Elektraweb program.",
+        "youtubeVideoID": "JXtwBU2Wct0",
+        "videoTime": "02:29",
+        "videoIntTime": 2.29
+      },
+      {
+        "videoName": "How to store Documents?",
+        "videoDescription": "Check this video on how to scan, store and access the documents that you uploaded to the Elektraweb system. ",
+        "youtubeVideoID": "lqimeKgJ2Ag",
+        "videoTime": "00:30",
+        "videoIntTime": 0.30
+      },
+      {
+        "videoName": "How to use Call Log in the Reservations part?",
+        "videoDescription": "Let's imagine a scenario where a potential guest decides to book a room in our hotel through the online reservation page. After selecting the desired room, he/she starts to fill out basic personal and contact information, but for some reason, he/she had to leave the page. Their search data will be registered under the Call Log segment inside Elektraweb program, and based on this information we may get in contact with the guest and ask for the status of the reservation they were about to make.",
+        "youtubeVideoID": "tyU4amPN3sU",
+        "videoTime": "01:21",
+        "videoIntTime": 1.21
       }
    ]
 }
