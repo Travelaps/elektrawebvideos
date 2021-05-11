@@ -340,6 +340,13 @@
         "youtubeVideoID": "IJx2WZA_QLQ",
         "videoTime": "00:33",
         "videoIntTime": 0.33
+      },
+      {
+        "videoName": "How to make Room State Settings for Check-in Operations?",
+        "videoDescription": "In case we wish to perform the check-in for the room that is in dirty status, program will display a warning and it will not allowed us to continue. However, this procedure can be customized according to hotel preferences. Watch this video to find out how.",
+        "youtubeVideoID": "yZHcVb_cyAs",
+        "videoTime": "00:39",
+        "videoIntTime": 0.39
       }
     ]
   }
