@@ -389,6 +389,13 @@
         "youtubeVideoID": "INC2-BircUo",
         "videoTime": "01:19",
         "videoIntTime": 1.19
+      },
+       {
+        "videoName": "How to open and manage Tasks?",
+        "videoDescription": "Learn how to create new tasks in the Elektraweb program from this video. Here you will find information about how to make basic Hotel Task Definitions, assign users for the specific task, define the time necessary to finish the task as well as how to keep track of these throughout several screens inside the system.",
+        "youtubeVideoID": "amdiAbLWGjQ",
+        "videoTime": "03:20",
+        "videoIntTime": 3.20
       }
     ]
   }
