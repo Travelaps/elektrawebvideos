@@ -361,6 +361,13 @@
         "youtubeVideoID": "iA-pc6eTUg0",
         "videoTime": "02:41",
         "videoIntTime": 2.41
+      },
+      {
+        "videoName": "What is Forecast and how to use it?",
+        "videoDescription": "Forecast is the screen from where we can obtain necessary forecast reports. In the Elektraweb program, forecast information is displayed in both graphic and list form for the desired period. ",
+        "youtubeVideoID": "LRLSbOWghhI",
+        "videoTime": "00:43",
+        "videoIntTime": 0.43
       }
     ]
   }
