@@ -495,9 +495,9 @@
       {
         "videoName": "Rakip Otel Fiyat Analizi (Rate Manager)",
         "videoDescription": "Rakip otellerimizin fiyatlarını analiz ederek kendi fiyatlarımızı nasıl düzenleyebileceğimiz anlatılmıştır.",
-        "youtubeVideoID": "BT5BCEPRVg0",
-        "videoTime": "01:30",
-        "videoIntTime": 1.3
+        "youtubeVideoID": "v0OX7fH96XE",
+        "videoTime": "02:21",
+        "videoIntTime": 2.21
       },
       {
         "videoName": "Kontrat Sihirbazı",
@@ -518,6 +518,13 @@
   {
     "videoGrup": "Rezervasyon İşlemleri",
     "videos": [
+      {
+        "videoName": "Yenilenen Rezervasyon Listesi Nasıl Kullanılır?",
+        "videoDescription": "Rezervasyon listeleri sizlere daha pratik, hızlı bir kullanım sunabilmek, tek bir ekrandan tüm rezervasyonlara kolayca ulaşılabilmeniz için yenilendi.",
+        "youtubeVideoID": "hcAMasCA-Kw",
+        "videoTime": "02:14",
+        "videoIntTime": 2.14
+      },
       {
         "videoName": "Bekleme listesi Nedir ve Hangi İşlemler Yapılabilir ?",
         "videoDescription": "Kesinleşmemiş rezervasyonlar bekleme listsine nasıl alınır? Hangi aksiyonlar uygulanır? ",
