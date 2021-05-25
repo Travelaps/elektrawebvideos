@@ -562,5 +562,52 @@
         "videoIntTime": 2.37
       }
     ]
+ },
+  {
+    "videoGrup": "Online Reservation",
+    "videos": [
+      {
+        "videoName": "How to Set Online Reservation Page: from Visibility to Hotel Features?",
+        "videoDescription": "From the video related to Hotel Information part under the segment menu, we have explained how to setup the home page of the hotel's online booking engine. More detailed definitions and settings related to Online Reservation page can be found under the Online Reservation Settings part. Learn how to make these settings from this video.",
+        "youtubeVideoID": "3QpGkLHmiMc",
+        "videoTime": "02:07",
+        "videoIntTime": 2.07
+      },
+      {
+        "videoName": "What is Online Reservation Module and How to Use it?",
+        "videoDescription": "One of the main features of Elektraweb software that are offered free of charge is the online reservation page. Once user completes with the registration process for Elektraweb, automatically new online reservation page on the related hotel name will be opened. We can reach this page by clicking on the Booking icon found in the upper toolbar. This page can be integrated with your own official hotel web page and all information, payment options, design settings etc can be added through Elektraweb program. Watch this video to find out how to do this.",
+        "youtubeVideoID": "BTlLUUnJqL4",
+        "videoTime": "02:12",
+        "videoIntTime": 2.12
+      },
+      {
+        "videoName": "How to Use Online Guest Application?",
+        "videoDescription": "With the online guest application that comes with Elektraweb, guests of the hotel properties will be able to perform up to 25 different operations online such as Check-in check out, paying the deposit, ordering, and making reservations for different services inside the property as well as communicate their requests.",
+        "youtubeVideoID": "7Tf34WAbX6o",
+        "videoTime": "01:30",
+        "videoIntTime": 1.30
+      },
+      {
+        "videoName": "How to Set the Desired Colour Theme for Online Reservation Page?",
+        "videoDescription": "With the Elektraweb user name and password, users can also log in to the online reservation page and set the desired colour theme that will be in accordance with hotel preferences and official brand colours.",
+        "youtubeVideoID": "3pI3MZ4_nFM",
+        "videoTime": "00:30",
+        "videoIntTime": 0.30
+      },
+      {
+        "videoName": "How to make SEO and Agreement Settings for Online Reservation Page?",
+        "videoDescription": "In order for the hotels' online reservation page to be displayed on the top of Google search pages, we can make the necessary Search Engine Optimisation or SEO settings. Under the Agreement segment, different types of agreements such as GDPR, privacy policy, and Terms of use, can be added and adapted for use in multiple languages. These agreements will be displayed at the bottom of the online reservation page.  Check the video to learn how to quickly set these options.",
+        "youtubeVideoID": "oc3y4yvSMYI",
+        "videoTime": "00:32",
+        "videoIntTime": 0.32
+      },
+      {
+        "videoName": "How to Add Extra Services?",
+        "videoDescription": "Defining extra services such as tour, package, transfer, spa packages, and similar to the online reservation page can be easily done in the Elektraweb system. In this video, we have created one example service in order to practically show how to easily define these services, add them to the reservation page and start increasing sales and revenues.",
+        "youtubeVideoID": "Ka1m7Tqhej0",
+        "videoTime": "02:49",
+        "videoIntTime": 2.49
+      }
+    ]
   }
 ]
