@@ -527,11 +527,39 @@
         "videoIntTime": 3.49
       },
       {
-        "videoName": "bisiparis.com üzerinden tesis nasıl oluşturulur ve ürünler nasıl girilir ?",
-        "videoDescription": "",
-        "youtubeVideoID": "FzWZAgptcpc",
-        "videoTime": "04:14",
-        "videoIntTime": 4.14
+        "videoName": "Room Calendar or Blockage Screen",
+        "videoDescription": "Calendar is one of Elektraweb's screen from where we can quickly create new reservation records, assign the room number and perform main front office-related operations such as Check-in,  check-out, posting expenses and collecting payments, issue invoice, change room number, etc.  In this video, a more detailed presentation of all the features of this screen will be explained.",
+        "youtubeVideoID": "2tYCpltqdbo",
+        "videoTime": "09:03",
+        "videoIntTime": 9.03
+      },
+      {
+        "videoName": "Quick Posting",
+        "videoDescription": "With this video, you will learn how to define Quick Posting Items and their prices, easily take payment, or process these to the desired guest's folio.",
+        "youtubeVideoID": "cyxgJR3Jepo",
+        "videoTime": "01:22",
+        "videoIntTime": 1.22
+      },
+       {
+        "videoName": "Contract Wizard",
+        "videoDescription": "In this video, you will learn how to quickly and practically define the contracts by using Elektraweb's Contract Wizard.",
+        "youtubeVideoID": "mZJNv9FsadA",
+        "videoTime": "04:20",
+        "videoIntTime": 4.20
+      },
+      {
+        "videoName": "How to use Import Excel feature?",
+        "videoDescription": "With the Import Excel feature, we can easily import numerous and various records that we have in Excel format. In this video, we will show you how to use this feature on the Quick Posting Items definition example.",
+        "youtubeVideoID": "vn3kB-7AmoQ",
+        "videoTime": "01:24",
+        "videoIntTime": 1.24
+      },
+      {
+        "videoName": "How to set Rate Manager?",
+        "videoDescription": "With Rate Manager you can assure the adequate price-occupancy balance which in return can bring more revenue to your hotel property and increase its online visibility and competitive power. With this video, learn how to set this function inside Elektraweb.",
+        "youtubeVideoID": "vNKD0zBMzcY",
+        "videoTime": "02:37",
+        "videoIntTime": 2.37
       }
     ]
   }
