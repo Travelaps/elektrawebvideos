@@ -607,6 +607,13 @@
         "youtubeVideoID": "Ka1m7Tqhej0",
         "videoTime": "02:49",
         "videoIntTime": 2.49
+      },
+      {
+        "videoName": "How to set the Channel Integration?",
+        "videoDescription": "From this video, you will learn how to set the integration with online travel agencies and other online intermediary companies. With a two-way integration supported by Elektraweb's Channel Manager, hotel users will be able to instantly and automatically send price and availability information to all online channels they are working with. Moreover, reservations coming from these channels will be automatically recorded in the Elektraweb program. With this powerful feature, hoteliers are being offered a powerful tool to manage different online channels easily and from a single screen.",
+        "youtubeVideoID": "E4m6lXwMLnY",
+        "videoTime": "05:58",
+        "videoIntTime": 5.58
       }
     ]
   }
