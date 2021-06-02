@@ -625,21 +625,21 @@
     ]
  },
   {
-    "videoGrup": "bisiparis.com",
+    "videoGrup": "Housekeeping",
     "videos": [
       {
-        "videoName": "bisiparis.com nedir ?",
-        "videoDescription": "Bisiparis.com restoran, kafe, klup, plaj veya sosyal tesis gibi ağırlama sektöründe çalışan işletmeler için geliştirilmiş en kapsamlı dijital menu, üyelik ve online satış sistemidir.",
-        "youtubeVideoID": "Z8d6wJv5nf0",
-        "videoTime": "00:49",
-        "videoIntTime": 0.49
+        "videoName": "Room Rack",
+        "videoDescription": "Room Rack is the screen from where we can see the cleanliness status of rooms in our hotel property: whether these are clean, dirty, closed, in maintenance, etc. In addition, several front-office-related operations can be easily performed from this screen. Watch this video and find out all the operations related to this screen that can be used by both Front Office and Housekeeping departments: changing the color settings, changing room statuses, performing reservation-related operations, and filtering.",
+        "youtubeVideoID": "XfNX0uAyjlI",
+        "videoTime": "03:49",
+        "videoIntTime": 3.49
       },
       {
-        "videoName": "bisiparis.com üzerinden tesis nasıl oluşturulur ve ürünler nasıl girilir ?",
-        "videoDescription": "",
-        "youtubeVideoID": "FzWZAgptcpc",
-        "videoTime": "04:14",
-        "videoIntTime": 4.14
+        "videoName": "How to create the Discrepancy report?",
+        "videoDescription": "From HK Room Control List, we may see the listed information of the In-House guests, especially with the information about the number of adults and children staying in the room. In case the maid user notices incompatibility between the real number of people staying in the room and those that are displayed list, then the related fields can be easily changed. In these situations, the Discrepancy report is created and it can be easily printed from this screen.",
+        "youtubeVideoID": "FQxtUC6zstg",
+        "videoTime": "00:46",
+        "videoIntTime": 0.46
       }
     ]
   }
