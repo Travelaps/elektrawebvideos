@@ -668,6 +668,13 @@
         "youtubeVideoID": "2C6d9Cv69G0",
         "videoTime": "02:46",
         "videoIntTime": 2.46
+      },
+       {
+        "videoName": "How to Display Planned Room Changes?",
+        "videoDescription": "From the Room Change Plans found under HK menu, we can filter all the planned room changes for the desired date range. This is only the view screen and there is no possibility to perform any changes or actions here. Check this video for more details.",
+        "youtubeVideoID": "kFtL-fkDplE",
+        "videoTime": "00:29",
+        "videoIntTime": 0.29
       }
     ]
   }
