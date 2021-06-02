@@ -647,6 +647,13 @@
         "youtubeVideoID": "kTgFI42lF94",
         "videoTime": "01:44",
         "videoIntTime": 1.44
+      },
+      {
+        "videoName": "How to Add Room Note?",
+        "videoDescription": "For adding the Room Notes we should use the HK Room Control list, click on the desired reservation, and select Notes operation under the Action menu. From the displayed list, we can select among the various predefined note types such as do not disturb, sleep out, minibar-related notes, and similar. After saving these will be displayed under the notes column in the form of short code.",
+        "youtubeVideoID": "Z1NzjTE4Pgs",
+        "videoTime": "00:52",
+        "videoIntTime": 0.52
       }
     ]
   }
