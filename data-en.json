@@ -675,6 +675,13 @@
         "youtubeVideoID": "kFtL-fkDplE",
         "videoTime": "00:29",
         "videoIntTime": 0.29
+      },
+      {
+        "videoName": "How to reach Reservation-related information from HK module?",
+        "videoDescription": "Based on the user's authorizations, we can use different filtering options under Reservation List inside the HK menu. After entering the desired filtering parameters, the related reservations will be listed.",
+        "youtubeVideoID": "Qk3pLmLR79k",
+        "videoTime": "00:28",
+        "videoIntTime": 0.28
       }
     ]
   }
