@@ -640,6 +640,13 @@
         "youtubeVideoID": "FQxtUC6zstg",
         "videoTime": "00:46",
         "videoIntTime": 0.46
+      },
+      {
+        "videoName": "How to do the Maid Assignment and Distribution Operations?",
+        "videoDescription": "Maid Assignment and Distribution overview can be done from Maid Management found under the Housekeeping module, or by using the operation found under the action menu in the HK Room Operations List. In this video you will find hot to quickly create the new Maid User, assign the rooms of the desired status, and perform the related distribution.",
+        "youtubeVideoID": "kTgFI42lF94",
+        "videoTime": "01:44",
+        "videoIntTime": 1.44
       }
     ]
   }
