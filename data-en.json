@@ -654,6 +654,13 @@
         "youtubeVideoID": "Z1NzjTE4Pgs",
         "videoTime": "00:52",
         "videoIntTime": 0.52
+      },
+      {
+        "videoName": "How to see the Room Changes in HK menu?",
+        "videoDescription": "From the Room Change screen under the Housekeeping module, we can search for the related date under the Filter segment and click on the Report button. We can further filer the related reservation with room changes depending on whether these are in In-House or Reservation Status.",
+        "youtubeVideoID": "Bb_LoaAWnXo",
+        "videoTime": "00:22",
+        "videoIntTime": 0.22
       }
     ]
   }
