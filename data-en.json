@@ -689,6 +689,13 @@
         "youtubeVideoID": "tIIXwEJpIbY",
         "videoTime": "00:26",
         "videoIntTime": 0.26
+      },
+       {
+        "videoName": "HK Mobile Operations Management",
+        "videoDescription": "With this video, you will learn how to use mobile management tools for housekeeping and task operations. This video was made in the real mobile mode, demonstrating which features can be displayed to specific housekeeping user, as well as how he/she can use it during their everyday operations.",
+        "youtubeVideoID": "G9yJCZNVyc4",
+        "videoTime": "04:43",
+        "videoIntTime": 4.43
       }
     ]
   }
