@@ -703,18 +703,81 @@
     "videoGrup": "Contract Management",
     "videos": [
       {
-        "videoName": "bisiparis.com nedir ?",
-        "videoDescription": "Bisiparis.com restoran, kafe, klup, plaj veya sosyal tesis gibi ağırlama sektöründe çalışan işletmeler için geliştirilmiş en kapsamlı dijital menu, üyelik ve online satış sistemidir.",
-        "youtubeVideoID": "Z8d6wJv5nf0",
-        "videoTime": "00:49",
-        "videoIntTime": 0.49
+        "videoName": "How to Define Agency Card?",
+        "videoDescription": "Learn how to quickly and easily fill out the agency card. It is also possible to make defautl settings for this related agency and these will be automatically displayed any time we create new reservation for the related agency. In this way users will have new reservations created in a fast and efficient manner.",
+        "youtubeVideoID": "L3tJE_X2GcM",
+        "videoTime": "02:28",
+        "videoIntTime": 2.28
       },
       {
-        "videoName": "bisiparis.com üzerinden tesis nasıl oluşturulur ve ürünler nasıl girilir ?",
-        "videoDescription": "",
-        "youtubeVideoID": "FzWZAgptcpc",
-        "videoTime": "04:14",
-        "videoIntTime": 4.14
+        "videoName": "How to Define Rate Code?",
+        "videoDescription": "In this video you will learn what is the Rate Code and how to define one. Moreover, we have created one example contract details record with more detailed explanation on the fields that need to be filled out.",
+        "youtubeVideoID": "-kn1C7bQbqI",
+        "videoTime": "08:30",
+        "videoIntTime": 8.30
+      },
+       {
+        "videoName": "Is it possible for one Agency to work with Multiple Rate Codes?",
+        "videoDescription": "The answer to this question is: yes. Watch this video to find out how to make these settings as well as to explore some additional screens inside the agency card.",
+        "youtubeVideoID": "cFZchYryGVc",
+        "videoTime": "00:52",
+        "videoIntTime": 0.52
+      },
+      {
+        "videoName": "How to define discounts?",
+        "videoDescription": "From this video, you will find out how to define discounts and supplements for the specific rate code and how to set for these to be applied for the specific contract. We will explore in more details how to enter the additional rules that need to be fulfilled in order for the current discount/supplement to be applied.",
+        "youtubeVideoID": "11U5ziLmvuY",
+        "videoTime": "02:29",
+        "videoIntTime": 2.29
+      },
+      {
+        "videoName": "Agency commission and how to display the definitions of it?",
+        "videoDescription": "In this video you will find out where to add the commission percentage for the agency. The value entered here will be displayed under the Details button inside the Reservation Card. Moreover, from this video you will find out how to use Agency Commission Reports.",
+        "youtubeVideoID": "XsOBCsDbUP0",
+        "videoTime": "01:54",
+        "videoIntTime": 1.54
+      },
+      {
+        "videoName": "How to define source, market and segments?",
+        "videoDescription": "Source, segment and markets definitions are made under the Contract Management module. Reports related to these concepts are of great importance for the hotel properties that work with different markets. This is because they may organize their business and operations based on these reports. From this video find out how you may define these concepts.",
+        "youtubeVideoID": "gFRpWW3QpbQ",
+        "videoTime": "01:49",
+        "videoIntTime": 1.49
+      },
+      {
+        "videoName": "How to set Agency, Company and Individual records?",
+        "videoDescription": "Agency cards may differ according to whether these are created for travel agencies, companies or individual record. In addition,based on the settings we make inside agency card, each card is grouped under the related segment.",
+        "youtubeVideoID": "GpJShkPM5Jo",
+        "videoTime": "00:52",
+        "videoIntTime": 0.52
+      },
+      {
+        "videoName": "How to define Sales Representative?",
+        "videoDescription": "By using the Contacts segment found under the agency card, list of the sales contacts for this specific agency will be displayed. With the plus button, new sales card is opened and the contact information of the related person can be entered here.",
+        "youtubeVideoID": "dxfQyb_uVjE",
+        "videoTime": "00:31",
+        "videoIntTime": 0.31
+      },
+      {
+        "videoName": "Stop Sales or closing the rooms for sales",
+        "videoDescription": "There are 3 different screens we can use to perform Stop Sale-related operations. You may watch this video to find out how to use these in more details and have the stop sale information quickly entered and applied for the desired date range.",
+        "youtubeVideoID": "o3RXMiSc20Q",
+        "videoTime": "02:14",
+        "videoIntTime": 2.14
+      },
+      {
+        "videoName": "How to set Agency limit and control risk status?",
+        "videoDescription": "Those hotel properties that want to set and establish specific rules for city ledger control, should use the Accounting-related tab found under the Agency card. In this video you will learn how to enter these information and to reach the Agency Limit Control List.",
+        "youtubeVideoID": "Np3wzf4elaw",
+        "videoTime": "01:10",
+        "videoIntTime": 1.10
+      },
+      {
+        "videoName": "Defining Special Pricing Cases",
+        "videoDescription": "Those hotel properties that want to set and establish specific rules for city ledger control, should use the Accounting-related tab found under the Agency card. In this video you will learn how to enter these information and to reach the Agency Limit Control List.",
+        "youtubeVideoID": "tiWsV_xXIvI",
+        "videoTime": "03:28",
+        "videoIntTime": 3.28
       }
     ]
   }
