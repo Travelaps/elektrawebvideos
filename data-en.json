@@ -782,21 +782,87 @@
     ]
 },
   {
-    "videoGrup": "bisiparis.com",
+    "videoGrup": "POS",
     "videos": [
       {
-        "videoName": "bisiparis.com nedir ?",
-        "videoDescription": "Bisiparis.com restoran, kafe, klup, plaj veya sosyal tesis gibi ağırlama sektöründe çalışan işletmeler için geliştirilmiş en kapsamlı dijital menu, üyelik ve online satış sistemidir.",
-        "youtubeVideoID": "Z8d6wJv5nf0",
-        "videoTime": "00:49",
-        "videoIntTime": 0.49
+        "videoName": "POS Introduction",
+        "videoDescription": "Welcome to the world of Elektraweb POS system. With its powerful features, user-friendly interface and easy-to-use commands, users will be assured with flawless management of their restaurants and other F&B units, regardless of whether they are independent dining facilities or in the scope of one hotel or hotel chains. This video is a short introduction into main features and screens of the Elektraweb's POS system. However, not only is this system used by restaurant staff to have better overview of the menu, take orders and receive and track payments and checks, but it is also a strong and appealing window into the endless world of potential customers. Watch out more of our videos to learn how to make the basic settings and definions of product items and groups in the back office, design Online Menu from where your guests can make orders, as well as to get practical knowledge on how to effectively and efficiently use the full potential of Elektraweb's POS.",
+        "youtubeVideoID": "dAcwqfODB4Y",
+        "videoTime": "04:13",
+        "videoIntTime": 4.13
       },
       {
-        "videoName": "bisiparis.com üzerinden tesis nasıl oluşturulur ve ürünler nasıl girilir ?",
-        "videoDescription": "",
-        "youtubeVideoID": "FzWZAgptcpc",
-        "videoTime": "04:14",
-        "videoIntTime": 4.14
+        "videoName": "Basic POS Definitions and Settings",
+        "videoDescription": "There are several screens inside ElektraWeb program that we should take into consideration before we enter our restaurant's meals and products and start using the POS system. Watch this video to find out what are the basic definition screens and settings to be made for ElektraWeb POS. ",
+        "youtubeVideoID": "S027Ify1088",
+        "videoTime": "06:32",
+        "videoIntTime": 6.32
+      },
+      {
+        "videoName": "How to define Product Groups and Items in the ElektraWeb POS?",
+        "videoDescription": "In order to have items displayed in the POS system first we need to define the related product groups and product items that will be collected under these. In this video, detailed descriptions of all these definitions screens will be provided. Once you finish with watching this video, you will be able to start working on entering products in your own POS system, and, in the shortest period, you will be ready to start selling these to your potential customers.",
+        "youtubeVideoID": "owoBVLF4KT4",
+        "videoTime": "06:31",
+        "videoIntTime": 6.31
+      }
+    ]
+},
+  {
+    "videoGrup": "SPA",
+    "videos": [
+      {
+        "videoName": "Making SPA Reservation",
+        "videoDescription": "Watch this video and learn how to quickly and easily create new SPA reservations from the Reservation Calendar found under the SPA module in Elektraweb.  In addition, you will learn how to easily navigate through the Calendar features as well as how to perform basic SPA reservation-related operations such as to start/finish task, make payment, see guest's history etc. This video will be a useful introduction into how to use Elektraweb SPA module and in other videos you will be able to discover other useful features related to this module.",
+        "youtubeVideoID": "4pNjmp_e4JA",
+        "videoTime": "03:17",
+        "videoIntTime": 3.17
+      },
+      {
+        "videoName": "Use of Toolbar in SPA Reservation Calendar",
+        "videoDescription": "Besides filtering tools found in the upper tool bar of the SPA reservation calendar, there are several additional icons that activate specific action for SPA-related operations. In this video we will show how to use these icons and use the SPA calendar in the most effective manner.",
+        "youtubeVideoID": "sb-Vz1k6uNI",
+        "videoTime": "03:21",
+        "videoIntTime": 3.21
+      },
+      {
+        "videoName": "Multiple SPA Reservations Entry ",
+        "videoDescription": "This video will show you how to enter multiple SPA reservations directly from the Calendar.  For this we should click on the plus button in the upper toolbar and the screen with all services we offer at our SPA facility will be displayed. From here we can tick several boxes at once, as well as change the amount of products. After selecting the desired services we can proceed to the next screen where, if desired, we can define the specific discount. If not, we can just save this entry and several reservation records will be automatically created.Watch the video to find out more about this powerful and useful feature. ",
+        "youtubeVideoID": "dh2UlulL__A",
+        "videoTime": "01:35",
+        "videoIntTime": 1.35
+      },
+      {
+        "videoName": "How to define memberhsip services in the SPA module?",
+        "videoDescription": "If one SPA facility offers different modes of memberhsip based on month, season, specific product or service basis, then these can be easily defined, sold and registered inside ElektraWeb SPA program.  Find out more about SPA membership-related definitions from this video",
+        "youtubeVideoID": "OmXH86k4uiI",
+        "videoTime": "03:05",
+        "videoIntTime": 3.05
+      },
+      {
+        "videoName": "How to use definition screens and other lists in SPA module?",
+        "videoDescription": "In order to make the basic definitions and settings we should use the Definition menu under the SPA module. From here it is possible to define departments in the SPA facility, staff members, areas where they will provide the service, SPA services, products, packages and membershp definitions. There are also several other lists that will be helpful in tracking the performance of the SPA department, and assist in further increasing its efficiency.",
+        "youtubeVideoID": "NHRYAw4_HT0",
+        "videoTime": "03:58",
+        "videoIntTime": 3.58
+      }
+    ]
+},
+  {
+    "videoGrup": "Sales & Marketing",
+    "videos": [
+      {
+        "videoName": "Banquet definitions",
+        "videoDescription": "From this video you will learn how to use Sales and Marketing Module to make banquet-related definitions. Sales and Marketing module can be used for organizations of weddings, meetings, conferences, fairs and other groups  in our hotel, regardless of whether these groups will be accommodated in our property or not. But first basic Banquet Definitions should be made. Watch this video to find out more details about it.",
+        "youtubeVideoID": "fbtcTf57idw",
+        "videoTime": "05:03",
+        "videoIntTime": 5.03
+      },
+      {
+        "videoName": "How to define Sales Project?",
+        "videoDescription": "Learn how to define a new sales project record under Sales and Marketing Module in the Elektrweb. Moreover, learn how to use the Sales Project list, to filter different banquet and other events-related records as well as to understand different sales project statuses. In this video we will also create one sales projects emphasizing all the important fields that need to be filled out.",
+        "youtubeVideoID": "uuU2rskDfVo",
+        "videoTime": "07:54",
+        "videoIntTime": 7.54
       }
     ]
   }
