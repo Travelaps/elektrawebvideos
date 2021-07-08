@@ -1,1 +1,38 @@
-
+{
+  "tr": [
+    {
+      "country": "Birleşik Krallık (UK)",
+      "partnername": " EasyPMS LTD",
+      "telone": "+44 78 2677 1711",
+      "teltwo": "+44 20 3290 2712",
+      "email": "info@elektraweb.com",
+      "adress": "33 Queen Street, Floor 1/Office 01-112 London EC4R 1AP United Kingdom"
+    },
+    {
+      "country": "Birleşik Krallık (UK)",
+      "partnername": " EasyPMS LTD",
+      "telone": "+44 78 2677 1711",
+      "teltwo": "+44 20 3290 2712",
+      "email": "info@elektraweb.com",
+      "adress": "33 Queen Street, Floor 1/Office 01-112 London EC4R 1AP United Kingdom"
+    }
+  ],
+  "en": [
+    {
+      "country": "Birleşik Krallık (UK)",
+      "partnername": " EasyPMS LTD",
+      "telone": "+44 78 2677 1711",
+      "teltwo": "+44 20 3290 2712",
+      "email": "info@elektraweb.com",
+      "adress": "33 Queen Street, Floor 1/Office 01-112 London EC4R 1AP United Kingdom"
+    },
+    {
+      "country": "Birleşik Krallık (UK)",
+      "partnername": " EasyPMS LTD",
+      "telone": "+44 78 2677 1711",
+      "teltwo": "+44 20 3290 2712",
+      "email": "info@elektraweb.com",
+      "adress": "33 Queen Street, Floor 1/Office 01-112 London EC4R 1AP United Kingdom"
+    }
+  ]
+}
