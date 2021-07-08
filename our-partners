@@ -9,17 +9,113 @@
       "adress": "33 Queen Street, Floor 1/Office 01-112 London EC4R 1AP United Kingdom"
     },
     {
-      "country": "Birleşik Krallık (UK)",
-      "partnername": " EasyPMS LTD",
-      "telone": "+44 78 2677 1711",
-      "teltwo": "+44 20 3290 2712",
+      "country": "Amerika Birleşik Devletleri",
+      "partnername": "EasyPMS LLC",
+      "telone": "+1 (347) 708-0203",
+      "teltwo": "",
       "email": "info@elektraweb.com",
-      "adress": "33 Queen Street, Floor 1/Office 01-112 London EC4R 1AP United Kingdom"
+      "adress": "10400 NE 4th St #500, Bellevue, WA 98004 USA"
+    },
+     {
+      "country": "Dubai",
+      "partnername": "Bright Act Middle East LLC",
+      "telone": "+971504378337",
+      "teltwo": "",
+      "email": "info@ba-mea.com",
+      "adress": "D68, AL Jaddaf, Dubai B1101-63 Grand Tower Offices, AMFZ"
+    },
+     {
+      "country": "Romanya",
+      "partnername": "Soreb",
+      "telone": "0758 863 293",
+      "teltwo": "",
+      "email": "rebegia.alex@yahoo.com",
+      "adress": "Aleea Tiparului, nr, 14 Piatra Neamt, judetul Neamt"
+    },
+    {
+      "country": "Pakistan",
+      "partnername": "Vision Trading",
+      "telone": "+92-21-34380069",
+      "teltwo": "",
+      "email": "elektraweb@visiontrading.com.pk",
+      "adress": "225/1/G,Block 2, P.E.C.H.S., Karachi, Pakistan"
+    },
+     {
+      "country": "Mısır",
+      "partnername": "Robust Business Technologies LLC",
+      "telone": "+20233357381",
+      "teltwo": "",
+      "email": "info@robustbt.com",
+      "adress": "105 El Sudan Street,Giza P.O.Box:12411"
+    },
+     {
+      "country": "Bonaire, Aruba ve Curaçao",
+      "partnername": "Solutech BV",
+      "telone": "5999 6708331",
+      "teltwo": "",
+      "email": "vanessa@solutech.cloud",
+      "adress": "aracasbaai weg 199A Willemstad, Curaçao"
+    },
+    {
+      "country": "Belçika",
+      "partnername": "Sem’On Business BVBA/SPRL",
+      "telone": "+32(0)52/46.27.25",
+      "teltwo": "",
+      "email": "pierre.calcus@elektraweb.com",
+      "adress": "Terlinden, 105 - 1785 Merchtem - BELGIUM"
+    },
+    {
+      "country": "Bulgaristan",
+      "partnername": "ERP Agency Ltd",
+      "telone": "+359 888 613 478",
+      "teltwo": "",
+      "email": "sales@erp.agency",
+      "adress": "H.E. Hadji Dimitar, 14 Batkun Str. Floor 3, Office 5, ZIP 1510, Sofia, Bulgaria"
+    },
+     {
+      "country": "Nijerya",
+      "partnername": "Nasius & Associates",
+      "telone": "2348098023450",
+      "teltwo": "",
+      "email": "litepos@outlook.com",
+      "adress": "No. 2 Dr. Okey Onuzo Street, Greenland Estate, Mende Maryland, Lagos"
+    },
+     {
+      "country": "Fildişi Sahili",
+      "partnername": "IMASOFT",
+      "telone": "225 2722497630",
+      "teltwo": "",
+      "email": "info@imasoftgroup.com",
+      "adress": "Riviera Plameraie, Cocody, Abidjan, Côté d’Ivoire"
+    },
+     {
+      "country": "Fas",
+      "partnername": "ANFA Solutions",
+      "telone": "212 666 940 613",
+      "teltwo": "",
+      "email": "kyassin@anfasolutions.com",
+      "adress": "TechnoPark Casa Bureau 208 Etage 2 BD Fès Californie, Casablanca - Morocco"
+    },
+     {
+      "country": "Hindistan",
+      "partnername": "Rajeev Kumar Jha",
+      "telone": "91 - 98183 - 77763",
+      "teltwo": "",
+      "email": "rajeev@elektraweb.com",
+      "adress": "D 312 Confident Atik Sompura Gate Sarjapur, Bangalore Zip code 562125"
+    },
+    {
+      "country": "Malezya",
+      "partnername": "Arrowood International Sdn. Bhd. ",
+      "telone": "+604 637 1700",
+      "teltwo": "",
+      "email": "hello@arrowood.com.my",
+      "adress": "D-19-1 Lorong Bayan Indah 2, Bay Avenue, 11900 Sungai Nibong, Bayan Lepas. Penang. Malaysia"
     }
   ],
   "en": [
-    {
-      "country": "Birleşik Krallık (UK)",
+     {
+      "country": "United Kingdom (UK)",
       "partnername": " EasyPMS LTD",
       "telone": "+44 78 2677 1711",
       "teltwo": "+44 20 3290 2712",
@@ -27,12 +123,108 @@
       "adress": "33 Queen Street, Floor 1/Office 01-112 London EC4R 1AP United Kingdom"
     },
     {
-      "country": "Birleşik Krallık (UK)",
-      "partnername": " EasyPMS LTD",
-      "telone": "+44 78 2677 1711",
-      "teltwo": "+44 20 3290 2712",
+      "country": "United States of America",
+      "partnername": "EasyPMS LLC",
+      "telone": "+1 (347) 708-0203",
+      "teltwo": "",
       "email": "info@elektraweb.com",
-      "adress": "33 Queen Street, Floor 1/Office 01-112 London EC4R 1AP United Kingdom"
+      "adress": "10400 NE 4th St #500, Bellevue, WA 98004 USA"
+    },
+     {
+      "country": "Dubai",
+      "partnername": "Bright Act Middle East LLC",
+      "telone": "+971504378337",
+      "teltwo": "",
+      "email": "info@ba-mea.com",
+      "adress": "D68, AL Jaddaf, Dubai B1101-63 Grand Tower Offices, AMFZ"
+    },
+     {
+      "country": "Romania",
+      "partnername": "Soreb",
+      "telone": "0758 863 293",
+      "teltwo": "",
+      "email": "rebegia.alex@yahoo.com",
+      "adress": "Aleea Tiparului, nr, 14 Piatra Neamt, judetul Neamt"
+    },
+    {
+      "country": "Pakistan",
+      "partnername": "Vision Trading",
+      "telone": "+92-21-34380069",
+      "teltwo": "",
+      "email": "elektraweb@visiontrading.com.pk",
+      "adress": "225/1/G,Block 2, P.E.C.H.S., Karachi, Pakistan"
+    },
+     {
+      "country": "Egypt",
+      "partnername": "Robust Business Technologies LLC",
+      "telone": "+20233357381",
+      "teltwo": "",
+      "email": "info@robustbt.com",
+      "adress": "105 El Sudan Street,Giza P.O.Box:12411"
+    },
+     {
+      "country": "Bonaire, Aruba and Curacao",
+      "partnername": "Solutech BV",
+      "telone": "5999 6708331",
+      "teltwo": "",
+      "email": "vanessa@solutech.cloud",
+      "adress": "aracasbaai weg 199A Willemstad, Curaçao"
+    },
+    {
+      "country": "Belgium",
+      "partnername": "Sem’On Business BVBA/SPRL",
+      "telone": "+32(0)52/46.27.25",
+      "teltwo": "",
+      "email": "pierre.calcus@elektraweb.com",
+      "adress": "Terlinden, 105 - 1785 Merchtem - BELGIUM"
+    },
+    {
+      "country": "Bulgaria",
+      "partnername": "ERP Agency Ltd",
+      "telone": "+359 888 613 478",
+      "teltwo": "",
+      "email": "sales@erp.agency",
+      "adress": "H.E. Hadji Dimitar, 14 Batkun Str. Floor 3, Office 5, ZIP 1510, Sofia, Bulgaria"
+    },
+     {
+      "country": "Nigeria",
+      "partnername": "Nasius & Associates",
+      "telone": "2348098023450",
+      "teltwo": "",
+      "email": "litepos@outlook.com",
+      "adress": "No. 2 Dr. Okey Onuzo Street, Greenland Estate, Mende Maryland, Lagos"
+    },
+     {
+      "country": "Ivory Coast",
+      "partnername": "IMASOFT",
+      "telone": "225 2722497630",
+      "teltwo": "",
+      "email": "info@imasoftgroup.com",
+      "adress": "Riviera Plameraie, Cocody, Abidjan, Côté d’Ivoire"
+    },
+     {
+      "country": "Morocco",
+      "partnername": "ANFA Solutions",
+      "telone": "212 666 940 613",
+      "teltwo": "",
+      "email": "kyassin@anfasolutions.com",
+      "adress": "TechnoPark Casa Bureau 208 Etage 2 BD Fès Californie, Casablanca - Morocco"
+    },
+     {
+      "country": "India",
+      "partnername": "Rajeev Kumar Jha",
+      "telone": "91 - 98183 - 77763",
+      "teltwo": "",
+      "email": "rajeev@elektraweb.com",
+      "adress": "D 312 Confident Atik Sompura Gate Sarjapur, Bangalore Zip code 562125"
+    },
+    {
+      "country": "Malaysia",
+      "partnername": "Arrowood International Sdn. Bhd. ",
+      "telone": "+604 637 1700",
+      "teltwo": "",
+      "email": "hello@arrowood.com.my",
+      "adress": "D-19-1 Lorong Bayan Indah 2, Bay Avenue, 11900 Sungai Nibong, Bayan Lepas. Penang. Malaysia"
     }
   ]
 }
