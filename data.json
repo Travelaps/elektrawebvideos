@@ -967,6 +967,19 @@
     ]
   },
   {
+    "videoGrup": "Çağrı Merkezi",
+    "videos": [
+      {
+        "videoName": "Çağrı Merkezi Modülü Nasıl Kullanılır?",
+        "videoDescription": "Çağrı merkezine gelen aramalar nasıl kayıt altına alınır, rezervasyon işlemleri nasıl yapılır?",
+        "youtubeVideoID": "MgcAX1fZhV4",
+        "videoTime": "08:56",
+        "videoIntTime": 8.56
+  
+      }
+    ]
+  },
+  {
     "videoGrup": "Güvenlik Hizmetleri",
     "videos": [
       {
