@@ -119,6 +119,14 @@
       "teltwo": "",
       "email": "contact@ypad-agency.com",
       "adress": "10 Rue de Pentheivre 75008 Paris"
+    },
+    {
+      "country": "Gürcistan",
+      "partnername": "ELITE Global",
+      "telone": "+994 55 826 86 80",
+      "teltwo": "",
+      "email": "info@citymody.com",
+      "adress": "Molla Vali Vidadi caddesi 119, Yasamal rayonu, Baku"
     }
   ],
   "en": [
@@ -241,6 +249,14 @@
       "teltwo": "",
       "email": "contact@ypad-agency.com",
       "adress": "10 Rue de Pentheivre 75008 Paris"
+    },
+    {
+      "country": "Georgia",
+      "partnername": "ELITE Global",
+      "telone": "+994 55 826 86 80",
+      "teltwo": "",
+      "email": "info@citymody.com",
+      "adress": "Molla Vali Vidadi caddesi 119, Yasamal rayonu, Baku"
     }
   ]
 }
