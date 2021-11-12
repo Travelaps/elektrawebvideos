@@ -1,1 +1,127 @@
-[{"name":"Google","url":"","logo":"https:\/\/www.elektraweb.com\/wp-content\/uploads\/2021\/11\/google.png"},{"name":"Booking.com","url":"","logo":"https:\/\/www.elektraweb.com\/wp-content\/uploads\/2019\/05\/oie_transparent-31.png"},{"name":"Expedia","url":"","logo":"https:\/\/www.elektraweb.com\/wp-content\/uploads\/2019\/05\/oie_transparent-28.png"},{"name":"Orbitz","url":"","logo":"https:\/\/www.elektraweb.com\/wp-content\/uploads\/2019\/05\/orbitz.png"},{"name":"Hotels.com","url":"","logo":"https:\/\/www.elektraweb.com\/wp-content\/uploads\/2019\/05\/hotelscom.png"},{"name":"travelocity","url":"","logo":"https:\/\/www.elektraweb.com\/wp-content\/uploads\/2019\/10\/travelocity.png"},{"name":"wotif","url":"","logo":"https:\/\/www.elektraweb.com\/wp-content\/uploads\/2019\/05\/wotif.png"},{"name":"egencia","url":"","logo":"https:\/\/www.elektraweb.com\/wp-content\/uploads\/2019\/05\/egencia.png"},{"name":"hotwire","url":"","logo":"https:\/\/www.elektraweb.com\/wp-content\/uploads\/2019\/05\/hotwire.png"},{"name":"hotelspro","url":"","logo":"https:\/\/www.elektraweb.com\/wp-content\/uploads\/2019\/05\/oie_transparent-33.png"},{"name":"hotelbeds","url":"","logo":"https:\/\/www.elektraweb.com\/wp-content\/uploads\/2019\/10\/hotelbeds.png"},{"name":"otelz","url":"","logo":"https:\/\/www.elektraweb.com\/wp-content\/uploads\/2019\/10\/otelz.png"},{"name":"tatil.com","url":"","logo":"https:\/\/www.elektraweb.com\/wp-content\/uploads\/2019\/05\/tatilcom.png"},{"name":"gezinomi","url":"","logo":"https:\/\/www.elektraweb.com\/wp-content\/uploads\/2019\/10\/gezinomi.png"},{"name":"agoda","url":"","logo":"https:\/\/www.elektraweb.com\/wp-content\/uploads\/2019\/05\/agoda.png"},{"name":"odamax","url":"","logo":"https:\/\/www.elektraweb.com\/wp-content\/uploads\/2019\/10\/odamax.png"},{"name":"prestigia","url":"","logo":"https:\/\/www.elektraweb.com\/wp-content\/uploads\/2019\/05\/prestigia.png"},{"name":"halalbooking","url":"","logo":"https:\/\/www.elektraweb.com\/wp-content\/uploads\/2019\/10\/halal.png"},{"name":"AirAsiaGo","url":"","logo":"https:\/\/www.elektraweb.com\/wp-content\/uploads\/2019\/05\/AirAsiaGo.png"},{"name":"Etstur","url":"","logo":"https:\/\/www.elektraweb.com\/wp-content\/uploads\/2020\/01\/ets-tur.png"},{"name":"Sunhotels","url":"","logo":"https:\/\/www.elektraweb.com\/wp-content\/uploads\/2021\/02\/sunhotels_logo.png"},{"name":"mr Smith","url":"","logo":"https:\/\/www.elektraweb.com\/wp-content\/uploads\/2021\/02\/mr-and-mirs-smith-hotels_logo.png"},{"name":"Tatil Sepeti","url":"","logo":"https:\/\/www.elektraweb.com\/wp-content\/uploads\/2021\/11\/tatilsepeti.png"},{"name":"Ostrovok","url":"","logo":"https:\/\/www.elektraweb.com\/wp-content\/uploads\/2019\/05\/ostrovok.png"},{"name":"ctrip","url":"","logo":"https:\/\/www.elektraweb.com\/wp-content\/uploads\/2020\/02\/ctrip.png"}]
+[
+  {
+    "name": "Google",
+    "url": "",
+    "logo": "https://www.elektraweb.com/wp-content/uploads/2021/11/google.png"
+  },
+  {
+    "name": "Booking.com",
+    "url": "",
+    "logo": "https://www.elektraweb.com/wp-content/uploads/2019/05/oie_transparent-31.png"
+  },
+  {
+    "name": "Expedia",
+    "url": "",
+    "logo": "https://www.elektraweb.com/wp-content/uploads/2019/05/oie_transparent-28.png"
+  },
+  {
+    "name": "Orbitz",
+    "url": "",
+    "logo": "https://www.elektraweb.com/wp-content/uploads/2019/05/orbitz.png"
+  },
+  {
+    "name": "Hotels.com",
+    "url": "",
+    "logo": "https://www.elektraweb.com/wp-content/uploads/2019/05/hotelscom.png"
+  },
+  {
+    "name": "travelocity",
+    "url": "",
+    "logo": "https://www.elektraweb.com/wp-content/uploads/2019/10/travelocity.png"
+  },
+  {
+    "name": "wotif",
+    "url": "",
+    "logo": "https://www.elektraweb.com/wp-content/uploads/2019/05/wotif.png"
+  },
+  {
+    "name": "egencia",
+    "url": "",
+    "logo": "https://www.elektraweb.com/wp-content/uploads/2019/05/egencia.png"
+  },
+  {
+    "name": "hotwire",
+    "url": "",
+    "logo": "https://www.elektraweb.com/wp-content/uploads/2019/05/hotwire.png"
+  },
+  {
+    "name": "hotelspro",
+    "url": "",
+    "logo": "https://www.elektraweb.com/wp-content/uploads/2019/05/oie_transparent-33.png"
+  },
+  {
+    "name": "hotelbeds",
+    "url": "",
+    "logo": "https://www.elektraweb.com/wp-content/uploads/2019/10/hotelbeds.png"
+  },
+  {
+    "name": "otelz",
+    "url": "",
+    "logo": "https://www.elektraweb.com/wp-content/uploads/2019/10/otelz.png"
+  },
+  {
+    "name": "tatil.com",
+    "url": "",
+    "logo": "https://www.elektraweb.com/wp-content/uploads/2019/05/tatilcom.png"
+  },
+  {
+    "name": "gezinomi",
+    "url": "",
+    "logo": "https://www.elektraweb.com/wp-content/uploads/2019/10/gezinomi.png"
+  },
+  {
+    "name": "agoda",
+    "url": "",
+    "logo": "https://www.elektraweb.com/wp-content/uploads/2019/05/agoda.png"
+  },
+  {
+    "name": "odamax",
+    "url": "",
+    "logo": "https://www.elektraweb.com/wp-content/uploads/2019/10/odamax.png"
+  },
+  {
+    "name": "prestigia",
+    "url": "",
+    "logo": "https://www.elektraweb.com/wp-content/uploads/2019/05/prestigia.png"
+  },
+  {
+    "name": "halalbooking",
+    "url": "",
+    "logo": "https://www.elektraweb.com/wp-content/uploads/2019/10/halal.png"
+  },
+  {
+    "name": "AirAsiaGo",
+    "url": "",
+    "logo": "https://www.elektraweb.com/wp-content/uploads/2019/05/AirAsiaGo.png"
+  },
+  {
+    "name": "Etstur",
+    "url": "",
+    "logo": "https://www.elektraweb.com/wp-content/uploads/2020/01/ets-tur.png"
+  },
+  {
+    "name": "Sunhotels",
+    "url": "",
+    "logo": "https://www.elektraweb.com/wp-content/uploads/2021/02/sunhotels_logo.png"
+  },
+  {
+    "name": "mr Smith",
+    "url": "",
+    "logo": "https://www.elektraweb.com/wp-content/uploads/2021/02/mr-and-mirs-smith-hotels_logo.png"
+  },
+  {
+    "name": "Tatil Sepeti",
+    "url": "",
+    "logo": "https://www.elektraweb.com/wp-content/uploads/2021/11/tatilsepeti.png"
+  },
+  {
+    "name": "Ostrovok",
+    "url": "",
+    "logo": "https://www.elektraweb.com/wp-content/uploads/2019/05/ostrovok.png"
+  },
+  {
+    "name": "ctrip",
+    "url": "",
+    "logo": "https://www.elektraweb.com/wp-content/uploads/2020/02/ctrip.png"
+  }
+]
