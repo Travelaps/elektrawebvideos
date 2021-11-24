@@ -204,23 +204,79 @@
       {
         "videoName": "Rezervasyon Kartı Kullanımı",
         "videoDescription": "Rezervasyon nasıl oluşturulur ve rezervasyon kartında nelere dikkat edilmeli?",
-        "youtubeVideoID": "GmE_Usq1tw8",
-        "videoTime": "01:12",
-        "videoIntTime": 1.12
+        "youtubeVideoID": "tAin1OGMI8w",
+        "videoTime": "09:22",
+        "videoIntTime": 9.22
       },
       {
-        "videoName": "Rezervasyon Oluştururken Manuel Fiyat Nasıl Verilir ?",
-        "videoDescription": "Manuel fiyat vererek rezervasyon nasıl oluşturulur?",
-        "youtubeVideoID": "UfZF6Pyxaq4",
-        "videoTime": "01:15",
-        "videoIntTime": 1.15
+        "videoName": "Rezervasyon Kartı Misafir Sekmesi Nasıl Kullanılır? ",
+        "videoDescription": "Misafir, not ve rezervasyonun alt detayları nasıl kaydedilir?",
+        "youtubeVideoID": "08wS4ukA3HU",
+        "videoTime": "13:30",
+        "videoIntTime": 13.30
       },
       {
-        "videoName": "Rezervasyon Kartındaki Butonlar Ne İşe Yarar ?",
-        "videoDescription": "Rezervasyon kartındaki butonların detaylı anlamı",
-        "youtubeVideoID": "BgIfM61mibU",
-        "videoTime": "03:36",
-        "videoIntTime": 3.36
+        "videoName": "Rezervasyon Kartındaki Detaylar Bölümü Nasıl Kullanılır?",
+        "videoDescription": "Rezervasyon kartındaki detaylar butonunun detaylı anlatımı",
+        "youtubeVideoID": "4UJ7TpdTUvw",
+        "videoTime": "07:01",
+        "videoIntTime": 7.01
+      },
+      {
+        "videoName": "Rezervasyon Kartındaki Notlar Bölümü Nasıl Kullanılır?",
+        "videoDescription": "Rezervasyon kartındaki notlar butonunun detaylı anlatımı",
+        "youtubeVideoID": "HrKnUO7xXs0",
+        "videoTime": "03:16",
+        "videoIntTime": 3.16
+      },
+      {
+        "videoName": "Rezervasyon Kartındaki Kredi Kartı Bölümü Nasıl Kullanılır?",
+        "videoDescription": "Rezervasyon kartındaki kredi kartı butonunun detaylı anlatımı",
+        "youtubeVideoID": "5uYSyI5urDU",
+        "videoTime": "02:33",
+        "videoIntTime": 2.33
+      },
+      {
+        "videoName": "Rezervasyon Kartındaki Paketler Bölümü Nasıl Kullanılır?",
+        "videoDescription": "Rezervasyon kartındaki paketler butonunun detaylı anlatımı",
+        "youtubeVideoID": "MdOMcb-YAp0",
+        "videoTime": "15:02",
+        "videoIntTime": 15.02
+      },
+      {
+        "videoName": "Rezervasyon Kartındaki İşler Bölümü Nasıl Kullanılır?",
+        "videoDescription": "Rezervasyon kartındaki işler butonunun detaylı anlatımı",
+        "youtubeVideoID": "Av3vITJ0FsY",
+        "videoTime": "16:28",
+        "videoIntTime": 16.28
+      },
+      {
+        "videoName": "Rezervasyon Kartındaki Folyo Routing Bölümü Nasıl Kullanılır?",
+        "videoDescription": "Rezervasyon kartındaki folyo routing butonunun detaylı anlatımı",
+        "youtubeVideoID": "nVPmzLiDvsk",
+        "videoTime": "07:50",
+        "videoIntTime": 07.50
+      },
+      {
+        "videoName": "Rezervasyon Kartındaki Fiyatlandırma Bölümü Nasıl Kullanılır?",
+        "videoDescription": "Rezervasyon nasıl fiyatlandırılır?",
+        "youtubeVideoID": "1ySOGpM7Rc8",
+        "videoTime": "19:33",
+        "videoIntTime": 19.33
+      },
+      {
+        "videoName": "Ön Folyo Nedir ? Nasıl Kullanılır ?",
+        "videoDescription": "Ön folyo nedir? Ön folyoda hangi işlemler yapılabilir?",
+        "youtubeVideoID": "hRG2N5JKiMc",
+        "videoTime": "05:42",
+        "videoIntTime": 5.42
+      },
+       {
+        "videoName": "Folyo Nedir ?",
+        "videoDescription": "Misafire ait borç ve ödeme kayıtları nasıl görüntülenir, yeni harcama ve ödeme nasıl eklenir?",
+        "youtubeVideoID": "zT9pw47MSs8",
+        "videoTime": "10:54",
+        "videoIntTime": 10.54
       },
       {
         "videoName": "Blokaj Ataması Nasıl Yapılır ?",
@@ -265,11 +321,11 @@
         "videoIntTime": 1.16
       },
       {
-        "videoName": "Ayrılan Misafirlerde Folyo İşlemi Nasıl Düzeltilir ?",
-        "videoDescription": "C-out işlemi gerçekleşmiş rezervasyonun folyosunda düzeltme nasıl yapılır?",
-        "youtubeVideoID": "lX5Az9z0O3k",
-        "videoTime": "00:54",
-        "videoIntTime": 0.54
+        "videoName": "Folyo Düzeltme İşlemleri Nasıl Yapılır?",
+        "videoDescription": "Yanlış girilen folyo işlemleri hangi koşullarda ve hangi yöntemlerle düzeltilebilir?",
+        "youtubeVideoID": "JEh3FzS-gQE",
+        "videoTime": "03:16",
+        "videoIntTime": 3.16
       },
       {
         "videoName": "Grup Rezervasyonu Nasıl Oluşturulur ?",
@@ -306,20 +362,7 @@
         "videoTime": "00:34",
         "videoIntTime": 0.34
       },
-      {
-        "videoName": "Rezervasyon Notları Nasıl Takip Edilir? Trace nasıl girilir?",
-        "videoDescription": "Rezervasyon için not nasıl oluşturulur? Rezervasyon notları hangi ekranlardan görüntülenir?",
-        "youtubeVideoID": "GQIzj1K1CIw",
-        "videoTime": "02:59",
-        "videoIntTime": 2.59
-      },
-      {
-        "videoName": "Misafir İstekleri ve Şikayetleri Nasıl Kayıt Altına Alınır? (işler)",
-        "videoDescription": "Görev Yönetimi menüsü nasıl kullanılır? Tanımlamalar nasıl yapılır?",
-        "youtubeVideoID": "isLTjm50wWM",
-        "videoTime": "01:03",
-        "videoIntTime": 1.03
-      },
+      
       {
         "videoName": "Konaklayan Odaları Nasıl Görebiliriz? (Konaklayan Listesi)",
         "videoDescription": "Konaklayan listesi kullanımı",
@@ -327,20 +370,8 @@
         "videoTime": "09:04",
         "videoIntTime": 9.04
       },
-      {
-        "videoName": "Ön Folyo Nedir ? Nasıl Kullanılır ?",
-        "videoDescription": "Ön folyo nedir? Ön folyoda hangi işlemler yapılabilir?",
-        "youtubeVideoID": "041vtAFRiXw",
-        "videoTime": "00:55",
-        "videoIntTime": 0.55
-      },
-      {
-        "videoName": "Folyo Nedir ?",
-        "videoDescription": "Misafire ait borç ve ödeme kayıtları nasıl görüntülenir, yeni harcama ve ödeme nasıl eklenir?",
-        "youtubeVideoID": "7zE4LGThlZ4",
-        "videoTime": "00:55",
-        "videoIntTime": 0.55
-      },
+      
+     
       {
         "videoName": "Folyo Transferleri veya Kişi Transferleri Nasıl Yapılır?",
         "videoDescription": "Odada konaklayan kişiler ödemelerini ayrı yapmak istediğinde ve faturalarının ayrı kesilmesini talep ettiğinde folyo pencereleri nasıl kullanılır?",
@@ -453,13 +484,7 @@
         "videoTime": "01:20",
         "videoIntTime": 1.2
       },
-      {
-        "videoName": "Görev Yönetimi",
-        "videoDescription": "Misafirden gelen yada departmanlar arası istek ve şikayetler nasıl kayıt altına alınır?",
-        "youtubeVideoID": "gZC6Jjx2BG0",
-        "videoTime": "03:17",
-        "videoIntTime": 3.17
-      },
+     
       {
         "videoName": "Mobil Operasyon Yönetimi",
         "videoDescription": "House Keeping ve Teknik Servis mobil ekran üzerinden işlerini nasıl takip edebilir?",
