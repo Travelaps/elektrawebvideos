@@ -165,7 +165,6 @@
         "youtubeVideoID": "Nt3IbhrXawM",
         "videoTime": "00:47",
         "videoIntTime": 0.47
-      
       },
       {
         "videoName": "Canlı Destek Sistemi Nasıl Kullanılır?",
@@ -173,7 +172,6 @@
         "youtubeVideoID": "q80FvoiqFWg",
         "videoTime": "01:41",
         "videoIntTime": 1.41
-      
       }
     ]
   },
@@ -213,7 +211,7 @@
         "videoDescription": "Misafir, not ve rezervasyonun alt detayları nasıl kaydedilir?",
         "youtubeVideoID": "08wS4ukA3HU",
         "videoTime": "13:30",
-        "videoIntTime": 13.30
+        "videoIntTime": 13.3
       },
       {
         "videoName": "Rezervasyon Kartındaki Detaylar Bölümü Nasıl Kullanılır?",
@@ -255,7 +253,7 @@
         "videoDescription": "Rezervasyon kartındaki folyo routing butonunun detaylı anlatımı",
         "youtubeVideoID": "nVPmzLiDvsk",
         "videoTime": "07:50",
-        "videoIntTime": 07.50
+        "videoIntTime": 7.5
       },
       {
         "videoName": "Rezervasyon Kartındaki Fiyatlandırma Bölümü Nasıl Kullanılır?",
@@ -271,7 +269,7 @@
         "videoTime": "05:42",
         "videoIntTime": 5.42
       },
-       {
+      {
         "videoName": "Folyo Nedir ?",
         "videoDescription": "Misafire ait borç ve ödeme kayıtları nasıl görüntülenir, yeni harcama ve ödeme nasıl eklenir?",
         "youtubeVideoID": "zT9pw47MSs8",
@@ -353,7 +351,7 @@
         "videoDescription": "Polis Kimlik bildirim sistemi nasıl kurulur?",
         "youtubeVideoID": "arjztveHuH4",
         "videoTime": "02:30",
-        "videoIntTime": 2.30
+        "videoIntTime": 2.3
       },
       {
         "videoName": "Resmi Misafir Listesi Nasıl Alınır ? (Maliye Listesi)",
@@ -362,7 +360,6 @@
         "videoTime": "00:34",
         "videoIntTime": 0.34
       },
-      
       {
         "videoName": "Konaklayan Odaları Nasıl Görebiliriz? (Konaklayan Listesi)",
         "videoDescription": "Konaklayan listesi kullanımı",
@@ -370,8 +367,6 @@
         "videoTime": "09:04",
         "videoIntTime": 9.04
       },
-      
-     
       {
         "videoName": "Folyo Transferleri veya Kişi Transferleri Nasıl Yapılır?",
         "videoDescription": "Odada konaklayan kişiler ödemelerini ayrı yapmak istediğinde ve faturalarının ayrı kesilmesini talep ettiğinde folyo pencereleri nasıl kullanılır?",
@@ -484,7 +479,6 @@
         "videoTime": "01:20",
         "videoIntTime": 1.2
       },
-     
       {
         "videoName": "Mobil Operasyon Yönetimi",
         "videoDescription": "House Keeping ve Teknik Servis mobil ekran üzerinden işlerini nasıl takip edebilir?",
@@ -1000,7 +994,6 @@
         "youtubeVideoID": "MgcAX1fZhV4",
         "videoTime": "08:56",
         "videoIntTime": 8.56
-  
       }
     ]
   },
@@ -1047,7 +1040,7 @@
   {
     "videoGrup": "Muhasebe",
     "videos": [
-       {
+      {
         "videoName": "Elektra ERP Özet",
         "videoDescription": "Bu video ile hesap planı fiş ve fatura giriş, stok fişi, satınalma, mutabakat, mizan, analiz, vb konularda uygulamalı bir şekilde genel bir anlatım yapılmaktadır. Yeni kullanıcılarımıza başlamadan önce mutlaka izlemeleri tavsiye ederiz. ",
         "youtubeVideoID": "yTdcgF-I4NQ",
@@ -1061,7 +1054,6 @@
         "videoTime": "11:56",
         "videoIntTime": 11.56
       },
-     
       {
         "videoName": "Hesap Planı",
         "videoDescription": "Hesap Planı sayfasında yapılabilen Arama,Sıralama,Ekleme,Düzenleme,Kopyalama,Hesap Tipi Seçimi,Otomatik Hesap Kodu Verilmesi,Cari Hesaplar İçin,Adres İletişim ve,Yetkili Tanımları,Excele Aktarma ve Okuma,İşlemlerin Listelenmesi,Extre(Muavin) Yazdırma,Hızlı İşlem ve İşlem Transferi işlemleri anlatılmaktadır.",
@@ -1212,7 +1204,7 @@
   {
     "videoGrup": "Stok",
     "videos": [
-           {
+      {
         "videoName": "Elektra ERP Özet",
         "videoDescription": "Bu video ile hesap planı fiş ve fatura giriş, stok fişi, satınalma, mutabakat, mizan, analiz, vb konularda uygulamalı bir şekilde genel bir anlatım yapılmaktadır. Yeni kullanıcılarımıza başlamadan önce mutlaka izlemeleri tavsiye ederiz. ",
         "youtubeVideoID": "yTdcgF-I4NQ",
@@ -1353,7 +1345,6 @@
         "videoTime": "04:14",
         "videoIntTime": 4.14
       },
-    
       {
         "videoName": "Bodro Listesi",
         "videoDescription": "",
@@ -1361,7 +1352,6 @@
         "videoTime": "02:13",
         "videoIntTime": 2.13
       },
-   
       {
         "videoName": "İnsan Kaynakları",
         "videoDescription": "",
@@ -1376,8 +1366,7 @@
         "videoTime": "02:37",
         "videoIntTime": 2.37
       },
-      
-       {
+      {
         "videoName": "E-Muhtasar Oluşturma",
         "videoDescription": "",
         "youtubeVideoID": "yf-P-vm6j6s",
@@ -1389,9 +1378,9 @@
         "videoDescription": "",
         "youtubeVideoID": "OzbHajpHwoE",
         "videoTime": "01:20",
-        "videoIntTime": 1.20
+        "videoIntTime": 1.2
       },
-       {
+      {
         "videoName": "Shift Oluşturma",
         "videoDescription": "",
         "youtubeVideoID": "JNnF-I4K4AE",
@@ -1405,30 +1394,27 @@
         "videoTime": "00:57",
         "videoIntTime": 0.57
       },
-       {
+      {
         "videoName": "Sicil Kartı Oluşturma",
         "videoDescription": "",
         "youtubeVideoID": "hXweYTP_hqg",
         "videoTime": "01:41",
         "videoIntTime": 1.41
       },
-       {
+      {
         "videoName": "Sözleşme Ekleme",
         "videoDescription": "",
         "youtubeVideoID": "hk3VwPBtCUA",
         "videoTime": "01:10",
-        "videoIntTime": 1.10
+        "videoIntTime": 1.1
       },
-       {
+      {
         "videoName": "Bordro Oluşturma",
         "videoDescription": "",
         "youtubeVideoID": "M5qiPJzUlwY",
         "videoTime": "00:36",
         "videoIntTime": 0.36
       }
-      
-       
-      
     ]
   },
   {
