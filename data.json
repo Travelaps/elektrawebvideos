@@ -277,6 +277,13 @@
         "videoIntTime": 10.54
       },
       {
+        "videoName": "Folyo Düzeltme İşlemleri Nasıl Yapılır?",
+        "videoDescription": "Yanlış girilen folyo işlemleri hangi koşullarda ve hangi yöntemlerle düzeltilebilir?",
+        "youtubeVideoID": "JEh3FzS-gQE",
+        "videoTime": "03:16",
+        "videoIntTime": 3.16
+      },
+      {
         "videoName": "Blokaj Ataması Nasıl Yapılır ?",
         "videoDescription": "ElektraWeb'de blokaj ataması nasıl yapılır? Blokaj için hangi ekranları kullanabilirsiniz?",
         "youtubeVideoID": "S5DZ48V-xf8",
@@ -318,13 +325,7 @@
         "videoTime": "01:16",
         "videoIntTime": 1.16
       },
-      {
-        "videoName": "Folyo Düzeltme İşlemleri Nasıl Yapılır?",
-        "videoDescription": "Yanlış girilen folyo işlemleri hangi koşullarda ve hangi yöntemlerle düzeltilebilir?",
-        "youtubeVideoID": "JEh3FzS-gQE",
-        "videoTime": "03:16",
-        "videoIntTime": 3.16
-      },
+      
       {
         "videoName": "Grup Rezervasyonu Nasıl Oluşturulur ?",
         "videoDescription": "Detaylı grup rezervasyonu nasıl oluşturulur?",
