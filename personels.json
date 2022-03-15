@@ -4,7 +4,7 @@
     "hide": false,
     "personels": [
       {
-        "name": "Kemal ORAL",
+        "name": "<strong>Kemal ORAL</strong>",
         "title": "Teknoloji Geliştirme Grubu Başkanı",
         "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/kemaloral3.jpg",
         "gsm": "0 533 270 84 76",
@@ -13,7 +13,7 @@
         "mail": "kemal.oral@talyabilisim.com.tr"
       },
       {
-        "name": "Nilüfer DURUKAL",
+        "name": "<strong>Nilüfer DURUKAL</strong>",
         "title": "Yönetici Ortak",
         "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/niluferdurukal.png",
         "gsm": "+90 312 440 00 65",
@@ -22,7 +22,7 @@
         "mail": "nilufer.durukal@talyabilisim.com.tr"
       },
       {
-        "name": "Levent TÜREL",
+        "name": "<strong>Levent TÜREL</strong>",
         "title": "Yönetici Ortak",
         "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/leventturel.jpg",
         "gsm": "0 533 278 80 95",
