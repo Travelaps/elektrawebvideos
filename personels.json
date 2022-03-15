@@ -1,51 +1,515 @@
-[{
-"grupName":"Yönetim",
-"personels":[
+[
   {
-    "name":"Kemal ORAL",
-    "title":"Teknoloji Geliştirme Grubu Başkanı",
-    "img":"https://www.elektraotel.com/wp-content/uploads/2018/02/kemaloral3.jpg",
-    "gsm":"0 533 270 84 76",
-    "tel":"+90 242 227 91 00",
-    "city":"Antalya",
-    "mail":"kemal.oral@talyabilisim.com.tr"
-    
+    "grupName": "Yönetim",
+    "hide": false,
+    "personels": [
+      {
+        "name": "Kemal ORAL",
+        "title": "Teknoloji Geliştirme Grubu Başkanı",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/kemaloral3.jpg",
+        "gsm": "0 533 270 84 76",
+        "tel": "+90 242 227 91 00",
+        "city": "Antalya",
+        "mail": "kemal.oral@talyabilisim.com.tr"
+      },
+      {
+        "name": "Nilüfer DURUKAL",
+        "title": "Yönetici Ortak",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/02-/niluferdurukal.png",
+        "gsm": "+90 312 440 00 65",
+        "tel": "0 533 374 75 00",
+        "city": "ANKARA",
+        "mail": "nilufer.durukal@talyabilisim.com.tr"
+      },
+      {
+        "name": "Levent TÜREL",
+        "title": "Yönetici Ortak",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/leventturel.jpg",
+        "gsm": "0 533 278 80 95",
+        "tel": "+90 216 361 62 00",
+        "city": "İSTANBUL",
+        "mail": "levent.turel@talyabilisim.com.tr"
+      }
+    ]
   },
-    {
-    "name":"Kemal ORAL",
-    "title":"Teknoloji Geliştirme Grubu Başkanı",
-    "img":"https://www.elektraotel.com/wp-content/uploads/2018/02/kemaloral3.jpg",
-    "gsm":"0 533 270 84 76",
-    "tel":"+90 242 227 91 00",
-    "city":"Antalya",
-    "mail":"kemal.oral@talyabilisim.com.tr"
-    
-  }
-  ]
-},
-{
-"grupName":"Elektra Teknik Ekip",
-"personels":[
   {
-    "name":"Kemal ORAL",
-    "title":"Teknoloji Geliştirme Grubu Başkanı",
-    "img":"https://www.elektraotel.com/wp-content/uploads/2018/02/kemaloral3.jpg",
-    "gsm":"0 533 270 84 76",
-    "tel":"+90 242 227 91 00",
-    "city":"Antalya",
-    "mail":"kemal.oral@talyabilisim.com.tr"
-    
+    "grupName": "Elektra Teknik Ekip",
+    "hide": false,
+    "personels": [
+      {
+        "name": "Handan ÖZDEMİR",
+        "title": "Danışman",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/handanozdemir.png",
+        "gsm": "+90 242 227 91 00",
+        "tel": "0 532 762 43 32",
+        "city": "Antalya",
+        "mail": "handan@talyabilisim.net"
+      },
+      {
+        "name": "Ali CİNKILIÇ",
+        "title": "Yazılım Mühendisi",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/alicinkilic.png",
+        "gsm": "0 533 278 80 87",
+        "tel": "+90 242 227 91 00",
+        "city": "Antalya",
+        "mail": "ali.cinkılıc@talyabilisim.com.tr"
+      },
+      {
+        "name": "Ethem ÇETİNKAYA",
+        "title": "Yazılım Uzmanı",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/ethem.png",
+        "gsm": "0 533 689 61 75",
+        "tel": "+90 242 227 91 00",
+        "city": "Antalya",
+        "mail": "ethem.cetinkaya@talyabilisim.com.tr"
+      },
+      {
+        "name": "Timuçin ÇAKIRGİL",
+        "title": "Yazılım Uzmanı",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/04/timy.jpg",
+        "gsm": "0 533 934 89 05",
+        "tel": "+90 242 227 91 00",
+        "city": "Antalya",
+        "mail": "timucin.cakirgil@talyabilisim.net"
+      },
+      {
+        "name": "Haydar AKYÜZ",
+        "title": "Yazılım Mühendisi",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/10/p5.png",
+        "gsm": "",
+        "tel": "+90 242 227 91 00",
+        "city": "Antalya",
+        "mail": "haydar.akyuz@talyabilisim.net"
+      },
+      {
+        "name": "Gülsüm ÇAYIR",
+        "title": "Yazılım Mühendisi",
+        "img": "https://www.elektraweb.com/wp-content/webp-express/webp-images/uploads/2022/03/gulsum.jpeg.webp",
+        "gsm": "0 538 544 60 50",
+        "tel": "+90 242 227 91 00",
+        "city": "Antalya",
+        "mail": "gulsum.cayir@talyabilisim.net"
+      },
+      {
+        "name": "Mahmut BİLGİ",
+        "title": "Yazılım Uzmanı",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/mahmutbilgin.png",
+        "gsm": "",
+        "tel": "+90 242 227 91 00",
+        "city": "Antalya",
+        "mail": "mahmut.bilgi@talyabilisim.com.tr"
+      },
+      {
+        "name": "Oğulcan CANAYDIN",
+        "title": "Yazılım Uzmanı",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/ogulcan.png",
+        "gsm": "",
+        "tel": "+90 242 227 91 00",
+        "city": "Antalya",
+        "mail": "ogulcan.canaydin@talyabilisim.com.tr"
+      },
+      {
+        "name": "Mehmet BAŞAL",
+        "title": "Yazılım Uzmanı",
+        "img": "https://www.elektraweb.com/wp-content/webp-express/webp-images/uploads/2022/03/mehmetbasal.png.webp",
+        "gsm": "",
+        "tel": "+90 242 227 91 00",
+        "city": "Antalya",
+        "mail": "mehmet.basal@elektraweb.com"
+      },
+      {
+        "name": "Yelda KÜÇÜKASLAN",
+        "title": "Yazılım Uzmanı",
+        "img": "https://www.elektraweb.com/wp-content/webp-express/webp-images/uploads/2022/03/yelda.png.webp",
+        "gsm": "",
+        "tel": "+90 242 227 91 00",
+        "city": "Antalya",
+        "mail": "yelda.kucukaslan@talyabilisim.net"
+      },
+      {
+        "name": "Hamza ALFAWAER",
+        "title": "Yazılım Uzmanı",
+        "img": "https://www.elektraweb.com/wp-content/webp-express/webp-images/uploads/2022/03/83602-hamza.jpg.webp",
+        "gsm": "0 531 680 79 07",
+        "tel": "+90 242 227 91 00",
+        "city": "Antalya",
+        "mail": "hamza@elektraweb.com"
+      },
+      {
+        "name": "Berna KOCA",
+        "title": "Eğitim ve Destek Koordinatörü",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/bernakoca.png",
+        "gsm": "0 533 272 48 98",
+        "tel": "+90 242 227 91 00",
+        "city": "Antalya",
+        "mail": "berna.koca@talyabilisim.com.tr"
+      },
+      {
+        "name": "Betül TOPKAN",
+        "title": "Müşteri İlişkileri Yöneticisi",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/betul.png",
+        "gsm": "0 533 278 86 00",
+        "tel": "+90 242 227 91 00",
+        "city": "Antalya",
+        "mail": "betul.topkan@talyabilisim.com.tr"
+      },
+      {
+        "name": "Eda YILMAZ",
+        "title": "ElektraWeb Ürün Müdürü",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/edayilmaz.png",
+        "gsm": "0 533 278 80 89",
+        "tel": "+90 242 227 91 00",
+        "city": "Antalya",
+        "mail": "eda.yilmaz@talyabilisim.com.tr"
+      },
+      {
+        "name": "Sefa YÜCE",
+        "title": "Eğitim Destek Uzmanı",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/erancelik.png",
+        "gsm": "0 533 278 21 51",
+        "tel": "+90 312 440 00 65",
+        "city": "Ankara",
+        "mail": "sefa.yuce@talyabilisim.com.tr"
+      },
+      {
+        "name": "Eran ÇELİK",
+        "title": "Eğitim Destek Uzmanı",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/erancelik.png",
+        "gsm": "0 533 278 80 84",
+        "tel": "+90 216 361 62 00",
+        "city": "İSTANBUL",
+        "mail": "eran.celik@talyabilisim.com.tr"
+      },
+      {
+        "name": "Atilla YAPRAK",
+        "title": "Eğitim Destek Uzmanı",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/atilla.png",
+        "gsm": "0 533 934 89 04",
+        "tel": "+90 242 227 91 00",
+        "city": "ANTALYA",
+        "mail": "atilla.yaprak@talyabilisim.com.tr"
+      },
+      {
+        "name": "Mustafa ÖZEN",
+        "title": "Eğitim Destek Uzmanı",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/mustafaozen.png",
+        "gsm": "0 533 934 89 09",
+        "tel": "+90 312 440 00 65",
+        "city": "ANKARA",
+        "mail": "mustafa.ozen@talyabilisim.com.tr"
+      },
+      {
+        "name": "Gamze BODUR",
+        "title": "Eğitim Destek Uzmanı",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/gamze.png",
+        "gsm": "0 533 278 80 86",
+        "tel": "+90 242 227 91 00",
+        "city": "ANTALYA",
+        "mail": "gamze.bodur@talyabilisim.com.tr"
+      },
+      {
+        "name": "Pelin ÖZKAN",
+        "title": "Denetim ve Kontrol Şefi",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2019/03/pelin-ozkan.jpg",
+        "gsm": "0 533 088 44 94",
+        "tel": "+90 242 227 91 00",
+        "city": "ANTALYA",
+        "mail": "pelin.ozkan@talyabilisim.net"
+      },
+      {
+        "name": "Eren AKIN",
+        "title": "Eğitim Destek Uzmanı",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2019/03/eren-akin.jpg",
+        "gsm": "0533 278 86 12",
+        "tel": "+90 242 227 91 00",
+        "city": "ANTALYA",
+        "mail": "eren.akin@talyabilisim.net"
+      },
+      {
+        "name": "Fırat GEMALMAZ",
+        "title": "Eğitim Destek Uzmanı",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2020/03/IMG_20190208_005955_354.jpg",
+        "gsm": "0 538 394 16 98",
+        "tel": "+90 216 361 62 00",
+        "city": "İSTANBUL",
+        "mail": "firat.gemalmaz@talyabilisim.net"
+      },
+      {
+        "name": "İrem KARACAOĞLU",
+        "title": "Eğitim Destek Uzmanı",
+        "img": "https://www.elektraweb.com/wp-content/webp-express/webp-images/uploads/2021/06/C29CDCAE-30A2-4B18-AEB1-ED60C6BFA553-1-300x300.jpg.webp",
+        "tel": "+90 242 227 91 00",
+        "gsm": "0 530 222 32 24",
+        "city": "ANTALYA",
+        "mail": "irem.karacaoglu@talyabilisim.net"
+      },
+      {
+        "name": "Serkan GÜNDOĞAN",
+        "title": "ETS Yazılım Geliştirme Uzmanı",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/10/p7.png",
+        "tel": "+90 242 227 91 00",
+        "gsm": "0 537 040 69 16",
+        "city": "ANTALYA",
+        "mail": "serkan.gundogan@talyabilisim.net"
+      },
+      {
+        "name": "Ergün KARATEKİN",
+        "title": "ETS Eğitim ve Destek Şefi",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/ergunkaratekin.png",
+        "gsm": "0 530 152 02 78",
+        "tel": "+90 242 227 91 00",
+        "city": "ANTALYA",
+        "mail": "ergun.karatekin@talyabilisim.com.tr"
+      },
+      {
+        "name": "Serdar ÖZATICI",
+        "title": "ETS Eğitim Destek Uzmanı",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/serdar.png",
+        "gsm": "0 531 682 44 24",
+        "tel": "+90 242 227 91 00",
+        "city": "ANTALYA",
+        "mail": "serdar.ozatici@talyabilisim.com.tr"
+      },
+      {
+        "name": "ÖZGE CANGURUS",
+        "title": "ETS Eğitim Destek Uzmanı",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/ozge-cangurus.jpg",
+        "gsm": "0 533 278 80 96",
+        "tel": "+90 242 227 91 00",
+        "city": "ANTALYA",
+        "mail": "ozge.cangurus@talyabilisim.net"
+      },
+      {
+        "name": "Seher ŞAŞTIM",
+        "title": "ETS Eğitim Destek Uzmanı",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/10/p6.png",
+        "gsm": "0533 737 45 98",
+        "tel": "+90 242 227 91 00",
+        "city": "ANTALYA",
+        "mail": "seher.sastim@talyabilisim.net"
+      },
+      {
+        "name": "Kadir Can BAŞAL",
+        "title": "ETS Eğitim Destek Uzmanı",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2020/03/kadircan-1.jpeg",
+        "gsm": "0 533 278 80 82",
+        "tel": "+90 242 227 91 00",
+        "city": "ANTALYA",
+        "mail": "kadircan.basal@talyabilisim.net"
+      },
+      {
+        "name": "Batuhan YEŞİLGÜL",
+        "title": "ETS Eğitim Destek Uzmanı",
+        "img": "https://www.elektraweb.com/wp-content/webp-express/webp-images/uploads/2022/03/batu.png.webp",
+        "gsm": "0 531 680 84 66",
+        "tel": "+90 242 227 91 00",
+        "city": "ANTALYA",
+        "mail": "batuhan.yesilgul@talyabilisim.net"
+      },
+      {
+        "name": "Yusuf BATAN",
+        "title": "ETS Eğitim Destek Uzmanı",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2020/03/IMG_20200305_073159.png",
+        "gsm": "",
+        "tel": "+90 242 227 91 00",
+        "city": "ANTALYA",
+        "mail": "yusuf.batan@talyabilisim.net"
+      },
+      {
+        "name": "Kürşat KALENDER",
+        "title": "ETS Eğitim Destek Uzmanı",
+        "img": "https://www.elektraweb.com/wp-content/webp-express/webp-images/uploads/2021/08/Adsiz-300x300.png.webp",
+        "gsm": "0 538 544 52 62",
+        "tel": "+90 242 227 91 00",
+        "city": "ANTALYA",
+        "mail": "kursat.kalender@talyabilisim.net"
+      },
+      {
+        "name": "Yusuf ATMACA",
+        "title": "ETS Eğitim Destek Uzmanı",
+        "img": "https://www.elektraweb.com/wp-content/webp-express/webp-images/uploads/2022/03/atmaca.jpg.webp",
+        "gsm": "0 538 394 16 86",
+        "tel": "+90 242 227 91 00",
+        "city": "ANTALYA",
+        "mail": "yusuf.atmaca@elektraweb.com"
+      }
+    ]
   },
-    {
-    "name":"Kemal ORAL",
-    "title":"Teknoloji Geliştirme Grubu Başkanı",
-    "img":"https://www.elektraotel.com/wp-content/uploads/2018/02/kemaloral3.jpg",
-    "gsm":"0 533 270 84 76",
-    "tel":"+90 242 227 91 00",
-    "city":"Antalya",
-    "mail":"kemal.oral@talyabilisim.com.tr"
-    
+  {
+    "grupName": "Satış",
+    "hide": false,
+    "personels": [
+      {
+        "name": "Gökhan Faruk DURAN",
+        "title": "Satış Müdürü",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/FarukDuran_Vesikal%C3%84%C2%B1k1.jpg",
+        "gsm": "0 533 296 49 55",
+        "tel": "+90 242 227 91 00",
+        "city": "ANTALYA",
+        "mail": "faruk.duran@talyabilisim.com.tr"
+      },
+      {
+        "name": "Emre KURT",
+        "title": "Satış Yöneticisi",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/emrekurt.png",
+        "gsm": "0 533 277 80 88",
+        "tel": "+90 242 227 91 00",
+        "city": "ANTALYA",
+        "mail": "emre.kurt@talyabilisim.com.tr"
+      },
+      {
+        "name": "Kamil ASLAN",
+        "title": "Satış Yöneticisi",
+        "img": "https://www.elektraweb.com/wp-content/webp-express/webp-images/uploads/2021/06/processed-300x300.jpeg.webp",
+        "gsm": "0 533 294 79 07",
+        "tel": "+90 242 227 91 00",
+        "city": "ANTALYA",
+        "mail": "kamil.aslan@talyabilisim.net"
+      },
+      {
+        "name": "Haluk ORAL",
+        "title": "Satış Yöneticisi",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2019/12/20191217_020042.jpg",
+        "gsm": "0 533 277 80 92",
+        "tel": "+90 312 440 00 65",
+        "city": "ANKARA",
+        "mail": "haluk.oral@talyabilisim.net"
+      },
+      {
+        "name": "Umut ORAL",
+        "title": "Satış Yöneticisi",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2020/12/umutoral_ekibimiz.png",
+        "gsm": "0 538 544 58 66",
+        "tel": "+90 232 480 08 78",
+        "city": "İZMİR",
+        "mail": "umut.oral@talyabilisim.net"
+      }
+    ]
+  },
+  {
+    "grupName": "Isafe",
+    "hide": false,
+    "personels": [
+      {
+        "name": "Aydın YAKAR",
+        "title": "iSafe Yazılım Uzmanı",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/aydinyakar.jpg",
+        "gsm": "0 533 298 00 08",
+        "tel": "+90 242 227 91 00",
+        "city": "ANTALYA",
+        "mail": "aydin@isafe.com.tr"
+      },
+      {
+        "name": "Hasan ÜNSAL",
+        "title": "iSafe Eğitim Destek Uzmanı",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/hasanunsal.png",
+        "gsm": "0 530 174 94 03",
+        "tel": "+90 242 227 91 00",
+        "city": "ANTALYA",
+        "mail": "hasan@isafe.com.tr"
+      }
+    ]
+  },
+  {
+    "grupName": "Kimlik Okur",
+    "hide": false,
+    "personels": [
+      {
+        "name": "Orçun ARSLAN",
+        "title": "Kimlikokur Satış Yöneticisi",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/orcun.png",
+        "gsm": "0 533 744 91 34",
+        "tel": "+90 242 227 91 00",
+        "city": "ANTALYA",
+        "mail": "orcun.arslan@kimlikokur.com"
+      },
+      {
+        "name": "Cihan ŞAP",
+        "title": "Kimlikokur Eğitim Destek Uzmanı",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/cihan.png",
+        "gsm": "0 530 304 78 79",
+        "tel": "+90 242 227 91 00",
+        "city": "ANTALYA",
+        "mail": "hasan@isafe.com.tr"
+      }
+    ]
+  },
+  {
+    "grupName": "İdari Ekip",
+    "hide": false,
+    "personels": [
+      {
+        "name": "Canan AKÖZLÜ",
+        "title": "Muhasebe & Finans Sorumlusu",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/canan.png",
+        "gsm": "0 533 278 80 90",
+        "tel": "+90 312 440 00 65",
+        "city": "ANKARA",
+        "mail": "canan.akozlu@talyabilisim.com.tr"
+      },
+      {
+        "name": "Özaltun AYGÜN",
+        "title": "Muhasebe & Finans Sorumlusu",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/10/p1.png",
+        "gsm": "0 533 278 80 97",
+        "tel": "+90 312 440 00 65",
+        "city": "ANKARA",
+        "mail": "altun.aygun@talyabilisim.com.tr"
+      },
+      {
+        "name": "Ekin MAVİ BÜYÜKÇİFTÇİOĞLU",
+        "title": "Halkla İlişkiler Sorumlusu",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/ekinmavi.jpg",
+        "gsm": "0 533 278 80 98",
+        "tel": "+90 312 440 00 65",
+        "city": "ANKARA",
+        "mail": "ekin.mavi@talyabilisim.com.tr"
+      },
+      {
+        "name": "Gözde BOZKURT",
+        "title": "Görsel Tasarım Uzmanı",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2020/03/WhatsApp-Image-2020-03-04-at-14.21.33.jpeg",
+        "gsm": "0 538 394 16 83",
+        "tel": "+90 312 440 00 65",
+        "city": "ANKARA",
+        "mail": "gozde.bozkurt@talyabilisim.com.tr"
+      },
+      {
+        "name": "Bilge YILMAZ",
+        "title": "Ankara – İdari Asistan",
+        "img": "https://www.elektraweb.com/wp-content/webp-express/webp-images/uploads/2021/06/20171013_105728-300x300.jpg.webp",
+        "gsm": "0 530 568 12 38",
+        "tel": "+90 312 440 00 65",
+        "city": "ANKARA",
+        "mail": "bilge.yilmaz@talyabilisim.com.tr"
+      },
+      {
+        "name": "Sevda KOLDAMCA",
+        "title": "Antalya – Yönetici Asistan",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/10/hj.png",
+        "gsm": "0 531 680 12 05",
+        "tel": "+90 242 227 91 00",
+        "city": "ANTALYA",
+        "mail": "sevda.koldamca@talyabilisim.net"
+      },
+      {
+        "name": "Müjde ÇOKCAN",
+        "title": "Antalya – İdari Asistan",
+        "img": "https://www.elektraweb.com/wp-content/webp-express/webp-images/uploads/2021/06/IMG_7656-252x300.jpg.webp",
+        "gsm": "0 530 549 57 67",
+        "tel": "+90 242 227 91 00",
+        "city": "ANTALYA",
+        "mail": "mujde.cokcan@talyabilisim.net"
+      },
+      {
+        "name": "Meral GÜRDAP",
+        "title": "İstanbul – İdari Asistan",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/meralgurdap.png",
+        "gsm": "0 533 295 07 58",
+        "tel": "+90 216 361 62 00",
+        "city": "İSTANBUL",
+        "mail": "meral.gurdap@talyabilisim.com.tr"
+      }
+    ]
   }
-  ]
-}
 ]
