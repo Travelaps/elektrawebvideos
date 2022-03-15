@@ -91,6 +91,15 @@
         "mail": "gulsum.cayir@talyabilisim.net"
       },
       {
+        "name": "Şerafettin BAL",
+        "title": "Yazılım Mühendisi",
+        "img": "https://www.elektraweb.com/wp-content/uploads/2022/03/sero.jpeg",
+        "gsm": "",
+        "tel": "+90 242 227 91 00",
+        "city": "Antalya",
+        "mail": "serafettin.bal@talyabilisim.net"
+      },
+      {
         "name": "Mahmut BİLGİ",
         "title": "Yazılım Uzmanı",
         "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/mahmutbilgin.png",
@@ -136,6 +145,15 @@
         "mail": "hamza@elektraweb.com"
       },
       {
+        "name": "Ebru TOPÇU",
+        "title": "Yazılım Uzmanı",
+        "img": "https://www.elektraweb.com/wp-content/uploads/2022/03/EBRUUUUUU.jpg",
+        "gsm": "",
+        "tel": "+90 242 227 91 00",
+        "city": "Antalya",
+        "mail": "ebru.topcu@elektraweb.com"
+      },
+      {
         "name": "Berna KOCA",
         "title": "Eğitim ve Destek Koordinatörü",
         "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/bernakoca.png",
@@ -161,6 +179,24 @@
         "tel": "+90 242 227 91 00",
         "city": "Antalya",
         "mail": "eda.yilmaz@talyabilisim.com.tr"
+      },
+      {
+        "name": "Pelin ÖZKAN",
+        "title": "Denetim ve Kontrol Şefi",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2019/03/pelin-ozkan.jpg",
+        "gsm": "0 533 088 44 94",
+        "tel": "+90 242 227 91 00",
+        "city": "ANTALYA",
+        "mail": "pelin.ozkan@talyabilisim.net"
+      },
+      {
+        "name": "Hakan ALTINTAŞ",
+        "title": "Eğitim Destek Uzmanı",
+        "img": "https://www.elektraweb.com/wp-content/uploads/2022/03/hakaannn.jpg",
+        "gsm": "0 533 205 87 77",
+        "tel": "+90 242 227 91 00",
+        "city": "ANTALYA",
+        "mail": "hakan.altintas@talyabilisim.com.tr"
       },
       {
         "name": "Sefa YÜCE",
@@ -201,20 +237,11 @@
       {
         "name": "Gamze BODUR",
         "title": "Eğitim Destek Uzmanı",
-        "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/gamze.png",
+        "img": "https://www.elektraweb.com/wp-content/uploads/2022/03/gamze.jpg",
         "gsm": "0 533 278 80 86",
         "tel": "+90 242 227 91 00",
         "city": "ANTALYA",
         "mail": "gamze.bodur@talyabilisim.com.tr"
-      },
-      {
-        "name": "Pelin ÖZKAN",
-        "title": "Denetim ve Kontrol Şefi",
-        "img": "https://www.elektraotel.com/wp-content/uploads/2019/03/pelin-ozkan.jpg",
-        "gsm": "0 533 088 44 94",
-        "tel": "+90 242 227 91 00",
-        "city": "ANTALYA",
-        "mail": "pelin.ozkan@talyabilisim.net"
       },
       {
         "name": "Eren AKIN",
@@ -235,26 +262,8 @@
         "mail": "firat.gemalmaz@talyabilisim.net"
       },
       {
-        "name": "İrem KARACAOĞLU",
-        "title": "Eğitim Destek Uzmanı",
-        "img": "https://www.elektraweb.com/wp-content/webp-express/webp-images/uploads/2021/06/C29CDCAE-30A2-4B18-AEB1-ED60C6BFA553-1-300x300.jpg.webp",
-        "tel": "+90 242 227 91 00",
-        "gsm": "0 530 222 32 24",
-        "city": "ANTALYA",
-        "mail": "irem.karacaoglu@talyabilisim.net"
-      },
-      {
-        "name": "Serkan GÜNDOĞAN",
-        "title": "ETS Yazılım Geliştirme Uzmanı",
-        "img": "https://www.elektraotel.com/wp-content/uploads/2018/10/p7.png",
-        "tel": "+90 242 227 91 00",
-        "gsm": "0 537 040 69 16",
-        "city": "ANTALYA",
-        "mail": "serkan.gundogan@talyabilisim.net"
-      },
-      {
         "name": "Ergün KARATEKİN",
-        "title": "ETS Eğitim ve Destek Şefi",
+        "title": "ERP Eğitim ve Destek Şefi",
         "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/ergunkaratekin.png",
         "gsm": "0 530 152 02 78",
         "tel": "+90 242 227 91 00",
@@ -262,17 +271,26 @@
         "mail": "ergun.karatekin@talyabilisim.com.tr"
       },
       {
+        "name": "Serkan GÜNDOĞAN",
+        "title": "ERP Yazılım Geliştirme Uzmanı",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2018/10/p7.png",
+        "tel": "+90 242 227 91 00",
+        "gsm": "0 537 040 69 16",
+        "city": "ANTALYA",
+        "mail": "serkan.gundogan@talyabilisim.net"
+      },
+      {
         "name": "Serdar ÖZATICI",
-        "title": "ETS Eğitim Destek Uzmanı",
+        "title": "ERP Eğitim Destek Uzmanı",
         "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/serdar.png",
         "gsm": "0 531 682 44 24",
-        "tel": "+90 242 227 91 00",
-        "city": "ANTALYA",
+        "tel": "+90 216 361 62 00",
+        "city": "İSTANBUL",
         "mail": "serdar.ozatici@talyabilisim.com.tr"
       },
       {
-        "name": "ÖZGE CANGURUS",
-        "title": "ETS Eğitim Destek Uzmanı",
+        "name": "ÖZGE CANGURUS YILMAZ",
+        "title": "ERP Eğitim Destek Uzmanı",
         "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/ozge-cangurus.jpg",
         "gsm": "0 533 278 80 96",
         "tel": "+90 242 227 91 00",
@@ -281,16 +299,25 @@
       },
       {
         "name": "Seher ŞAŞTIM",
-        "title": "ETS Eğitim Destek Uzmanı",
-        "img": "https://www.elektraotel.com/wp-content/uploads/2018/10/p6.png",
+        "title": "ERP Eğitim Destek Uzmanı",
+        "img": "https://www.elektraweb.com/wp-content/uploads/2022/03/seherrrrr.jpg",
         "gsm": "0533 737 45 98",
         "tel": "+90 242 227 91 00",
         "city": "ANTALYA",
         "mail": "seher.sastim@talyabilisim.net"
       },
       {
+        "name": "Yusuf BATAN",
+        "title": "ERP Eğitim Destek Uzmanı",
+        "img": "https://www.elektraotel.com/wp-content/uploads/2020/03/IMG_20200305_073159.png",
+        "gsm": "",
+        "tel": "+90 242 227 91 00",
+        "city": "ANTALYA",
+        "mail": "yusuf.batan@talyabilisim.net"
+      },
+      {
         "name": "Kadir Can BAŞAL",
-        "title": "ETS Eğitim Destek Uzmanı",
+        "title": "ERP Eğitim Destek Uzmanı",
         "img": "https://www.elektraotel.com/wp-content/uploads/2020/03/kadircan-1.jpeg",
         "gsm": "0 533 278 80 82",
         "tel": "+90 242 227 91 00",
@@ -299,7 +326,7 @@
       },
       {
         "name": "Batuhan YEŞİLGÜL",
-        "title": "ETS Eğitim Destek Uzmanı",
+        "title": "Eğitim Destek Uzmanı",
         "img": "https://www.elektraweb.com/wp-content/webp-express/webp-images/uploads/2022/03/batu.png.webp",
         "gsm": "0 531 680 84 66",
         "tel": "+90 242 227 91 00",
@@ -307,17 +334,17 @@
         "mail": "batuhan.yesilgul@talyabilisim.net"
       },
       {
-        "name": "Yusuf BATAN",
-        "title": "ETS Eğitim Destek Uzmanı",
-        "img": "https://www.elektraotel.com/wp-content/uploads/2020/03/IMG_20200305_073159.png",
-        "gsm": "",
+        "name": "Yusuf ÜNVER",
+        "title": "Eğitim Destek Uzmanı",
+        "img": "https://www.elektraweb.com/wp-content/uploads/2022/03/yusufunver.png",
         "tel": "+90 242 227 91 00",
+        "gsm": "0 533 394 79 04",
         "city": "ANTALYA",
-        "mail": "yusuf.batan@talyabilisim.net"
+        "mail": "yusuf.unverelektraweb.com"
       },
       {
         "name": "Kürşat KALENDER",
-        "title": "ETS Eğitim Destek Uzmanı",
+        "title": "Eğitim Destek Uzmanı",
         "img": "https://www.elektraweb.com/wp-content/webp-express/webp-images/uploads/2021/08/Adsiz-300x300.png.webp",
         "gsm": "0 538 544 52 62",
         "tel": "+90 242 227 91 00",
@@ -326,12 +353,39 @@
       },
       {
         "name": "Yusuf ATMACA",
-        "title": "ETS Eğitim Destek Uzmanı",
+        "title": "Eğitim Destek Uzmanı",
         "img": "https://www.elektraweb.com/wp-content/webp-express/webp-images/uploads/2022/03/atmaca.jpg.webp",
         "gsm": "0 538 394 16 86",
         "tel": "+90 242 227 91 00",
         "city": "ANTALYA",
         "mail": "yusuf.atmaca@elektraweb.com"
+      },
+      {
+        "name": "Özkan TURAN",
+        "title": "Eğitim Destek Uzmanı",
+        "img": "https://www.elektraweb.com/wp-content/uploads/2022/03/ozkant.jpg",
+        "gsm": "0 532 222 32 07",
+        "tel": "+90 242 227 91 00",
+        "city": "ANTALYA",
+        "mail": "ozkan.turan@elektraweb.com"
+      },
+      {
+        "name": "Ferit YETİK",
+        "title": "Eğitim Destek Uzmanı",
+        "img": "https://www.elektraweb.com/wp-content/uploads/2022/03/ferit.jpg",
+        "tel": "+90 242 227 91 00",
+        "gsm": "0 533 084 72 97",
+        "city": "ANTALYA",
+        "mail": "ferit.yetik@elektraweb.com"
+      },
+      {
+        "name": "İrem KARACAOĞLU",
+        "title": "Eğitim Destek Uzmanı",
+        "img": "https://www.elektraweb.com/wp-content/webp-express/webp-images/uploads/2021/06/C29CDCAE-30A2-4B18-AEB1-ED60C6BFA553-1-300x300.jpg.webp",
+        "tel": "+90 242 227 91 00",
+        "gsm": "0 530 222 32 24",
+        "city": "ANTALYA",
+        "mail": "irem.karacaoglu@talyabilisim.net"
       }
     ]
   },
