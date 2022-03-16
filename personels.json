@@ -82,6 +82,15 @@
         "mail": "haydar.akyuz@talyabilisim.net"
       },
       {
+        "name": "Cihat YILMAZ",
+        "title": "Yazılım Mühendisi",
+        "img": "https://www.elektraweb.com/wp-content/uploads/2022/03/cihatY.jpg",
+        "gsm": "",
+        "tel": "+90 242 227 91 00",
+        "city": "Antalya",
+        "mail": "cihat.yilmaz@talyabilisim.com.tr"
+      },
+      {
         "name": "Gülsüm ÇAYIR",
         "title": "Yazılım Mühendisi",
         "img": "https://www.elektraweb.com/wp-content/webp-express/webp-images/uploads/2022/03/gulsum.jpeg.webp",
@@ -98,6 +107,15 @@
         "tel": "+90 242 227 91 00",
         "city": "Antalya",
         "mail": "serafettin.bal@talyabilisim.net"
+      },
+      {
+        "name": "Burcu YILMAZ",
+        "title": "Yazılım Mühendisi",
+        "img": "https://www.elektraweb.com/wp-content/uploads/2022/03/burcu.jpeg",
+        "gsm": "",
+        "tel": "+90 242 227 91 00",
+        "city": "Antalya",
+        "mail": "burcu.yilmaz@ersas.com"
       },
       {
         "name": "Mahmut BİLGİ",
@@ -179,6 +197,15 @@
         "tel": "+90 242 227 91 00",
         "city": "Antalya",
         "mail": "eda.yilmaz@talyabilisim.com.tr"
+      },
+      {
+        "name": "Beyza TAŞKIRAN",
+        "title": "Online Rezervasyon ve Kanal Yöneticisi Ürün Müdürü",
+        "img": "https://www.elektraweb.com/wp-content/uploads/2022/03/beyza-1.jpg",
+        "gsm": "0 531 680 78 74",
+        "tel": "+90 242 227 91 00",
+        "city": "Antalya",
+        "mail": "beyza.taskiran@elektraweb.com"
       },
       {
         "name": "Pelin ÖZKAN",
@@ -364,10 +391,28 @@
         "name": "Özkan TURAN",
         "title": "Eğitim Destek Uzmanı",
         "img": "https://www.elektraweb.com/wp-content/uploads/2022/03/ozkant.jpg",
-        "gsm": "0 532 222 32 07",
+        "gsm": "0 530 222 32 07",
         "tel": "+90 242 227 91 00",
         "city": "ANTALYA",
         "mail": "ozkan.turan@elektraweb.com"
+      },
+      {
+        "name": "Menekşe BİNİCİ",
+        "title": "Eğitim Destek Uzmanı",
+        "img": "https://www.elektraweb.com/wp-content/uploads/2022/03/menekse.jpg",
+        "tel": "+90 242 227 91 00",
+        "gsm": "0 530 222 32 05",
+        "city": "ANTALYA",
+        "mail": "menekse.binici@talyabilisim.net"
+      },
+      {
+        "name": "Emre HIZ",
+        "title": "Eğitim Destek Uzmanı",
+        "img": "https://www.elektraweb.com/wp-content/uploads/2022/03/emrehiz.jpeg",
+        "gsm": "0 531 683 21 93",
+        "tel": "+90 242 227 91 00",
+        "city": "ANTALYA",
+        "mail": "emre.hiz@talyabilisim.net"
       },
       {
         "name": "Ferit YETİK",
@@ -401,6 +446,15 @@
         "tel": "+90 242 227 91 00",
         "city": "ANTALYA",
         "mail": "faruk.duran@talyabilisim.com.tr"
+      },
+      {
+        "name": "Tuğçe KEÇECİOĞLU",
+        "title": "Satış Yöneticisi",
+        "img": "https://www.elektraweb.com/wp-content/uploads/2022/03/tugce.png",
+        "gsm": "0 533 278 80 83",
+        "tel": "",
+        "city": "",
+        "mail": "tugce.kececioglu@talyabilisim.net"
       },
       {
         "name": "Emre KURT",
@@ -437,6 +491,15 @@
         "tel": "+90 232 480 08 78",
         "city": "İZMİR",
         "mail": "umut.oral@talyabilisim.net"
+      },
+      {
+        "name": "Rabia BAKKAL",
+        "title": "Satış Yöneticisi",
+        "img": "https://www.elektraweb.com/wp-content/uploads/2022/03/rabia1.jpg",
+        "gsm": "0 530 915 20 11",
+        "tel": "+90 232 480 08 78",
+        "city": "İZMİR",
+        "mail": "rabia.bakkal@talyabilisim.net"
       }
     ]
   },
@@ -456,7 +519,7 @@
       {
         "name": "Hasan ÜNSAL",
         "title": "iSafe Eğitim Destek Uzmanı",
-        "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/hasanunsal.png",
+        "img": "https://www.elektraweb.com/wp-content/uploads/2022/03/Hasan-Unsal.jpg",
         "gsm": "0 530 174 94 03",
         "tel": "+90 242 227 91 00",
         "city": "ANTALYA",
@@ -536,6 +599,15 @@
         "tel": "+90 312 440 00 65",
         "city": "ANKARA",
         "mail": "bilge.yilmaz@talyabilisim.com.tr"
+      },
+      {
+        "name": "Aslı BİLEN",
+        "title": "Müşteri İlişkileri-Yönetici Asistan ",
+        "img": "https://www.elektraweb.com/wp-content/uploads/2022/03/asli.jpg",
+        "gsm": "0 539 441 88 42",
+        "tel": "+90 242 227 91 00",
+        "city": "ANTALYA",
+        "mail": "asli.bilen@talyabilisim.net"
       },
       {
         "name": "Sevda KOLDAMCA",
