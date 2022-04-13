@@ -511,6 +511,113 @@
       ]
     },
     {
+      "grupName": "Medisoft Teknik Ekip",
+      "hide": false,
+      "personels": [
+        {
+          "name": "Teoman İBİLİ",
+          "title": "Medisoft Yazılım Grubu Başkanı",
+          "img": "https://www.medisoft.com.tr/wp-content/uploads/2019/10/teomanibili.png",
+          "gsm": "0 533 967 86 66",
+          "tel": "+90 850 777 0 633",
+          "city": "Antalya",
+          "mail": "teoman.ibili@talyabilisim.net"
+        },
+       {
+          "name": "Erhan NACIR",
+          "title": "Medisoft Grubu Yazılım Koordinatörü",
+          "img": "https://www.medisoft.com.tr/wp-content/uploads/2018/04/ErhanNacir.png",
+          "gsm": "0 533 278 80 94",
+          "tel": "+90 850 777 0 633",
+          "city": "Antalya",
+          "mail": "erhan.nacir@talyabilisim.net"
+        },
+        {
+          "name": "Cem GEMALMAZ",
+          "title": "Medisoft Grubu Ürün Koordinatörü",
+          "img": "https://www.medisoft.com.tr/wp-content/uploads/2018/04/cemo.jpg",
+          "gsm": "0 533 278 86 13",
+          "tel": "+90 850 777 0 633",
+          "city": "",
+          "mail": "cem.gemalmaz@talyabilisim.com.tr"
+        },
+        {
+          "name": "Serdar ÖZGÜL",
+          "title": "Medisoft Grubu Yazılım Mühendisi",
+          "img": "https://www.medisoft.com.tr/wp-content/uploads/2018/04/cemo.jpg",
+          "gsm": "0 538 544 52 72",
+          "tel": "+90 850 777 0 633",
+          "city": "",
+          "mail": "serdar.ozgul@talyabilisim.net"
+        },
+        {
+          "name": "Altan KARABACAK",
+          "title": "Medisoft Grubu Yazılım Uzmanı",
+          "img": "https://www.medisoft.com.tr/wp-content/uploads/2018/04/altan.png",
+          "gsm": "0 531 680 84 68",
+          "tel": "+90 850 777 0 633",
+          "city": "Antalya",
+          "mail": "altan.karabacak@talyabilisim.com.tr"
+        },
+           {
+          "name": "Emrah ERTAN",
+          "title": "Medisoft Grubu Eğitim Destek Şefi",
+          "img": "https://www.medisoft.com.tr/wp-content/uploads/2018/04/emrah.jpg",
+          "gsm": "0 533 934 89 02",
+          "tel": "+90 850 777 0 633",
+          "city": "Antalya",
+          "mail": "emrah.ertan@talyabilisim.com.tr"
+        },
+         {
+          "name": "Emre RENKSİZKAYA",
+          "title": "Medisoft Grubu Eğitim Destek Uzmanı",
+          "img": "https://www.medisoft.com.tr/wp-content/uploads/2018/04/EMRERENKS%C4%B0ZKAY.png",
+          "gsm": "0 533 934 89 06",
+          "tel": "+90 850 777 0 633",
+          "city": "",
+          "mail": "emre.renksizkaya@talyabilisim.com.tr"
+        },
+        {
+          "name": "Fatih ÇOLAK",
+          "title": "Medisoft Grubu Eğitim Destek Uzmanı",
+          "img": "https://www.medisoft.com.tr/wp-content//uploads/2018/04/fatih.jpg",
+          "gsm": "0 538 544 63 03",
+          "tel": "+90 850 777 0 633",
+          "city": "Antalya",
+          "mail": "fatih.colak@talyabilisim.net"
+        },
+         {
+          "name": "Osman MUSLU",
+          "title": "Medisoft Grubu Eğitim Destek Uzmanı",
+          "img": "https://www.medisoft.com.tr/wp-content/uploads/2019/01/a.png",
+          "gsm": "0 533 934 89 03",
+          "tel": "+90 850 777 0 633",
+          "city": "Antalya",
+          "mail": "osman.muslu@talyabilisim.net"
+        },
+        {
+          "name": "Mustafa YILDIZ",
+          "title": "Medisoft Grubu Eğitim Destek Uzmanı",
+          "img": "https://www.medisoft.com.tr/wp-content/uploads/2019/11/mustafayildiz.png",
+          "gsm": "0 533 934 89 03",
+          "tel": "+90 850 777 0 633",
+          "city": "Antalya",
+          "mail": "mustafa.yildiz@talyabilisim.net"
+        },
+         {
+          "name": "Emre ÖZDEMİR",
+          "title": "Medisoft Grubu Eğitim Destek Uzmanı",
+          "img": "https://www.medisoft.com.tr/wp-content/uploads/2021/08/Adsiz.png",
+          "gsm": "0 539 441 95 22",
+          "tel": "+90 850 777 0 633",
+          "city": "Antalya",
+          "mail": "emre.ozdemir@talyabilisim.net"
+        }
+		 
+		 
+      ]
+    },
+    {
       "grupName": "Satış",
       "hide": false,
       "personels": [
