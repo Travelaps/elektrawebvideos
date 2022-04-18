@@ -453,6 +453,15 @@
           "mail": "emre.hiz@talyabilisim.net"
         },
 		{
+          "name": "Hazal POLAT",
+          "title": "Eğitim Destek Uzmanı",
+          "img": "https://www.elektraweb.com/wp-content/uploads/2022/04/hazal.jpg",
+          "gsm": "0 539 441 88 45",
+          "tel": "+90 242 227 91 00",
+          "city": "ANTALYA",
+          "mail": "hazal.polat@talyabilisim.net"
+        },
+		{
           "name": "İlayda YASEMİN",
           "title": "Eğitim Destek Uzmanı",
           "img": "https://www.elektraweb.com/wp-content/uploads/2022/03/ILAYDA.jpeg",
@@ -615,7 +624,7 @@
         {
           "name": "Gökhan Faruk DURAN",
           "title": "Satış Müdürü",
-          "img": "https://www.elektraotel.com/wp-content/uploads/2018/02/FarukDuran_Vesikal%C3%84%C2%B1k1.jpg",
+          "img": "https://www.elektraweb.com/wp-content/uploads/2022/03/faruk.png",
           "gsm": "0 533 296 49 55",
           "tel": "+90 242 227 91 00",
           "city": "ANTALYA",
@@ -683,6 +692,15 @@
           "tel": "+90 216 361 62 00",
           "city": "İSTANBUL",
           "mail": "emrah.durak@elektraweb.com"
+        },
+		{
+          "name": "Kadircan ÖZER",
+          "title": "Satış Yöneticisi",
+          "img": "https://www.elektraweb.com/wp-content/uploads/2022/04/kadirrcan.jpg",
+          "gsm": "0 533 934 89 07",
+          "tel": "+90 216 361 62 00",
+          "city": "İSTANBUL",
+          "mail": "kadircan.ozer@elektraweb.com"
         }
       ]
     },
