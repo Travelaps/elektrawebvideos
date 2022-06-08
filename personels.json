@@ -612,6 +612,24 @@
           "tel": "+90 850 777 0 633",
           "city": "Antalya",
           "mail": "mustafa.yildiz@talyabilisim.net"
+        },
+	      {
+          "name": "Can İZİN",
+          "title": "",
+          "img": "https://www.medisoft.com.tr/wp-content/uploads/2022/06/can-izin.jpeg",
+          "gsm": "0538 394 1685",
+          "tel": "+90 850 777 0 633",
+          "city": "Antalya",
+          "mail": "can.izin@talyabilisim.net "
+        },
+	      {
+          "name": "Bahadır ÖZERDEN",
+          "title": "Medisoft Grubu Eğitim Destek Uzmanı",
+          "img": "https://www.medisoft.com.tr/wp-content/uploads/2022/06/bahadir-ozerden.jpg",
+          "gsm": "0539 441 95 22",
+          "tel": "+90 850 777 0 633",
+          "city": "Antalya",
+          "mail": "bahadir.ozerden@talyabilisim.net"
         }
 		 
 		 
