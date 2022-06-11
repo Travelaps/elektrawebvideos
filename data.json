@@ -176,25 +176,81 @@
     ]
   },
    {
-    "videoGrup": "Ekranların Genel Kullanımı",
+    "videoGrup": "Temel İşlemler Özeti",
     "videos": [
       {
-        "videoName": "Menü, Araç Çubuğu ve Listelerin Kullanımı",
-        "videoDescription": "Elektraweb butonlarını tanıma, listeleme, gruplama, kolon tasarımı özelliklerinin kullanımı",
+        "videoName": "Rezervasyon Nasıl Oluşturulur?",
+        "videoDescription": "Rezervasyon girişi",
         "youtubeVideoID": "qjFo1Kmf-as",
         "videoTime": "05:50",
         "videoIntTime": 5.5
       },
       {
-        "videoName": "Yardım Menüsü",
-        "videoDescription": "Elektraweb kullanımı için detaylı yardım alabileceğiniz ekranlar hangileridir?",
+        "videoName": "Misafirin Tesise Giriş İşlemi(Check-in) Nasıl Yapılır?",
+        "videoDescription": "Blokaj ve Liste üzerinden C-in İşlemi",
         "youtubeVideoID": "Nt3IbhrXawM",
         "videoTime": "00:47",
         "videoIntTime": 0.47
       },
       {
-        "videoName": "Canlı Destek Sistemi Nasıl Kullanılır?",
-        "videoDescription": "ElektraWeb’de sorularınız, işlemleriniz ve istekleriniz için tüm ilgili departmanlara destek taleplerinizi rahatlıkla ileterek canlı destek alabilirsiniz.",
+        "videoName": "Girişte Tüm Ücret Folyoya Nasıl İşlenir ve Tahsil Edilir?",
+        "videoDescription": "Tüm Konaklamayı Bas ve Ödemesini Al",
+        "youtubeVideoID": "q80FvoiqFWg",
+        "videoTime": "01:41",
+        "videoIntTime": 1.41
+      },
+      {
+        "videoName": "Harcamalar ve Tahsilatlar Folyoya Nasıl Kaydedilir?",
+        "videoDescription": "Folyo işlemleri",
+        "youtubeVideoID": "q80FvoiqFWg",
+        "videoTime": "01:41",
+        "videoIntTime": 1.41
+      },
+      {
+        "videoName": "Konfirmasyon/Kayıt Formu Nasıl Yazdırılır?",
+        "videoDescription": "Form çıktıları",
+        "youtubeVideoID": "q80FvoiqFWg",
+        "videoTime": "01:41",
+        "videoIntTime": 1.41
+      },
+      {
+        "videoName": "Fatura Nasıl Kesilir?",
+        "videoDescription": "Fatura İşlemleri",
+        "youtubeVideoID": "q80FvoiqFWg",
+        "videoTime": "01:41",
+        "videoIntTime": 1.41
+      },
+      {
+        "videoName": "Ayrılan Misafirin Çıkış İşlemi (CheckOut) Nasıl Yapılır?",
+        "videoDescription": "Çıkış İşlemleri",
+        "youtubeVideoID": "q80FvoiqFWg",
+        "videoTime": "01:41",
+        "videoIntTime": 1.41
+      },
+      {
+        "videoName": "Odanın Kirli Temiz İşlemleri Nasıl Düzenlenir?",
+        "videoDescription": "Room Rack Ekranı",
+        "youtubeVideoID": "q80FvoiqFWg",
+        "videoTime": "01:41",
+        "videoIntTime": 1.41
+      },
+       {
+        "videoName": "Kanallara Fiyat Nasıl Gönderilir?",
+        "videoDescription": "Fiyat ve Doluluk Ekranı",
+        "youtubeVideoID": "q80FvoiqFWg",
+        "videoTime": "01:41",
+        "videoIntTime": 1.41
+      },
+      {
+        "videoName": "Gün Sonu İşlemi Nasıl Yapılır?",
+        "videoDescription": "Gün Sonu İşlemleri",
+        "youtubeVideoID": "q80FvoiqFWg",
+        "videoTime": "01:41",
+        "videoIntTime": 1.41
+      },
+      {
+        "videoName": "Doluluk Raporu Nasıl Alınır?",
+        "videoDescription": "Forecast",
         "youtubeVideoID": "q80FvoiqFWg",
         "videoTime": "01:41",
         "videoIntTime": 1.41
