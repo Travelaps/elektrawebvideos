@@ -470,16 +470,7 @@
           "city": "ANTALYA",
           "mail": "ilayda.yasemin@talyabilisim.net"
         },
-		{
-          "name": "Yusuf AKBAŞ",
-          "title": "Eğitim Destek Uzmanı",
-          "img": "https://www.elektraweb.com/wp-content/uploads/2022/03/YUSUFAKBAS.jpeg",
-          "gsm": "0 530 222 32 13",
-          "tel": "+90 242 227 91 00",
-          "city": "ANTALYA",
-          "mail": "yusuf.akbas@talyabilisim.net"
-        },
-		{
+	{
           "name": "Berkay KAYA",
           "title": "Eğitim Destek Uzmanı",
           "img": "https://www.elektraweb.com/wp-content/uploads/2022/03/berkay.jpg",
