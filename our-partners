@@ -6,7 +6,8 @@
       "telone": "+44 78 2677 1711",
       "teltwo": "+44 20 3290 2712",
       "email": "info@elektraweb.com",
-      "adress": "33 Queen Street, Floor 1/Office 01-112 London EC4R 1AP United Kingdom"
+      "adress": "33 Queen Street, Floor 1/Office 01-112 London EC4R 1AP United Kingdom",
+      "countrycode":"uk"
     },
     {
       "country": "Amerika Birleşik Devletleri",
@@ -14,7 +15,8 @@
       "telone": "+1 (347) 708-0203",
       "teltwo": "",
       "email": "info@elektraweb.com",
-      "adress": "10400 NE 4th St #500, Bellevue, WA 98004 USA"
+      "adress": "10400 NE 4th St #500, Bellevue, WA 98004 USA",
+      "countrycode":"us"
     },
      {
       "country": "Dubai",
@@ -22,7 +24,8 @@
       "telone": "+971504378337",
       "teltwo": "",
       "email": "info@ba-mea.com",
-      "adress": "D68, AL Jaddaf, Dubai B1101-63 Grand Tower Offices, AMFZ"
+      "adress": "D68, AL Jaddaf, Dubai B1101-63 Grand Tower Offices, AMFZ",
+      "countrycode":"ae"
     },
      {
       "country": "Romanya",
@@ -30,7 +33,9 @@
       "telone": "0758 863 293",
       "teltwo": "",
       "email": "rebegia.alex@yahoo.com",
-      "adress": "Aleea Tiparului, nr, 14 Piatra Neamt, judetul Neamt"
+      "adress": "Aleea Tiparului, nr, 14 Piatra Neamt, judetul Neamt",
+      "countrycode":"ro"
+
     },
     {
       "country": "Pakistan",
@@ -38,7 +43,9 @@
       "telone": "+92-21-34380069",
       "teltwo": "",
       "email": "elektraweb@visiontrading.com.pk",
-      "adress": "225/1/G,Block 2, P.E.C.H.S., Karachi, Pakistan"
+      "adress": "225/1/G,Block 2, P.E.C.H.S., Karachi, Pakistan",
+      "countrycode":"pk"
+
     },
      {
       "country": "Mısır",
@@ -46,7 +53,9 @@
       "telone": "+20233357381",
       "teltwo": "",
       "email": "info@robustbt.com",
-      "adress": "105 El Sudan Street,Giza P.O.Box:12411"
+      "adress": "105 El Sudan Street,Giza P.O.Box:12411",
+      "countrycode":"eg"
+
     },
      {
       "country": "Bonaire, Aruba ve Curaçao",
@@ -54,7 +63,8 @@
       "telone": "5999 6708331",
       "teltwo": "",
       "email": "vanessa@solutech.cloud",
-      "adress": "aracasbaai weg 199A Willemstad, Curaçao"
+      "adress": "aracasbaai weg 199A Willemstad, Curaçao",
+      "countrycode":"aw"
     },
     {
       "country": "Belçika",
@@ -62,7 +72,8 @@
       "telone": "+32(0)52/46.27.25",
       "teltwo": "",
       "email": "pierre.calcus@elektraweb.com",
-      "adress": "Terlinden, 105 - 1785 Merchtem - BELGIUM"
+      "adress": "Terlinden, 105 - 1785 Merchtem - BELGIUM",
+      "countrycode":"be"
     },
     {
       "country": "Bulgaristan",
@@ -70,7 +81,8 @@
       "telone": "+359 888 613 478",
       "teltwo": "",
       "email": "sales@erp.agency",
-      "adress": "H.E. Hadji Dimitar, 14 Batkun Str. Floor 3, Office 5, ZIP 1510, Sofia, Bulgaria"
+      "adress": "H.E. Hadji Dimitar, 14 Batkun Str. Floor 3, Office 5, ZIP 1510, Sofia, Bulgaria",
+         "countrycode":"bg"
     },
      {
       "country": "Nijerya",
@@ -78,7 +90,9 @@
       "telone": "2348098023450",
       "teltwo": "",
       "email": "litepos@outlook.com",
-      "adress": "No. 2 Dr. Okey Onuzo Street, Greenland Estate, Mende Maryland, Lagos"
+      "adress": "No. 2 Dr. Okey Onuzo Street, Greenland Estate, Mende Maryland, Lagos",
+               "countrycode":"ng"
+
     },
      {
       "country": "Fildişi Sahili",
@@ -86,7 +100,9 @@
       "telone": "225 2722497630",
       "teltwo": "",
       "email": "info@imasoftgroup.com",
-      "adress": "Riviera Plameraie, Cocody, Abidjan, Côté d’Ivoire"
+      "adress": "Riviera Plameraie, Cocody, Abidjan, Côté d’Ivoire",
+                     "countrycode":"ci"
+
     },
      {
       "country": "Fas",
@@ -94,7 +110,9 @@
       "telone": "212 666 940 613",
       "teltwo": "",
       "email": "kyassin@anfasolutions.com",
-      "adress": "TechnoPark Casa Bureau 208 Etage 2 BD Fès Californie, Casablanca - Morocco"
+      "adress": "TechnoPark Casa Bureau 208 Etage 2 BD Fès Californie, Casablanca - Morocco",
+                           "countrycode":"ma"
+
     },
      {
       "country": "Hindistan",
@@ -102,7 +120,9 @@
       "telone": "91 - 98183 - 77763",
       "teltwo": "",
       "email": "rajeev@elektraweb.com",
-      "adress": "D 312 Confident Atik Sompura Gate Sarjapur, Bangalore Zip code 562125"
+      "adress": "D 312 Confident Atik Sompura Gate Sarjapur, Bangalore Zip code 562125",
+                                 "countrycode":"in"
+
     },
     {
       "country": "Malezya",
@@ -110,7 +130,9 @@
       "telone": "+604 637 1700",
       "teltwo": "",
       "email": "hello@arrowood.com.my",
-      "adress": "D-19-1 Lorong Bayan Indah 2, Bay Avenue, 11900 Sungai Nibong, Bayan Lepas. Penang. Malaysia"
+      "adress": "D-19-1 Lorong Bayan Indah 2, Bay Avenue, 11900 Sungai Nibong, Bayan Lepas. Penang. Malaysia",
+                                       "countrycode":"my"
+
     },
     {
       "country": "Fransa",
@@ -118,7 +140,9 @@
       "telone": "+33 (0)668503080",
       "teltwo": "",
       "email": "contact@ypad-agency.com",
-      "adress": "10 Rue de Pentheivre 75008 Paris"
+      "adress": "10 Rue de Pentheivre 75008 Paris",
+                                             "countrycode":"fr"
+
     },
     {
       "country": "Gürcistan",
@@ -126,7 +150,9 @@
       "telone": "+994 55 826 86 80",
       "teltwo": "",
       "email": "info@citymody.com",
-      "adress": "Molla Vali Vidadi caddesi 119, Yasamal rayonu, Baku"
+      "adress": "Molla Vali Vidadi caddesi 119, Yasamal rayonu, Baku",
+                                             "countrycode":"ge"
+
     }
   ],
   "en": [
@@ -136,7 +162,10 @@
       "telone": "+44 78 2677 1711",
       "teltwo": "+44 20 3290 2712",
       "email": "info@elektraweb.com",
-      "adress": "33 Queen Street, Floor 1/Office 01-112 London EC4R 1AP United Kingdom"
+      "adress": "33 Queen Street, Floor 1/Office 01-112 London EC4R 1AP United Kingdom",
+                                                   "countrycode":"uk"
+
+      
     },
     {
       "country": "United States of America",
@@ -144,7 +173,9 @@
       "telone": "+1 (347) 708-0203",
       "teltwo": "",
       "email": "info@elektraweb.com",
-      "adress": "10400 NE 4th St #500, Bellevue, WA 98004 USA"
+      "adress": "10400 NE 4th St #500, Bellevue, WA 98004 USA",
+                                                   "countrycode":"us"
+
     },
      {
       "country": "Dubai",
@@ -152,7 +183,9 @@
       "telone": "+971504378337",
       "teltwo": "",
       "email": "info@ba-mea.com",
-      "adress": "D68, AL Jaddaf, Dubai B1101-63 Grand Tower Offices, AMFZ"
+      "adress": "D68, AL Jaddaf, Dubai B1101-63 Grand Tower Offices, AMFZ",
+                                                   "countrycode":"ae"
+
     },
      {
       "country": "Romania",
@@ -160,7 +193,9 @@
       "telone": "0758 863 293",
       "teltwo": "",
       "email": "rebegia.alex@yahoo.com",
-      "adress": "Aleea Tiparului, nr, 14 Piatra Neamt, judetul Neamt"
+      "adress": "Aleea Tiparului, nr, 14 Piatra Neamt, judetul Neamt",
+                                                   "countrycode":"ro"
+
     },
     {
       "country": "Pakistan",
@@ -168,7 +203,9 @@
       "telone": "+92-21-34380069",
       "teltwo": "",
       "email": "elektraweb@visiontrading.com.pk",
-      "adress": "225/1/G,Block 2, P.E.C.H.S., Karachi, Pakistan"
+      "adress": "225/1/G,Block 2, P.E.C.H.S., Karachi, Pakistan",
+                                                   "countrycode":"pk"
+
     },
      {
       "country": "Egypt",
@@ -176,7 +213,9 @@
       "telone": "+20233357381",
       "teltwo": "",
       "email": "info@robustbt.com",
-      "adress": "105 El Sudan Street,Giza P.O.Box:12411"
+      "adress": "105 El Sudan Street,Giza P.O.Box:12411",
+                                                         "countrycode":"eg"
+
     },
      {
       "country": "Bonaire, Aruba and Curacao",
@@ -184,7 +223,9 @@
       "telone": "5999 6708331",
       "teltwo": "",
       "email": "vanessa@solutech.cloud",
-      "adress": "aracasbaai weg 199A Willemstad, Curaçao"
+      "adress": "aracasbaai weg 199A Willemstad, Curaçao",
+                                                         "countrycode":"aw"
+
     },
     {
       "country": "Belgium",
@@ -192,7 +233,9 @@
       "telone": "+32(0)52/46.27.25",
       "teltwo": "",
       "email": "pierre.calcus@elektraweb.com",
-      "adress": "Terlinden, 105 - 1785 Merchtem - BELGIUM"
+      "adress": "Terlinden, 105 - 1785 Merchtem - BELGIUM",
+                                                         "countrycode":"be"
+
     },
     {
       "country": "Bulgaria",
@@ -200,7 +243,9 @@
       "telone": "+359 888 613 478",
       "teltwo": "",
       "email": "sales@erp.agency",
-      "adress": "H.E. Hadji Dimitar, 14 Batkun Str. Floor 3, Office 5, ZIP 1510, Sofia, Bulgaria"
+      "adress": "H.E. Hadji Dimitar, 14 Batkun Str. Floor 3, Office 5, ZIP 1510, Sofia, Bulgaria",
+                                                         "countrycode":"bg"
+
     },
      {
       "country": "Nigeria",
@@ -208,7 +253,9 @@
       "telone": "2348098023450",
       "teltwo": "",
       "email": "litepos@outlook.com",
-      "adress": "No. 2 Dr. Okey Onuzo Street, Greenland Estate, Mende Maryland, Lagos"
+      "adress": "No. 2 Dr. Okey Onuzo Street, Greenland Estate, Mende Maryland, Lagos",
+                                                         "countrycode":"bg"
+
     },
      {
       "country": "Ivory Coast",
@@ -216,7 +263,9 @@
       "telone": "225 2722497630",
       "teltwo": "",
       "email": "info@imasoftgroup.com",
-      "adress": "Riviera Plameraie, Cocody, Abidjan, Côté d’Ivoire"
+      "adress": "Riviera Plameraie, Cocody, Abidjan, Côté d’Ivoire",
+                                                         "countrycode":"ci"
+
     },
      {
       "country": "Morocco",
@@ -224,7 +273,9 @@
       "telone": "212 666 940 613",
       "teltwo": "",
       "email": "kyassin@anfasolutions.com",
-      "adress": "TechnoPark Casa Bureau 208 Etage 2 BD Fès Californie, Casablanca - Morocco"
+      "adress": "TechnoPark Casa Bureau 208 Etage 2 BD Fès Californie, Casablanca - Morocco",
+                                                         "countrycode":"ma"
+
     },
      {
       "country": "India",
@@ -232,7 +283,9 @@
       "telone": "91 - 98183 - 77763",
       "teltwo": "",
       "email": "rajeev@elektraweb.com",
-      "adress": "D 312 Confident Atik Sompura Gate Sarjapur, Bangalore Zip code 562125"
+      "adress": "D 312 Confident Atik Sompura Gate Sarjapur, Bangalore Zip code 562125",
+                                                         "countrycode":"in"
+
     },
     {
       "country": "Malaysia",
@@ -240,7 +293,9 @@
       "telone": "+604 637 1700",
       "teltwo": "",
       "email": "hello@arrowood.com.my",
-      "adress": "D-19-1 Lorong Bayan Indah 2, Bay Avenue, 11900 Sungai Nibong, Bayan Lepas. Penang. Malaysia"
+      "adress": "D-19-1 Lorong Bayan Indah 2, Bay Avenue, 11900 Sungai Nibong, Bayan Lepas. Penang. Malaysia",
+                                                               "countrycode":"my"
+
     },
      {
       "country": "France",
@@ -248,7 +303,9 @@
       "telone": "+33 (0)668503080",
       "teltwo": "",
       "email": "contact@ypad-agency.com",
-      "adress": "10 Rue de Pentheivre 75008 Paris"
+      "adress": "10 Rue de Pentheivre 75008 Paris",
+                                                               "countrycode":"fr"
+
     },
     {
       "country": "Georgia",
@@ -256,7 +313,9 @@
       "telone": "+994 55 826 86 80",
       "teltwo": "",
       "email": "info@citymody.com",
-      "adress": "Molla Vali Vidadi caddesi 119, Yasamal rayonu, Baku"
+      "adress": "Molla Vali Vidadi caddesi 119, Yasamal rayonu, Baku",
+                                                               "countrycode":"ge"
+
     }
   ]
 }
