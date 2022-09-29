@@ -135,6 +135,15 @@
         "city": "Antalya",
         "mail": "burcu.yilmaz@ersas.com"
       },
+        {
+        "name": "Kemal Berke DURAN",
+        "title": "Yaz\u0131l\u0131m M\u00fchendisi",
+        "img": "https://www.elektraweb.com/wp-content/uploads/2022/03/kemalberkeduran.jpeg",
+        "gsm": "",
+        "tel": "+90 242 227 91 00",
+        "city": "Antalya",
+        "mail": "kemal.duran@elektraweb.com "
+      },
       {
         "name": "Mahmut B\u0130LG\u0130",
         "title": "Yaz\u0131l\u0131m Uzman\u0131",
@@ -297,6 +306,20 @@
         "city": "Antalya",
         "mail": "seda.celebi@elektraweb.com "
       },
+      
+        {
+        "name": "Semih UYANIK",
+        "title": "E\u011fitim Destek Uzman\u0131",
+        "img": "https://www.elektraweb.com/wp-content/ekibimiz-images/semihuyanik.jpg",
+        "gsm": "+90 530 222 32 13",
+        "tel": "+90 242 227 91 00",
+        "city": "Antalya",
+        "mail": "semih.uyanık@elektraweb.com"
+      },
+      
+      
+      
+      
       {
         "name": "MERVE \u00d6ZDEM\u0130R",
         "title": "ERP E\u011fitim Destek Uzman\u0131",
