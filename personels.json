@@ -472,7 +472,7 @@
                 "tel": "+90 242 227 91 00",
                 "gsm": "0 533 294 79 04",
                 "city": "ANTALYA",
-                "mail": "yusuf.unverelektraweb.com"
+                "mail": "yusuf.unver@elektraweb.com"
             },
             {
                 "name": "Kürşat KALENDER",
@@ -982,6 +982,15 @@
                 "tel": "+90 216 361 62 00",
                 "city": "İSTANBUL",
                 "mail": "meral.gurdap@talyabilisim.com.tr"
+            },
+             {
+                "name": "Nesrin Özgül",
+                "title": "İstanbul – İdari Asistan",
+                "img": "https://www.elektraweb.com/wp-content/ekibimiz-images/nesrinozgul.jpg",
+                "gsm": "+90 534 591 16 27",
+                "tel": "+90 216 361 62 00",
+                "city": "İSTANBUL",
+                "mail": "nesrin.ozgul@talyabilisim.net"
             }
         ]
     }
