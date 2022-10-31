@@ -14,16 +14,18 @@
     "url": "",
     "logo": "https://www.elektraweb.com/wp-content/uploads/2019/05/oie_transparent-28.png"
   },
-  {
-    "name": "Orbitz",
-    "url": "",
-    "logo": "https://www.elektraweb.com/wp-content/uploads/2019/05/orbitz.png"
-  },
+ 
   {
     "name": "Hotels.com",
     "url": "",
     "logo": "https://www.elektraweb.com/wp-content/uploads/2019/05/hotelscom.png"
   },
+   {
+    "name": "AirBnb",
+    "url": "",
+    "logo": "https://elektrawebfiles.blob.core.windows.net/bdcac343/1842cbce-2176-3464-8ad9-3b06402d9000.png"
+  }
+  ,
   {
     "name": "travelocity",
     "url": "",
@@ -104,6 +106,13 @@
     "url": "",
     "logo": "https://www.elektraweb.com/wp-content/uploads/2021/02/sunhotels_logo.png"
   },
+  
+   {
+    "name": "Orbitz",
+    "url": "",
+    "logo": "https://www.elektraweb.com/wp-content/uploads/2019/05/orbitz.png"
+  },
+  
   {
     "name": "mr Smith",
     "url": "",
