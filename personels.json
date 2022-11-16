@@ -91,7 +91,7 @@
                 "mail": "cihat.yilmaz@talyabilisim.com.tr"
             },
             {
-                "name": "Sıla ÜNAL",
+                "name": "Saliha Sıla ÜNAL",
                 "title": "Yazılım Mühendisi",
                 "img": "https://www.elektraweb.com/wp-content/uploads/2022/03/sila.jpg",
                 "gsm": "",
@@ -290,7 +290,7 @@
                 "mail": "eren.akin@talyabilisim.net"
             },
             {
-                "name": "SEDA ÇELEBİ",
+                "name": "Seda ÇELEBİ",
                 "title": "Eğitim Destek Uzmanı",
                 "img": "https://www.elektraweb.com/wp-content/ekibimiz-images/sedacelebi.jpg",
                 "gsm": "+90 242 227 91 00",
@@ -540,7 +540,7 @@
             {
                 "name": "İlayda YASEMİN",
                 "title": "Eğitim Destek Uzmanı",
-                "img": "https://www.elektraweb.com/wp-content/uploads/2022/03/ILAYDA.jpeg",
+                "img": "https://www.elektraweb.com/wp-content/ekibimiz-images/ilayda-yasemin.jpg",
                 "gsm": "0 533 278 80 99",
                 "tel": "+90 242 227 91 00",
                 "city": "ANTALYA",
@@ -575,13 +575,22 @@
                 "mail": "faruk.bekmez@elektraweb.com"
             },
             {
-                "name": "Naz Güneş",
+                "name": "Naz GÜNEŞ",
                 "title": "Eğitim Destek Uzmanı",
                 "img": "https://www.elektraweb.com/wp-content/ekibimiz-images/nazgunes.jpg",
                 "tel": "+90 242 227 91 00",
                 "gsm": "",
                 "city": "ANTALYA",
                 "mail": "naz.gunes@elektraweb.com"
+            },
+            {
+                "name": "Fırat GEMALMAZ",
+                "title": "Eğitim Destek Uzmanı",
+                "img": "https://www.elektraweb.com/wp-content/ekibimiz-images/firat-gemalmaz.jpg",
+                "tel": "+90 538 394 16 98",
+                "gsm": "",
+                "city": "ANTALYA",
+                "mail": "firat.gemalmaz@elektraweb.com"
             },
             {
                 "name": "İrem KARACAOĞLU",
@@ -641,7 +650,16 @@
                 "gsm": "",
                 "tel": "+90 242 227 91 00",
                 "city": "ANTALYA",
-                "mail": "baris.aydemir@elektraweb.com "
+                "mail": "baris.aydemir@elektraweb.com"
+            },
+             {
+                "name": "Sebile EROĞLU",
+                "title": "Call Center",
+                "img": "https://www.elektraweb.com/wp-content/ekibimiz-images/sebile-eroglu.jpg",
+                "gsm": "",
+                "tel": "+90 242 227 91 00",
+                "city": "ANTALYA",
+                "mail": "sebile.eroglu@elektraweb.com"
             }
         ]
     },
@@ -884,7 +902,7 @@
         "personels": [
 
            {
-                "name": "İhsan Guzey",
+                "name": "İhsan GÜZEY",
                 "title": "İdari Müdür",
                 "img": "https://www.elektraweb.com/wp-content/ekibimiz-images/ihsanguzey.jpg",
                 "gsm": "+90 538 544 62 61",
@@ -984,7 +1002,7 @@
                 "mail": "meral.gurdap@talyabilisim.com.tr"
             },
              {
-                "name": "Nesrin Özgül",
+                "name": "Nesrin ÖZGÜL",
                 "title": "İstanbul – İdari Asistan",
                 "img": "https://www.elektraweb.com/wp-content/ekibimiz-images/nesrinozgul.jpg",
                 "gsm": "+90 534 591 16 27",
