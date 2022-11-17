@@ -189,7 +189,15 @@
                 "city": "Antalya",
                 "mail": "hamza@elektraweb.com"
             },
-            
+            {
+                "name": "Murat TÜRKMEN",
+                "title": "Yazılım Uzmanı",
+                "img": "https://www.elektraweb.com/wp-content/ekibimiz-images/murat-turkmen.jpg",
+                "gsm": "",
+                "tel": "+90 242 227 91 00",
+                "city": "Antalya",
+                "mail": "murat.turkmen@elektraweb.com"
+            },
             {
                 "name": "Berna KOCA",
                 "title": "Eğitim ve Destek Koordinatörü",
