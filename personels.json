@@ -191,7 +191,7 @@
             },
             {
                 "name": "Murat TÜRKMEN",
-                "title": "Yazılım Uzmanı",
+                "title": "Bilgisayar Mühendisi",
                 "img": "https://www.elektraweb.com/wp-content/ekibimiz-images/murat-turkmen.jpg",
                 "gsm": "",
                 "tel": "+90 242 227 91 00",
@@ -315,7 +315,6 @@
                 "city": "Antalya",
                 "mail": "semih.uyanık@elektraweb.com"
             },
-
             {
                 "name": "Uğurcan GÜNDOĞDU",
                 "title": "Eğitim Destek Uzmanı",
@@ -325,18 +324,16 @@
                 "city": "İstanbul",
                 "mail": "ugurcan.gundogdu@elektraweb.com"
             },
-
-           {
+            {
                 "name": "Gökhan TİRYAKİ",
                 "title": "Eğitim Destek Uzmanı",
                 "img": "https://www.elektraweb.com/wp-content/ekibimiz-images/gokhantiryaki.jpg",
-                  "gsm": "+90 538 014 59 63",
+                "gsm": "+90 538 014 59 63",
                 "tel": "+90 216 361 62 00",
                 "city": "İstanbul",
                 "mail": "gokhan.tiryaki@elektraweb.com"
             },
-
-           {
+            {
                 "name": "Teoman İBİLİ",
                 "title": "ERP Yazılım Grubu Başkanı",
                 "img": "https://www.medisoft.com.tr/wp-content/uploads/2019/10/teomanibili.png",
@@ -345,7 +342,6 @@
                 "city": "Antalya",
                 "mail": "teoman.ibili@talyabilisim.net"
             },
-
             {
                 "name": "Ergün KARATEKİN",
                 "title": "ERP Eğitim ve Destek Şefi",
@@ -436,7 +432,7 @@
                 "city": "Antalya",
                 "mail": "merve.ozdemir@elektraweb.com"
             },
-          {
+            {
                 "name": "Yasemin ADIGUZEL",
                 "title": "ERP Eğitim Destek Uzmanı",
                 "img": "https://www.elektraweb.com/wp-content/ekibimiz-images/yaseminadiguzel.jpg",
@@ -445,7 +441,7 @@
                 "city": "Antalya",
                 "mail": "yasemin.adiguzel@elektraweb.com"
             },
-           {
+            {
                 "name": "Feray ÖZDÖL",
                 "title": "ERP Eğitim Destek Uzmanı",
                 "img": "https://www.elektraweb.com/wp-content/ekibimiz-images/ferayozdol.jpg",
@@ -454,21 +450,47 @@
                 "city": "Antalya",
                 "mail": "feray.ozdol@elektraweb.com "
             },
-
-                      {
+            {
                 "name": "Ferit YETİK",
                 "title": "Kanal Yönetimi Takım Lideri",
                 "img": "https://www.elektraweb.com/wp-content/uploads/2022/03/ferit.jpg",
                 "tel": "+90 242 227 91 00",
-                "gsm": "0 533 084 72 97",
+                "gsm": "+90 533 084 72 97",
                 "city": "ANTALYA",
                 "mail": "ferit.yetik@elektraweb.com"
+            },
+            {
+                "name": "İrem DİNÇ",
+                "title": "Eğitim Destek Uzmanı",
+                "img": "https://www.elektraweb.com/wp-content/ekibimiz-images/irem-dinc.jpg",
+                "gsm": "",
+                "tel": "+90 242 227 91 00",
+                "city": "ANTALYA",
+                "mail": "irem.dinc@elektraweb.com"
+            },
+            {
+                "name": "Sezin TOKLU",
+                "title": "Eğitim Destek Uzmanı",
+                "img": "https://www.elektraweb.com/wp-content/ekibimiz-images/sezin-toklu.jpg",
+                "gsm": "+90 531 680 79 07",
+                "tel": "+90 242 227 91 00",
+                "city": "ANTALYA",
+                "mail": "sezin.toklu@elektraweb.com"
+            },
+            {
+                "name": "Tümer Utku KARAKUŞ",
+                "title": "Eğitim Destek Uzmanı",
+                "img": "https://www.elektraweb.com/wp-content/ekibimiz-images/utku-karakus.jpg",
+                "gsm": "",
+                "tel": "+90 242 227 91 00",
+                "city": "ANTALYA",
+                "mail": "utku.karakus@elektraweb.com"
             },
             {
                 "name": "Batuhan YEŞİLGÜL",
                 "title": "Eğitim Destek Uzmanı",
                 "img": "https://www.elektraweb.com/wp-content/webp-express/webp-images/uploads/2022/03/batu.png.webp",
-                "gsm": "0 531 680 84 66",
+                "gsm": "+90 531 680 84 66",
                 "tel": "+90 242 227 91 00",
                 "city": "ANTALYA",
                 "mail": "batuhan.yesilgul@talyabilisim.net"
@@ -563,7 +585,6 @@
                 "city": "ANTALYA",
                 "mail": "berkay.kaya@talyabilisim.com.tr"
             },
-
             {
                 "name": "Can KIRMIZIGÜL",
                 "title": "Eğitim Destek Uzmanı",
@@ -601,6 +622,15 @@
                 "mail": "firat.gemalmaz@elektraweb.com"
             },
             {
+                "name": "Oğuzcan İşbilirler",
+                "title": "Eğitim Destek Uzmanı",
+                "img": "https://www.elektraweb.com/wp-content/ekibimiz-images/oguzcan-isbilirler.jpg",
+                "gsm": "",
+                "tel": "+90 242 227 91 00",
+                "city": "ANTALYA",
+                "mail": "oguzcan.isbilirler@elektraweb.com"
+            },
+            {
                 "name": "İrem KARACAOĞLU",
                 "title": "Dijital Satış Şefi",
                 "img": "https://www.elektraweb.com/wp-content/uploads/2022/03/iremknew.jpg",
@@ -609,7 +639,7 @@
                 "city": "ANTALYA",
                 "mail": "irem.karacaoglu@talyabilisim.net"
             },
-          {
+            {
                 "name": "Ebru TOPCU",
                 "title": "Dijital Marketing Uzmanı",
                 "img": "https://www.elektraweb.com/wp-content/uploads/2022/03/EBRUUUUUU.jpg",
@@ -651,7 +681,7 @@
                 "city": "ANTALYA",
                 "mail": "eylul.gokgoz@elektraweb.com"
             },
-             {
+            {
                 "name": "Barış AYDEMİR",
                 "title": "Call Center",
                 "img": "https://www.elektraweb.com/wp-content/ekibimiz-images/barisaydemir.jpg",
@@ -659,15 +689,6 @@
                 "tel": "+90 242 227 91 00",
                 "city": "ANTALYA",
                 "mail": "baris.aydemir@elektraweb.com"
-            },
-             {
-                "name": "Sebile EROĞLU",
-                "title": "Call Center",
-                "img": "https://www.elektraweb.com/wp-content/ekibimiz-images/sebile-eroglu.jpg",
-                "gsm": "",
-                "tel": "+90 242 227 91 00",
-                "city": "ANTALYA",
-                "mail": "sebile.eroglu@elektraweb.com"
             }
         ]
     },
@@ -675,7 +696,6 @@
         "grupName": "Medisoft Teknik Ekip",
         "hide": false,
         "personels": [
-           
             {
                 "name": "Erhan NACIR",
                 "title": "Medisoft Grubu Yazılım Koordinatörü",
@@ -752,7 +772,7 @@
                 "name": "Mustafa YILDIZ",
                 "title": "Medisoft Grubu Eğitim Destek Uzmanı",
                 "img": "https://www.medisoft.com.tr/wp-content/uploads/2019/11/mustafayildiz.png",
-                "gsm": "0 533 934 89 03",
+                "gsm": "+90 533 278 80 93",
                 "tel": "+90 850 777 0 633",
                 "city": "Antalya",
                 "mail": "mustafa.yildiz@talyabilisim.net"
@@ -808,7 +828,6 @@
                 "city": "ANTALYA",
                 "mail": "emre.kurt@talyabilisim.com.tr"
             },
-            
             {
                 "name": "Haluk ORAL",
                 "title": "Satış Yöneticisi",
@@ -908,8 +927,7 @@
         "grupName": "İdari Ekip",
         "hide": false,
         "personels": [
-
-           {
+            {
                 "name": "İhsan GÜZEY",
                 "title": "İdari Müdür",
                 "img": "https://www.elektraweb.com/wp-content/ekibimiz-images/ihsanguzey.jpg",
@@ -918,7 +936,6 @@
                 "city": "ANTALYA",
                 "mail": "ihsan.guzey@elektraweb.com"
             },
-          
             {
                 "name": "Canan AKÖZLÜ",
                 "title": "Muhasebe & Finans Sorumlusu",
@@ -1009,7 +1026,7 @@
                 "city": "İSTANBUL",
                 "mail": "meral.gurdap@talyabilisim.com.tr"
             },
-             {
+            {
                 "name": "Nesrin ÖZGÜL",
                 "title": "İstanbul – İdari Asistan",
                 "img": "https://www.elektraweb.com/wp-content/ekibimiz-images/nesrin-ozgul.jpg",
