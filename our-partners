@@ -316,6 +316,16 @@
       "adress": "Molla Vali Vidadi caddesi 119, Yasamal rayonu, Baku",
                                                                "countrycode":"ge"
 
+    },
+    {
+      "country": "Uzbekistan",
+      "partnername": "Crea Retail Solutions MCJU",
+      "telone": "+998 77 001 48 63",
+      "teltwo": "",
+      "email": "info@crea.uz",
+      "adress": "Taşkent, Shaykhantakhurskiy Rayon, Charkhnovza MFY, Samarkand Darvoza Küçesi, 1",
+      "countrycode":"uz"
+
     }
   ]
 }
