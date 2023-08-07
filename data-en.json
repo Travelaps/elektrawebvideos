@@ -2,6 +2,15 @@
   {
     "videoGrup": "Summary",
     "videos": [
+
+        {
+        "videoName": "Introduction",
+        "videoDescription": "",
+        "youtubeVideoID": "itP-0B3wnb8",
+        "videoTime": "01:29",
+        "videoIntTime": 1.29
+      },
+      
       {
         "videoName": "Why Elektraweb?",
         "videoDescription": "ElektraWeb is the most comprehensive cloud hotel management solution on the market; it is a full PMS including booking engine, channel manager, rate manager, POS, and other additional modules. It has all the features and functions your hotel may need.",
@@ -9,6 +18,8 @@
         "videoTime": "04:39",
         "videoIntTime": 4.39
       },
+
+      
 
        {
         "videoName": "How to Setup",
