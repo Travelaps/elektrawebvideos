@@ -1,32 +1,18 @@
 [
   {
-    "videoGrup": "ElektraWeb",
+    "videoGrup": "Raporlar",
     "videos": [
       {
-        "videoName": "ElektraWeb - Efatura Eğitimi - Kadircan Başal",
+        "videoName": "Raporlar Eğitimi 1 - Eda Yılmaz - 20.10.2023",
         "videoDescription":"",
-        "youtubeVideoID": "HxrYtwEOY-M",
-        "videoTime": "05:43",
-        "videoIntTime": 5.43
-      },
-      {
-        "videoName": "ElektraWeb - Genel Önbüro Eğitimi - Cankut Tankut",
-        "videoDescription": "",
-        "youtubeVideoID": "1FQnoLdbSb0",
-        "videoTime": "114:49",
-        "videoIntTime": 114.49
-      },
-      {
-        "videoName": "ElektraWeb - SPA Eğitimi - Mehmet Erçil",
-        "videoDescription": "",
-        "youtubeVideoID": "dabGvOeDKpM",
-        "videoTime": "50:15",
-        "videoIntTime": 50.15
+        "youtubeVideoID": "_cmwZI-5YMs",
+        "videoTime": "84:19",
+        "videoIntTime": 84:19
       }
     ]
   },
   {
-    "videoGrup": "Test",
+    "videoGrup": "Ön Büro",
     "videos": [
       {
         "videoName": "Test1",
