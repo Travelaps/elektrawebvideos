@@ -1,16 +1,5 @@
 [
-  {
-    "videoGrup": "Raporlar",
-    "videos": [
-      {
-        "videoName": "Raporlar Eğitimi 1 - Eda Yılmaz - 20.10.2023",
-        "videoDescription":"",
-        "youtubeVideoID": "_cmwZI-5YMs",
-        "videoTime": "84:20",
-        "videoIntTime": 84.20
-      }
-    ]
-  },
+
   {
     "videoGrup": "Ön Büro",
     "videos": [
@@ -42,6 +31,26 @@
       }
     ]
   },
+    {
+    "videoGrup": "Raporlar",
+    "videos": [
+      {
+        "videoName": "Raporlar Eğitimi 1 - Eda Yılmaz - 20.10.2023",
+        "videoDescription":"",
+        "youtubeVideoID": "_cmwZI-5YMs",
+        "videoTime": "84:20",
+        "videoIntTime": 84.20
+      },
+       {
+        "videoName": "Raporlar Eğitimi 2 - Eda Yılmaz - 27.10.2023",
+        "videoDescription":"",
+        "youtubeVideoID": "Hj1HWMDXmIA",
+        "videoTime": "52:25",
+        "videoIntTime": 52.25
+      }
+    ]
+  },
+  
   {
     "videoGrup": "E-Adisyon",
     "videos": [
