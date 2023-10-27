@@ -29,5 +29,30 @@
         "videoIntTime": 21.18
       }
     ]
-  }]
+  },
+  {
+    "videoGrup": "Kanal Yönetimi",
+    "videos": [
+      {
+        "videoName": "Kanal Yönetimi Eğitimi 1 - Ferit Yetik - 25.10.2023",
+        "videoDescription":"",
+        "youtubeVideoID": "80AudPHmctU",
+        "videoTime": "72:07",
+        "videoIntTime": 72.07
+      }
+    ]
+  },
+  {
+    "videoGrup": "E-Adisyon",
+    "videos": [
+      {
+        "videoName": "E-adisyon Eğitimi 1 - 26.10.2023",
+        "videoDescription":"",
+        "youtubeVideoID": "pReoJcdUI6A",
+        "videoTime": "19:22",
+        "videoIntTime": 19.22
+      }
+    ]
+  }
+]
   
