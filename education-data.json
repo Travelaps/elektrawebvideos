@@ -50,7 +50,34 @@
       }
     ]
   },
-  
+  {
+    "videoGrup": "POS",
+    "videos": [
+      {
+        "videoName": "POS Eğitimi - Özkan Turan - 09.11.2023",
+        "videoDescription":"",
+        "youtubeVideoID": "-9fbpGRHuGQ",
+        "videoTime": "88:28",
+        "videoIntTime": 88.28
+      },
+      {
+    "videoGrup": "SPA",
+    "videos": [
+      {
+        "videoName": "SPA Eğitimi - Gülsüm Çayır - 07.11.2023 - Part1",
+        "videoDescription":"",
+        "youtubeVideoID": "dhB5-pEZ4uU",
+        "videoTime": "11:52",
+        "videoIntTime": 11.52
+      },
+      {
+        "videoName": "SPA Eğitimi - Gülsüm Çayır - 07.11.2023 - Part2",
+        "videoDescription":"",
+        "youtubeVideoID": "IxPFx21Cq44",
+        "videoTime": "33:15",
+        "videoIntTime": 33.15
+      },
+      
   {
     "videoGrup": "E-Adisyon",
     "videos": [
