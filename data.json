@@ -1545,7 +1545,29 @@
         "youtubeVideoID": "dQtAZGf2iOA",
         "videoTime": "00:52",
         "videoIntTime": 0.52
+  },
+       {
+        "videoName": "Webpos giriş ekranı nasıl kullanılır?",
+        "videoDescription": "",
+        "youtubeVideoID": "tgPs4KwvMM4",
+        "videoTime": "00:56",
+        "videoIntTime": 0.56
+  },
+ {
+        "videoName": "KBS Eklenti  Nasıl Kurulur?",
+        "videoDescription": "",
+        "youtubeVideoID": "VnINFv6ZJ9U",
+        "videoTime": "01:12",
+        "videoIntTime": 1.12
+  },
+      {
+        "videoName": "Yeni harcama ödeme ekleme eylemi nedir, nasıl kullanılır?",
+        "videoDescription": "",
+        "youtubeVideoID": "kPOdTN6lGtc",
+        "videoTime": "01:32",
+        "videoIntTime": 1.32
   }
+      
 ]
     }
 ]
