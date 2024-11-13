@@ -486,13 +486,6 @@
         "videoIntTime": 1.32
       },
       {
-        "videoName": "Listeden Çıkış İşlemleri Nasıl Yapılır?",
-        "videoDescription": "Konaklayan Listesinden C-out işlemi nasıl yapılır?",
-        "youtubeVideoID": "Q-DrJC-T0T0",
-        "videoTime": "00:24",
-        "videoIntTime": 0.24
-      },
-      {
         "videoName": "C-in işlemi yapılabilen oda durumları nasıl ayarlanır?",
         "videoDescription": "Oda durumu kirli olan rezervasyonlarda c-in işlemi yapılamaz. Bu durumu parametrik olarak nasıl değiştirebilirsiniz?",
         "youtubeVideoID": "QBw9SrBd0uQ",
