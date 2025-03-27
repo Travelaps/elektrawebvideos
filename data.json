@@ -337,13 +337,13 @@
         "videoTime": "15:02",
         "videoIntTime": 15.02
       },
-      {
-        "videoName": "Rezervasyon Kartındaki İşler Bölümü Nasıl Kullanılır?",
-        "videoDescription": "Rezervasyon kartındaki işler butonunun detaylı anlatımı",
-        "youtubeVideoID": "Av3vITJ0FsY",
-        "videoTime": "16:28",
-        "videoIntTime": 16.28
-      },
+       {
+        "videoName": "Rezervasyon Kartındaki İşler Bölümü Nasıl Kullanılır ?",
+        "videoDescription": "",
+        "youtubeVideoID": "_ZAo5QeZuIw",
+        "videoTime": "00:48",
+        "videoIntTime": 0.48
+     },
       {
         "videoName": "Rezervasyon Kartındaki Folyo Routing Bölümü Nasıl Kullanılır?",
         "videoDescription": "Rezervasyon kartındaki folyo routing butonunun detaylı anlatımı",
@@ -400,6 +400,13 @@
         "videoTime": "00:47",
         "videoIntTime": 0.47
       },
+       {
+        "videoName": "Yeni harcama ödeme ekleme eylemi nedir, nasıl kullanılır?",
+        "videoDescription": "",
+        "youtubeVideoID": "kPOdTN6lGtc",
+        "videoTime": "01:32",
+        "videoIntTime": 1.32
+     },
       {
         "videoName": "Grup Rezervasyonu Nasıl Oluşturulur ?",
         "videoDescription": "Detaylı grup rezervasyonu nasıl oluşturulur?",
@@ -1510,20 +1517,8 @@
         "videoTime": "01:10",
         "videoIntTime": 1.10
   },
-      {
-        "videoName": "Yeni harcama ödeme ekleme eylemi nedir, nasıl kullanılır?",
-        "videoDescription": "",
-        "youtubeVideoID": "kPOdTN6lGtc",
-        "videoTime": "01:32",
-        "videoIntTime": 1.32
-  },
-       {
-        "videoName": "Rezervasyon Kartındaki İşler Bölümü Nasıl Kullanılır ?",
-        "videoDescription": "",
-        "youtubeVideoID": "_ZAo5QeZuIw",
-        "videoTime": "00:48",
-        "videoIntTime": 0.48
-  }
+
+
       
 ]
     }
