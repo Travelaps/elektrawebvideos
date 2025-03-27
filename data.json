@@ -1388,6 +1388,13 @@
         "videoIntTime": 5.27
       },
       {
+        "videoName": "Webpos giri\u015f ekran\u0131 nas\u0131l kullan\u0131l\u0131r?",
+        "videoDescription": "",
+        "youtubeVideoID": "tgPs4KwvMM4",
+        "videoTime": "00:56",
+        "videoIntTime": 0.56
+      },
+      {
         "videoName": "T\u00fcketim Proses \u0130\u015flemi",
         "videoDescription": "POS sat\u0131\u015flar\u0131n\u0131n, ikram ve \u00f6denmez adisyonlar\u0131n\u0131n re\u00e7etelerine g\u00f6re stok d\u00fc\u015f\u00fcmlerinin yap\u0131lmas\u0131. ",
         "youtubeVideoID": "6Nw8R3uBRrc",
@@ -1501,13 +1508,6 @@
         "youtubeVideoID": "FzWZAgptcpc",
         "videoTime": "04:14",
         "videoIntTime": 4.14
-      },
-      {
-        "videoName": "Webpos giri\u015f ekran\u0131 nas\u0131l kullan\u0131l\u0131r?",
-        "videoDescription": "",
-        "youtubeVideoID": "tgPs4KwvMM4",
-        "videoTime": "00:56",
-        "videoIntTime": 0.56
       }
     ]
   }
