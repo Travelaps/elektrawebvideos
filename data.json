@@ -372,6 +372,13 @@
         "videoTime": "02:24",
         "videoIntTime": 2.24
       },
+        {
+        "videoName": "Folyo Nedir ?",
+        "videoDescription": "",
+        "youtubeVideoID": "dQtAZGf2iOA",
+        "videoTime": "00:52",
+        "videoIntTime": 0.52
+  },
       {
         "videoName": "Folyo Düzeltme İşlemleri Nasıl Yapılır?",
         "videoDescription": "Yanlış girilen folyo işlemleri hangi koşullarda ve hangi yöntemlerle düzeltilebilir?",
@@ -406,6 +413,13 @@
         "youtubeVideoID": "kPOdTN6lGtc",
         "videoTime": "01:32",
         "videoIntTime": 1.32
+     },
+      {
+        "videoName": "Kimlik Bildirim Sistemi Nasıl Kurulur?",
+        "videoDescription": "",
+        "youtubeVideoID": "nQltmxinTEQ",
+        "videoTime": "01:10",
+        "videoIntTime": 1.10
      },
       {
         "videoName": "Grup Rezervasyonu Nasıl Oluşturulur ?",
@@ -511,13 +525,6 @@
         "youtubeVideoID": "TC1Hd4GVrXc",
         "videoTime": "03:21",
         "videoIntTime": 3.21
-      },
-      {
-        "videoName": "Hes Kodu Nasıl Tanımlanır?",
-        "videoDescription": "Misafir sağlık durumu hangi ekranlardan, nasıl takip edilir?",
-        "youtubeVideoID": "3KzEzTNSpW0",
-        "videoTime": "01:24",
-        "videoIntTime": 1.24
       },
       {
         "videoName": "Doluluk Nedir ? Nasıl Kullanılır ? (Forecast)",
@@ -1496,30 +1503,10 @@
         "videoTime": "04:14",
         "videoIntTime": 4.14
       },
-     {
-        "videoName": "Folyo Nedir ?",
-        "videoDescription": "",
-        "youtubeVideoID": "dQtAZGf2iOA",
-        "videoTime": "00:52",
-        "videoIntTime": 0.52
-  },
        {
         "videoName": "Webpos giriş ekranı nasıl kullanılır?",
         "videoDescription": "",
         "youtubeVideoID": "tgPs4KwvMM4",
         "videoTime": "00:56",
         "videoIntTime": 0.56
-  },
- {
-        "videoName": "Kimlik Bildirim Sistemi Nasıl Kurulur?",
-        "videoDescription": "",
-        "youtubeVideoID": "nQltmxinTEQ",
-        "videoTime": "01:10",
-        "videoIntTime": 1.10
-  },
-
-
-      
-]
-    }
-]
+  }
